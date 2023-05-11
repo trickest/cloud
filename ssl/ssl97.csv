@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "63.35.240.133","kube-apiserver","","","","","252bb31ce771304820a5bbd6afc160e3.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-63-136.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.102.150.198|172.16.63.136","false"
 "63.35.240.110","api.test.alphacomm.network","Alphacomm Solutions B.V.","NL","","Zuid-Holland","api.test.alphacomm.network","","false"
 "63.35.240.139","mazda.media","","","","","mazda.media|*.mazda.media","","false"

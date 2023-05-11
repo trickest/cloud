@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "63.35.112.89","kube-apiserver","","","","","dec474376257a27b39ab6b1df543a7e8.yl4.eu-west-1.eks.amazonaws.com|ip-10-0-118-195.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.20.251.192|10.0.118.195","false"
 "63.35.112.94","sigmalogical.com","","","","","sigmalogical.com","","false"
 "63.35.112.85","*.abc.cimpress.io","","","","","*.abc.cimpress.io","","false"
