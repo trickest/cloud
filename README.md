@@ -24,13 +24,21 @@ The [SSL data](./ssl/) is organized into CSV files, with the following propertie
 
 So what can you do with this data?
 ### Enumerate subdomains of your target domains
-Search for your target's domain names (e.g. `example.com`) and find hits in the `Common Name` and `Subject Alternative Name` fields of the collected certificates. All IP ranges are scanned daily and the data gets updated accordingly so you are very likley to find ephemeral hosts before they are taken down.
+Search for your target's domain names (e.g. `example.com`) and find hits in the `Common Name` and `Subject Alternative Name` fields of the collected certificates. All IP ranges are scanned daily and the dataset gets updated accordingly so you are very likley to find ephemeral hosts before they are taken down.
 
 ### Enumerate domains of your target companies
 Search for your target's company name (e.g. `Example, Inc.`), find hits in the `Organization` field, and explore the associated `Common Name` and `Subject Alternative Name` fields. The results will probably include subdomains of the domains you're familiar with and if you're in luck you might find new root domains expanding the scope.
 
 ### Enumerate possible sub-subdomain enumeration target
 If the certificate is issued for a wildcard (e.g. `*.foo.example.com`), chances are there are other subdomains you can find by brute-forcing there. And you know [how effective of this technique](https://twitter.com/trick3st/status/1614974813889794052) can be. Here are some [wordlists](https://github.com/trickest/wordlists/tree/main/inventory/levels) to help you with that!
+
+💡 Note: Remeber to monitor the dataset for daily updates to get notified whenever a new asset comes up!
+
+### Perform IP lookups
+Search for an IP address (e.g. `3.122.37.147`) to find host names associated with it, and explore the `Common Name`, `Subject Alternative Name`, and `Organization` fields to gain find more information about that address.
+
+### Discover origin IP addresses to bypass proxy services
+When a website is hidden behind security proxy services like Cloudflare, Akamai, Incapsula, and others, it is possible to search for the host name (e.g., `example.com`) in the dataset. This search may uncover the origin IP address, allowing you to bypass the proxy. We've discussed a similar technique on our blog which you can find [here](https://trickest.com/blog/cloudflare-bypass-discover-ip-addresses-aws/)!
 
 ### Get a fresh dataset of live web servers
 Each IP address in the dataset corresponds to an HTTPS server running on port 443. You can use this data for large-scale research without needing to spend time collecting it yourself.
