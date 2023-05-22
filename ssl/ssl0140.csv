@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.77.145.34","kube-apiserver","","","","","de512aa5592111f5cf22d9f0c5a1d7a1.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-44-8.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.20.0.24|172.16.44.8","false"
 "52.77.145.38","*.admin.staging.amanotes.net","","","","","*.admin.staging.amanotes.net|*.staging.amanotes.net","","false"
 "52.77.145.55","kube-apiserver","","","","","814599d5bed511b33487a38bf8c3b1f7.yl4.ap-southeast-1.eks.amazonaws.com|ip-10-0-57-0.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.21.24.13|10.0.57.0","false"

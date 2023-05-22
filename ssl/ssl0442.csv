@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.221.124.53","*.bistasolutions.com","","","","","*.bistasolutions.com|bistasolutions.com","","false"
 "54.221.124.49","example.com","","","","","","","true"
 "54.221.124.32","*.wisecut.video","","","","","*.wisecut.video","","false"

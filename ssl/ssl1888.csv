@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.40.163.70","*.dmba.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.dmba.splunkcloud.com|dmba.splunkcloud.com|http-inputs-dmba.splunkcloud.com|*.http-inputs-dmba.splunkcloud.com|akamai-inputs-dmba.splunkcloud.com|*.akamai-inputs-dmba.splunkcloud.com|http-inputs-ack-dmba.splunkcloud.com|*.http-inputs-ack-dmba.splunkcloud.com|http-inputs-firehose-dmba.splunkcloud.com|*.http-inputs-firehose-dmba.splunkcloud.com|*.pvt.dmba.splunkcloud.com|pvt.dmba.splunkcloud.com","","false"
 "52.40.163.74","*.figma.com","","","","","*.figma.com|figma.com","","false"
 "52.40.163.78","kube-apiserver","","","","","d5555f47db24df4ce5635e823fa931e1.sk1.us-west-2.eks.amazonaws.com|ip-10-0-179-90.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.241.149|10.0.179.90","false"

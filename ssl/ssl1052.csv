@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.238.15.115","kube-apiserver","","","","","133ab8c121adf13abc18ae2f83a0444a.yl4.beta.us-west-2.clusters.wesley.amazonaws.com|ip-10-0-181-193.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.116.202|10.0.181.193","false"
 "44.238.15.170","*.aws-oregon-2.svc.singlestore.com","","","","","*.aws-oregon-2.svc.singlestore.com|aws-oregon-2.svc.singlestore.com","","false"
 "44.238.15.226","*.dv.yapstone.com","","","","","*.dv.yapstone.com|dv.yapstone.com","","false"

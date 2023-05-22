@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.168.125.159","kube-apiserver","","","","","4186f6c0caf6f588381ea9e27466b699.gr7.eu-west-2.eks.amazonaws.com|ip-10-0-107-86.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.10.69|10.0.107.86","false"
 "18.168.125.160","*.learningpool.com","Learning Pool Limited","GB","Londonderry","","*.learningpool.com|learningpool.com","","false"
 "18.168.125.166","jobprofiler.rewardsdna.com","","","","","jobprofiler.rewardsdna.com","","false"

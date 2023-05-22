@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.198.143.190","*.channelgrowth.jp","","","","","*.channelgrowth.jp|channelgrowth.jp","","false"
 "52.198.143.191","*.testcfrpanalyzedev.xyz","","","","","*.testcfrpanalyzedev.xyz","","false"
 "52.198.143.196","*.jimuu.jp","","","","","*.jimuu.jp","","false"

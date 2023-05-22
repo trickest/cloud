@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.229.169.205","*.lb.devcloud.extrahop.com","","","","","*.lb.devcloud.extrahop.com","","false"
 "44.229.169.206","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "44.229.169.231","kube-apiserver","","","","","f454b7031705237ade7faf50080c20d0.gr7.us-west-2.eks.amazonaws.com|ip-10-0-107-218.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.89.0|10.0.107.218","false"

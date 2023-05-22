@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.81.19.77","dkr.spencer.us-west-2.amazonaws.com","","","","","dkr.spencer.us-west-2.amazonaws.com","","false"
 "35.81.19.91","kube-apiserver","","","","","d0f75701034f88f430ef2ab1269e81e1.gr7.us-west-2.eks.amazonaws.com|ip-172-16-183-40.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.12.2.47|172.16.183.40","false"
 "35.81.19.109","ec-expediaconnect-hotelreservation-v1.rit.choiceedge.net","","","","","ec-expediaconnect-hotelreservation-v1.rit.choiceedge.net","","false"

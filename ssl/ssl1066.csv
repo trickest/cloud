@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.210.72.41","*.ezdicloud.com","","","","","*.ezdicloud.com","","false"
 "18.210.72.48","test-cgl-data.synchrogenix.com","Certara USA, Inc.","US","Saint Louis","Missouri","test-cgl-data.synchrogenix.com","","false"
 "18.210.72.18","winnebago.momentumsolar.app","","","","","winnebago.momentumsolar.app","","false"

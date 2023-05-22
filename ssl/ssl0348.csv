@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "63.34.199.217","platform2.dts.pl","","","","","platform2.dts.pl","","false"
 "63.34.199.214","*.c4.eu-west-1.airflow.amazonaws.com","","","","","*.c4.eu-west-1.airflow.amazonaws.com","","false"
 "63.34.199.227","kube-apiserver","","","","","d8ca36fff40348d4dadedae41633e14a.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-105-181.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.160.21.221|172.16.105.181","false"

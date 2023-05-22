@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.224.250.193","kube-apiserver","","","","","devek-maste-p3984799ui9y-23534736309504c7.elb.us-west-2.amazonaws.com|ip-172-16-160-144.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.2.196.102|172.16.160.144","false"
 "44.224.250.202","*.a923mmpaozcp.cell1.us-west-2.gamma.madstream.madstudio.aws.dev","","","","","*.a923mmpaozcp.cell1.us-west-2.gamma.madstream.madstudio.aws.dev","","false"
 "44.224.250.206","kube-apiserver","","","","","ab28ad4a5afca687476c85d1725f42e0.yl4.us-west-2.eks.amazonaws.com|ip-10-0-107-95.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.26.116.117|10.0.107.95","false"

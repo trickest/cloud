@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.161.250.147","*.dev.ess.aws.cudaops.com","","","","","*.dev.ess.aws.cudaops.com|*.us-west-2.dev.ess.aws.cudaops.com","","false"
 "35.161.250.151","kube-apiserver","","","","","612ab56c778d9036e57c96461f522bf3.gr7.us-west-2.eks.amazonaws.com|ip-10-0-104-178.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.42.54|10.0.104.178","false"
 "35.161.250.155","*.servpronet.io","","","","","*.servpronet.io","","false"

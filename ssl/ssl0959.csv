@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.233.141.62","*.prod.us.magalog.net","","","","","*.prod.us.magalog.net|*.amazine.com|*.styla.com|*.magalog.net|*.styla.dev|*.stage.eu.magalog.net","","false"
 "34.233.141.69","*.2gno.me","","","","","*.2gno.me|2gno.me","","false"
 "34.233.141.75","www.steamoji.com","","","","","www.steamoji.com|*.steamoji.com","","false"

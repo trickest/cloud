@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.212.198.93","*.simplimuv.us","","","","","*.simplimuv.us|*.niu.simplimuv.us|*.royal-arg.simplimuv.us|*.royal-co.simplimuv.us|*.simpa.simplimuv.us|*.royal-mx.simplimuv.us","","false"
 "3.212.198.98","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com","","false"
 "3.212.198.99","kjv.app","","","","","kjv.app","","false"

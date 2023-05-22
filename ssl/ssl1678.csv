@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.76.157.129","kube-apiserver","","","","","bea50772bb327328c1dc569898e6d3c6.yl4.eu-west-1.eks.amazonaws.com|ip-172-16-43-91.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.12.252|172.16.43.91","false"
 "54.76.157.131","s24-infinity-cluster-4.eu-west-1.infinity.s24cloud.net","","","","","s24-infinity-cluster-4.eu-west-1.infinity.s24cloud.net|*.alias.s24cloud.net|*.is24-mobile.eu-west-1.infinity.s24cloud.net","","false"
 "54.76.157.141","drexcode.com","","","","","drexcode.com|drexcode.it|*.drexcode.it|*.drexcode.com","","false"

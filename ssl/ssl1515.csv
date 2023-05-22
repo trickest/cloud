@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.59.140.113","kubernetes-master","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local|api.us-east-2-k8s.impakt.com|api.internal.us-east-2-k8s.impakt.com","100.64.0.1|127.0.0.1","false"
 "13.59.140.118","countrysidestandardpoodles.com","","","","","countrysidestandardpoodles.com|www.countrysidestandardpoodles.com","","false"
 "13.59.140.133","*.on.axonius.com","","","","","*.on.axonius.com","","false"

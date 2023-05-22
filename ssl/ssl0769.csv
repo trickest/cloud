@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.95.25.250","*.sbibi.co.jp","SBI Business Innovator Co., Ltd.","JP","","Tokyo","*.sbibi.co.jp|sbibi.co.jp","","false"
 "54.95.25.78","redmine.regit-technology.com","","","","","redmine.regit-technology.com","","false"
 "54.95.25.252","*.omros.jp","","","","","*.omros.jp|www.4510arte.jp|recruit.tear.co.jp|newgrad.rinkai-recruiting.com|recruiting.furla.com|career.rinkai-recruiting.com|*.admin.omros-prd.th-svc.net|monocareer.jp|job.joy3.co.jp|*.api.omros.jp|www.job.careerlinkfactory.co.jp","","false"

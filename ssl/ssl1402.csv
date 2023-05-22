@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.86.10.6","fast.airflow.finance.aws.dev","","","","","fast.airflow.finance.aws.dev|awsbdbi.airflow.finance.aws.dev","","false"
 "52.86.9.238","us-east-1.replicant.gc-internal.net","","","","","us-east-1.replicant.gc-internal.net|*.us-east-1.replicant.gc-internal.net","","false"
 "52.86.10.14","kube-apiserver","","","","","bdd5c72af7be8b164d71ba77aa4d7328.gr7.us-east-1.eks.amazonaws.com|ip-172-16-106-180.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.207.41.125|172.16.106.180","false"

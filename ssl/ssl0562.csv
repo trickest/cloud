@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.137.139.82","*.np.vida.id","","","","","*.np.vida.id","","false"
 "108.137.139.88","awswebpre.tdwhaqa.telkomsel.com","","","","","awswebpre.tdwhaqa.telkomsel.com","","false"
 "108.137.139.85","*.sharetreats.id","","","","","*.sharetreats.id|sharetreats.id","","false"

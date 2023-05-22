@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.121.143.225","kube-apiserver","","","","","8e3e7555d29b10a107aec85f95ef930e.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-111-156.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.3.32|172.16.111.156","false"
 "3.121.143.226","10.171.4.40","","","Locality Name (eg, city)","","","","true"
 "3.121.143.230","entitlement.theplatform.eu","","","","","entitlement.theplatform.eu|entitlement.bravo.k8s.ade.theplatform.com|vp.entitlement.theplatform.eu|bskyb.entitlement.theplatform.eu|bt.entitlement.theplatform.eu","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.183.64.14","ip-172-31-23-217","SomeOrganization","--","SomeCity","SomeState","","","true"
 "18.183.63.203","www.spiral-pf.com","T-Memo Inc.","JP","Minato-Ku","Tokyo","www.spiral-pf.com","","false"
 "18.183.64.25","synckit2.viuto-aiot.com","","","","","synckit2.viuto-aiot.com","","false"

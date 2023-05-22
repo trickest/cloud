@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.178.207.182","scc-service.net","","","","","scc-service.net|*.scc-service.net","","false"
 "54.178.207.180","org.e-salus.jp","","","","","e-salus.jp|org.e-salus.jp|www.e-salus.jp","","false"
 "54.178.207.185","*.sanshoku.freee.co.jp","","","","","*.sanshoku.freee.co.jp|*.freee.co.jp|*.yoichi.freee.co.jp|*.ardbeg.freee.co.jp|*.midori.freee.co.jp|*.nishiiwa-admin-web.freee.co.jp|*.midori-admin-web.freee.co.jp|*.nishiiwa.freee.co.jp|*.st-secure.freee.co.jp|*.koshiaka.freee.co.jp|*.ojiro-admin-web.freee.co.jp|*.hakushu.freee.co.jp|*.sanshoku-admin-web.freee.co.jp|*.himeama-admin-web.freee.co.jp|*.ojiro.freee.co.jp|*.yoichi-admin-web.freee.co.jp|*.koshiaka-admin-web.freee.co.jp|*.st-admin-web.freee.co.jp|*.hakushu-admin-web.freee.co.jp|*.ardbeg-admin-web.freee.co.jp|*.hibiki-admin-web.freee.co.jp|*.hibiki.freee.co.jp|*.himeama.freee.co.jp","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "63.33.33.109","kube-apiserver","","","","","6ee1a412c8da485deb8649149d21c271.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-119-85.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.96|172.16.119.85","false"
 "63.33.33.116","*.share-route-1dky112lsm5vk-289055012.eu-west-1.convox.site","","","","","*.share-route-1dky112lsm5vk-289055012.eu-west-1.convox.site","","false"
 "63.33.33.110","perf.fce.alfa.technology","","","","","perf.fce.alfa.technology","","false"

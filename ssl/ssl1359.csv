@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.49.194.78","kube-apiserver","","","","","0bd04d77a770321143a8cd92ad8a294e.gr7.eu-north-1.eks.amazonaws.com|ip-172-16-116-147.eu-north-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.5.18.3|172.16.116.147","false"
 "13.49.194.102","gp-alb-1.sendify-dev.com","","","","","gp-alb-1.sendify-dev.com","","false"
 "13.49.194.77","*.eu-north-1.console-gamma.aws-dev.amazon.com","","","","","*.eu-north-1.console-gamma.aws-dev.amazon.com","","false"

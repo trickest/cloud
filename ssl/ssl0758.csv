@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.69.23.217","moodle-service.clc.prod.seiu775.bg","","","","","moodle-service.clc.prod.seiu775.bg","","false"
 "54.69.23.221","*.perfect-blends.com","","","","","*.perfect-blends.com","","false"
 "54.69.23.227","kube-apiserver","","","","","399534d98dd4298f7ef53a5839afa194.gr7.us-west-2.eks.amazonaws.com|ip-172-16-40-82.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.254.27|172.16.40.82","false"

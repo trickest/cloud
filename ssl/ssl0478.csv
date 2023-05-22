@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.199.228.194","helpmev2.na.integ.aftx.amazonoperations.app","","","","","helpmev2.na.integ.aftx.amazonoperations.app","","false"
 "34.199.228.195","*.stitcher-red.us-east-1.plutopreprod.tv","","","","","*.stitcher-red.us-east-1.plutopreprod.tv|*.stitcher-red.plutopreprod.tv|*.us-east-1.plutopreprod.tv|*.plutopreprod.tv","","false"
 "34.199.228.201","*.alulatest.net","","","","","*.alulatest.net|alulatest.net","","false"

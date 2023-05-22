@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.39.160.35","*.0ct1vvl9kuduu.ap-northeast-2.cs.amazonlightsail.com","","","","","*.0ct1vvl9kuduu.ap-northeast-2.cs.amazonlightsail.com","","false"
 "3.39.160.44","*.wjthinkbig.com","","","","","*.wjthinkbig.com","","false"
 "3.39.160.37","thestar.kr","","","","","thestar.kr|*.thestar.kr","","false"

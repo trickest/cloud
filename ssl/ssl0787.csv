@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.68.160.234","dev-member.ohararyu.or.jp","YS","JP","Yokohama","Tokyo","","","true"
 "52.68.160.238","kube-apiserver","","","","","6e74b63a5ffd50a4ae23fe9f5e2e485b.gr7.ap-northeast-1.eks.amazonaws.com|ip-172-16-163-35.ap-northeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.106.133.103|172.16.163.35","false"
 "52.68.160.241","*.app.tora.com","","","","","*.app.tora.com","","false"

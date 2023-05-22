@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.228.51.220","*.mykiot.vn","","","","","*.mykiot.vn|mykiot.vn","","false"
 "13.228.51.226","*.advice.co.th","Advice Distribution Co., Ltd.","TH","Pak kret","Nonthaburi","*.advice.co.th|advice.co.th","","false"
 "13.228.51.230","*.qoqolo.com","","","","","*.qoqolo.com|qoqolo.com","","false"

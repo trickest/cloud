@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.67.123.20","*.us-west-1.es.amazonaws.com","","","","","*.us-west-1.es.amazonaws.com","","false"
 "54.67.123.19","api.staging.aestheticone.com","","","","","api.staging.aestheticone.com|auth.staging.aestheticone.com|bbdata.staging.aestheticone.com|chat.staging.aestheticone.com|patient.staging.aestheticone.com|surgeon.staging.aestheticone.com","","false"
 "54.67.123.32","api-staff.abms.dev.intra-twd.com","","","","","api-staff.abms.dev.intra-twd.com","","false"

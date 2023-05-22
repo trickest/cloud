@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.168.71.40","*.k387mbl40sb0c.us-east-1.cs.amazonlightsail.com","","","","","*.k387mbl40sb0c.us-east-1.cs.amazonlightsail.com","","false"
 "35.168.71.41","kube-apiserver","","","","","5f3d1744528e0abc7de061a2338d1513.gr7.us-east-1.eks.amazonaws.com|ip-10-0-116-44.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.24.108.100|10.0.116.44","false"
 "35.168.71.44","demo.transformation.cloud","","","","","demo.transformation.cloud","","false"

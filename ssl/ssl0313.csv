@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.237.27.14","kube-apiserver","","","","","1ef384e3de2e159842133b5183404c5b.gr7.ap-southeast-2.eks.amazonaws.com|ip-172-16-40-219.ap-southeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.1.49|172.16.40.219","false"
 "13.237.27.17","qa.spotlightstores.com","","","","","qa.spotlightstores.com|*.qa.harrisscarfe.com.au|qa.harrisscarfe.com.au|qa.anacondastores.com|*.qa.anacondastores.com|*.qa.mountaindesigns.com|*.qa.spotlightstores.com|qa.mountaindesigns.com","","false"
 "13.237.27.13","api.applicationsgateway.io","","","","","api.applicationsgateway.io|www.api.applicationsgateway.io","","false"

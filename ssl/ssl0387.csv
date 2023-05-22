@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.36.0.131","seconseil.on3cx.fr","","","","","seconseil.on3cx.fr","","false"
 "13.36.1.80","getyugo.com","","","","","getyugo.com|ogey.app|*.ogey.app|*.yego.app|*.getyugo.com|yego.app","","false"
 "13.36.1.3","api.dogstays.lu","","","","","api.dogstays.lu","","false"

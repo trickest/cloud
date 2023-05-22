@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.66.93.226","stgmap.screening.cpir.ncts.health.nz","","","","","stgmap.screening.cpir.ncts.health.nz","","false"
 "54.66.93.228","kube-apiserver","","","","","1c9e836a4f48c798a6e56d3785afa0e1.gr7.ap-southeast-2.eks.amazonaws.com|ip-10-0-177-164.ap-southeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.24.227|10.0.177.164","false"
 "54.66.93.234","conn3cted.com","","","","","conn3cted.com|*.conn3cted.com","","false"

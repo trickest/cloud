@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.194.60.21","Plesk","Plesk","CH","Schaffhausen","","","","true"
 "34.194.60.24","inmarketexchange.com","","","","","inmarketexchange.com|*.inmarketexchange.com","","false"
 "34.194.60.29","openvpn","","","","","","","false"

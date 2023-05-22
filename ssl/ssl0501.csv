@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.59.143.254","*.dgcons.eu","","","","","*.dgcons.eu","","false"
 "52.59.143.252","kube-apiserver","","","","","4bb382ff102d92792d70999cd3acde43.gr7.eu-central-1.eks.amazonaws.com|ip-10-0-109-38.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.24.85.46|10.0.109.38","false"
 "52.59.143.248","dev-accounts.soptim-digital-solutions.de","","","","","dev-accounts.soptim-digital-solutions.de","","false"

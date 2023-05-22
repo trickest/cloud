@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.123.47.69","*.kaleyra.com","","","","","*.kaleyra.com|*.sinfini.com|*.solutionsinfini.com","","false"
 "3.123.47.72","adq.keysuite.com","","","","","adq.keysuite.com","","false"
 "3.123.47.34","elfaromotril.es","","","","","elfaromotril.es|www.elfaromotril.es","","false"

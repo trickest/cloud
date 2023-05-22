@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.214.107.11","kube-apiserver","","","","","bcc85058bdb647f52ee40355874520f8.gr7.us-east-1.eks.amazonaws.com|ip-10-0-41-102.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.100.69|10.0.41.102","false"
 "18.214.107.33","*.pegacloud.net","","","","","*.pegacloud.net","","false"
 "18.214.107.49","*.iot.us-east-1.amazonaws.com","","","","","iot.us-east-1.amazonaws.com|*.iot.us-east-1.amazonaws.com","","false"

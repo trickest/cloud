@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.205.60.27","cospaces-us.dev.delightex.com","","","","","cospaces-us.dev.delightex.com|r1.edu.cospaces.io","","false"
 "52.205.60.29","waas.barracudanetworks.com","","","","","waas.barracudanetworks.com|was.barracudanetworks.com|*.cudadps.com|was.barracuda.com|waas.barracuda.com|*.ui.cudadps.com|api.waas.barracudanetworks.com","","false"
 "52.205.60.37","*.cluster.integration.pegaservice.net","","","","","*.cluster.integration.pegaservice.net","","false"

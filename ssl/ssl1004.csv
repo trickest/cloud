@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.202.72.186","*.amenityanalytics.com","","","","","*.amenityanalytics.com","","false"
 "52.202.72.190","*.api.tigo.com","Millicom International Services LLC","US","Coral Gables","Florida","*.api.tigo.com|api.tigo.com","","false"
 "52.202.72.198","*.imediafly.com","","","","","*.imediafly.com|imediafly.com","","false"

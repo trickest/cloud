@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.1.93.137","dev.spikethedog.logziosupport.click","","","","","dev.spikethedog.logziosupport.click","","false"
 "52.1.93.109","backyardbrains.de","","","","","backyardbrains.de","","false"
 "52.1.93.149","*.chcentromarketfcst.ez.sats.cloud","","","","","*.chcentromarketfcst.ez.sats.cloud","","false"

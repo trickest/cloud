@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.200.145.244","*.servicemax-api.com","ServiceMax, Inc.","US","Pleasanton","California","*.servicemax-api.com|servicemax-api.com","","false"
 "34.200.145.252","kube-apiserver","","","","","9c7d05b79ba44dd42aebfa2437623d50.gr7.us-east-1.eks.amazonaws.com|ip-172-16-56-60.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.11.51|172.16.56.60","false"
 "34.200.145.255","sys.sigetplus.com.br","","","","","sys.sigetplus.com.br","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.148.35.221","kube-apiserver","","","","","6866ec81a4ea693c48960719f0d2ac9c.gr7.us-west-2.eks.amazonaws.com|ip-10-0-127-97.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.9.166|10.0.127.97","false"
 "54.148.35.230","staceymoore.com","","","","","staceymoore.com|*.staceymoore.com","","false"
 "54.148.35.231","*.nxptest.com","","","","","*.nxptest.com|nxptest.com","","false"

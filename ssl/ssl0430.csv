@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.104.193.176","kube-apiserver","","","","","a499d4f195f9532bb0e33bee20983031.gr7.ap-southeast-2.eks.amazonaws.com|ip-172-16-105-226.ap-southeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.184.109|172.16.105.226","false"
 "3.104.193.174","srs-svdp.prod.ixapps.org","","","","","srs-svdp.prod.ixapps.org|srs-svdp.s2s.org.au","","false"
 "3.104.193.180","homes.co.nz","","","","","homes.co.nz|*.homes.co.nz","","false"

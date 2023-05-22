@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.20.235.212","*.dynata.com","","","","","*.dynata.com|*.prod.eks.dynata.com|*.surveysampling.com|*.researchnow.com","","false"
 "52.20.235.217","kube-apiserver","","","","","0f89398fa1d257b1c6a920792c8c047f.gr7.us-east-1.eks.amazonaws.com|ip-172-16-40-9.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.100.10.58|172.16.40.9","false"
 "52.20.235.219","proxy.gentle-basin-6635.herokuspace.com","Heroku","US","San Francisco","California","proxy.gentle-basin-6635.herokuspace.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.167.142.149","kube-apiserver","","","","","22301718c3ac2f69596ff9687fa9249a.yl4.us-west-2.eks.amazonaws.com|ip-172-16-60-117.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.50.1.209|172.16.60.117","false"
 "35.167.142.159","*.us-west-2.cloudsearch.amazonaws.com","","","","","*.us-west-2.cloudsearch.amazonaws.com","","false"
 "35.167.142.161","*.us-west-2.cloudsearch.amazonaws.com","","","","","*.us-west-2.cloudsearch.amazonaws.com","","false"

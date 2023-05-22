@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.213.140.43","kube-apiserver","","","","","74e096525e01aa3f5c866d9563f71db1.gr7.us-east-1.eks.amazonaws.com|ip-10-0-57-84.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|100.89.118.180|10.0.57.84","false"
 "44.213.140.46","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "44.213.140.48","*.trial.cloud.microstrategy.com","MicroStrategy Inc.","US","Tysons","Virginia","*.trial.cloud.microstrategy.com","","false"

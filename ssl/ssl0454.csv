@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.227.49.141","aichut.com","","","","","aichut.com|www.aichut.com","","false"
 "54.227.49.144","ip-10-0-1-234.ec2.internal","Unspecified","US","","","ip-10-0-1-234.ec2.internal","","false"
 "54.227.49.156","*.supabase.co","","","","","*.supabase.co|*.supabase.in","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.249.170.133","kube-apiserver","","","","","8d6d0d7257e15dc0e993cf5cec48a7a1.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-108-148.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.199.80.81|172.16.108.148","false"
 "34.249.170.144","soap.insuranceinitiatives.co.uk","","","","","ana.insuranceinitiatives.co.uk|qct.insuranceinitiatives.co.uk|dev.insuranceinitiatives.co.uk|uat.insuranceinitiatives.co.uk|uat-aws.insuranceinitiatives.co.uk|soap.insuranceinitiatives.co.uk|www.soap.insuranceinitiatives.co.uk","","false"
 "34.249.170.145","soap.insuranceinitiatives.co.uk","","","","","ana.insuranceinitiatives.co.uk|qct.insuranceinitiatives.co.uk|dev.insuranceinitiatives.co.uk|uat.insuranceinitiatives.co.uk|uat-aws.insuranceinitiatives.co.uk|soap.insuranceinitiatives.co.uk|www.soap.insuranceinitiatives.co.uk","","false"

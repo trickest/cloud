@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.21.112.36","*.online.sandyspringbank.com","","","","","*.online.sandyspringbank.com|online.sandyspringbank.com","","false"
 "52.21.112.40","*.go2cloud.org","","","","","*.go2cloud.org","","false"
 "52.21.112.42","*.ec.atu.edu","Ellucian Company L.P.","US","Reston","Virginia","*.ec.atu.edu|ec.atu.edu","","false"

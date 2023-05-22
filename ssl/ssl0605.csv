@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.229.8.217","*.colleague.elluciancloud.com","Ellucian Company L.P.","US","Reston","Virginia","*.colleague.elluciancloud.com|colleague.elluciancloud.com","","false"
 "3.229.8.230","*.spin.pm","","","","","*.spin.pm|*.api.spin.pm|*.ws.api.spin.pm|*.partner-api.api.spin.pm|*.mds.api.spin.pm|*.tvms.api.spin.pm|*.iot.api.spin.pm","","false"
 "3.229.8.239","*.trexcloud.com","Okta, Inc.","US","San Francisco","California","*.trexcloud.com|trexcloud.com","","false"

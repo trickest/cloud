@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.158.14.101","*.aws-frankfurt-1.svc.singlestore.com","","","","","*.aws-frankfurt-1.svc.singlestore.com|aws-frankfurt-1.svc.singlestore.com","","false"
 "35.158.14.39","starroman.de","","","","","starroman.de|www.starroman.de","","false"
 "35.158.14.142","*.mediagroup-obi.de","","","","","*.mediagroup-obi.de|mediagroup-obi.de","","false"

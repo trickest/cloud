@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.225.110.133","*.xenial.com","Global Payments Inc.","US","Atlanta","Georgia","*.xenial.com|xenial.com|bomgar.xenial.com","","false"
 "54.225.110.140","*.integration.aws.hotmart","Hotmart","BR","BH","MG","*.integration.aws.hotmart","","true"
 "54.225.110.136","mail2.lexxa.com.br","","","","","mail2.lexxa.com.br","","false"

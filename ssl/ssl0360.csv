@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.192.77.214","easycourse.easystaff.it","","","","","easycourse.easystaff.it|www.easycourse.easystaff.it|demo.easystaff.it|easyplanning.easystaff.it|easyplanning-demo.easystaff.it|easyacademy.easystaff.it|easyroom.easystaff.it|unierplanner.easystaff.it|prenotazioniauleint.easystaff.it|easyacademy-demo.easystaff.it|easytest.easystaff.it","","false"
 "18.192.77.219","*.gamerpay.gg","","","","","*.gamerpay.gg","","false"
 "18.192.77.217","wehorse.com","","","","","wehorse.com|*.wehorse.com","","false"

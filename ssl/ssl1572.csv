@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "184.169.211.164","choicereviews.org","","","","","choicereviews.org|*.choicereviews.org","","false"
 "184.169.211.180","kube-apiserver","","","","","f64faf9f79b66b0e4985887191ec5cf2.gr7.us-west-1.eks.amazonaws.com|ip-10-0-127-4.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.65.186|10.0.127.4","false"
 "184.169.207.35","dollartree.top","","","","","dollartree.top","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.222.88.90","leeg.live","","","","","leeg.live|m.leeg.live|*.leeg.live|qa.leeg.live|www.leeg.live","","false"
 "3.222.88.96","kube-apiserver","","","","","240a0f4505c81b9e5f60cde088f616b7.gr7.us-east-1.eks.amazonaws.com|ip-172-16-185-61.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.223.81.236|172.16.185.61","false"
 "3.222.88.99","be.staging.fixafib.com","","","","","be.staging.fixafib.com","","false"

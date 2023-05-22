@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.71.100.64","*.kitsys.net","","","","","*.kitsys.net","","false"
 "52.71.100.53","app.lightningmd.com","","","","","app.lightningmd.com","","false"
 "52.71.100.49","*.airfordable.net","","","","","*.airfordable.net|airfordable.net","","false"

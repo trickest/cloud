@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.215.12.195","jenkins.widdix.de","","","","","jenkins.widdix.de","","false"
 "52.215.12.155","*.adobe-campaign.com","Adobe Inc.","US","San Jose","California","*.adobe-campaign.com","","false"
 "52.215.12.140","api.service.iot.postnord.com","","","","","api.service.iot.postnord.com","","false"

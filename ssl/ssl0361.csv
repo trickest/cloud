@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.192.155.255","*.jdf-club59r2-devl-vpn.eu.e10.c01.johndeerecloud.com","","","","","*.jdf-club59r2-devl-vpn.eu.e10.c01.johndeerecloud.com|*.deere.com|*.tal.deere.com","","false"
 "18.192.155.180","simplewebanalysis.com","","","","","simplewebanalysis.com|professionalswebcheck.com","","false"
 "18.192.156.9","api.bluepointgame.rs","","","","","api.bluepointgame.rs","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.201.79.123","kube-apiserver","","","","","8be390cd021f84155fbab571e6550249.gr7.ap-northeast-2.eks.amazonaws.com|ip-10-0-111-96.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.20.147.119|10.0.111.96","false"
 "43.201.79.129","mytown360-server-dev.thingsw.com","","","","","mytown360-server-dev.thingsw.com","","false"
 "43.201.79.141","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

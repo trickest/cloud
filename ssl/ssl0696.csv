@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.224.236.215","kube-apiserver","","","","","5390a9581a91cbe7cb5708e272785369.gr7.us-east-2.eks.amazonaws.com|ip-172-16-59-181.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.60.7.164|172.16.59.181","false"
 "18.224.236.235","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "18.224.236.234","dev.bilal.hub.getmyhospital.wadic.net","","","","","dev.bilal.hub.getmyhospital.wadic.net","","false"

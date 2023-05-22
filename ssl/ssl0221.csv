@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.191.123.182","oxfordentrepreneurs.net","","","","","oxfordentrepreneurs.net|www.oxfordentrepreneurs.net","","false"
 "18.191.124.166","prod1-use2-8f9e6094.prod1.collectors.redcanary.io","","","","","prod1-use2-8f9e6094.prod1.collectors.redcanary.io","","false"
 "18.191.124.204","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

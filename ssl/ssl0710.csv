@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.71.149.210","production.customer-portal.customer-portal.lumio.com","","","","","production.customer-portal.customer-portal.lumio.com|api.customer-portal.lumio.com|*.production.customer-portal.customer-portal.lumio.com","","false"
 "54.71.149.213","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"
 "54.71.149.230","*.ccs.mcafee.com","McAfee, Inc.","US","","California","*.ccs.mcafee.com|ccs.mcafee.com","","false"

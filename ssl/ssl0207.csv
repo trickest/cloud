@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.198.14.186","api.scop.online","","","","","api.scop.online","","false"
 "52.198.14.190","*.pre.f-ace.info","","","","","*.pre.f-ace.info","","false"
 "52.198.14.201","*.dr.sompo-japan.co.jp","","","","","*.dr.sompo-japan.co.jp","","false"

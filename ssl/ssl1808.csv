@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.89.168.195","kube-apiserver","","","","","0bbce6049dd90f0ab32c09400ad8cc20.gr7.us-west-2.eks.amazonaws.com|ip-10-0-110-250.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.156.207|10.0.110.250","false"
 "52.89.168.203","dropbox.archimedes-consulting.com.au","","","","","dropbox.archimedes-consulting.com.au","","false"
 "52.89.168.205","aff-service.crewlogix.com","","","","","aff-service.crewlogix.com","","false"

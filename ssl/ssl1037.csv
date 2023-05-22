@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.214.174.203","a.daily.auvik.com","","","","","a.daily.auvik.com|*.a.daily.auvik.com","","false"
 "18.214.174.209","*.rcrainfodev.net","","","","","*.rcrainfodev.net","","false"
 "18.214.174.208","*.smartrg.com","","","","","*.smartrg.com|*.acs.smartrg.com","","false"

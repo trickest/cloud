@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.245.12.253","mydispense.kasu.edu.ng","","","","","mydispense.kasu.edu.ng","","false"
 "13.245.13.66","manyisa.com","","","","","manyisa.com","","false"
 "13.245.13.108","amka","amka","en","washington","chicago","","","true"

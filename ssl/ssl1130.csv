@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.208.139.215","kube-apiserver","","","","","01c7d500602db94775997ca9d723e27c.yl4.us-west-2.eks.amazonaws.com|ip-172-16-170-252.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.123.74.163|172.16.170.252","false"
 "34.208.139.217","*.soar-cathaybank.soar.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.soar-cathaybank.soar.splunkcloud.com|soar-cathaybank.soar.splunkcloud.com","","false"
 "34.208.139.236","kube-apiserver","","","","","ab0a8ac1cd210b1e87c4e544ebc38da0.gr7.us-west-2.eks.amazonaws.com|ip-172-16-188-10.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.209.58.35|172.16.188.10","false"

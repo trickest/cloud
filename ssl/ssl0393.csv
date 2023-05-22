@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.37.184.17","localhost@1646402517","","","","","localhost|localhost","127.0.0.1","false"
 "13.37.184.27","kube-apiserver","","","","","92d90f4a4f6f9f728d7c57ca9c0aceb2.yl4.eu-west-3.eks.amazonaws.com|ip-172-16-122-135.eu-west-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.31.79|172.16.122.135","false"
 "13.37.184.16","beta.portoacasatua.it","","","","","beta.portoacasatua.it","","false"

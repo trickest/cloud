@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.163.245.164","ciphertext.network","","","","","ciphertext.network|mail.ciphertext.network|mail.m88m.com|mail.m9m.com|mail.mexp.com|mail.ooz.com|www.ciphertext.network","","false"
 "18.163.245.176","kube-apiserver","","","","","274e7727429cd2e403d913a1ec64a39c.sk1.ap-east-1.eks.amazonaws.com|ip-172-16-102-29.ap-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.146.80|172.16.102.29","false"
 "18.163.245.174","*.idavoll.network","","","","","*.idavoll.network","","false"

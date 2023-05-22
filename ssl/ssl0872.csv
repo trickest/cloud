@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.207.150.203","xeynergy.com","","","","","www.xeynergy.com|xeynergy.com","","false"
 "52.207.151.27","pfSense-646a116fbf38c","Netgate pfSense Plus webConfigurator Self-Signed Certificate","","","","pfSense-646a116fbf38c","","true"
 "52.207.151.31","*.dynata.com","","","","","*.dynata.com|*.dev.eks.dynata.com|*.surveysampling.com|*.qa.eks.dynata.com|*.eks.dynata.com|*.researchnow.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.223.165.170","elb-prd.yourstake.ai","","","","","elb-prd.yourstake.ai|*.elb-prd.yourstake.ai","","false"
 "3.223.165.173","dev-partnercentric.org","","","","","dev-partnercentric.org|*.dev-partnercentric.org","","false"
 "3.223.165.175","*.driveinformed.com","","","","","*.driveinformed.com","","false"

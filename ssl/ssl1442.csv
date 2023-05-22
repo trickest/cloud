@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.52.190.247","kube-apiserver","","","","","334759474292aaefc6049d1617d02b57.sk1.us-west-1.eks.amazonaws.com|ip-10-0-96-134.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.93.167|10.0.96.134","false"
 "13.52.190.249","*.cloud.clicksoftware.com","salesforce.com, inc.","US","San Francisco","California","*.cloud.clicksoftware.com","","false"
 "13.52.191.6","offers.amazinglashstudio.com","","","","","offers.amazinglashstudio.com","","false"

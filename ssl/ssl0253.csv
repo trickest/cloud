@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.149.146.224","afennacy.myfront.dev","","","","","afennacy.myfront.dev|afennacy.usw2.myfront.dev|*.afennacy.usw2.myfront.dev|api.afennacy.myfront.dev|sso.afennacy.myfront.dev|*.sso.afennacy.myfront.dev|*.api.afennacy.myfront.dev|*.afennacy.myfront.dev","","false"
 "54.149.146.234","*.rootmetrics.com","","","","","*.rootmetrics.com|rootmetrics.com","","false"
 "54.149.146.226","beta.tesladados.com.br","","","","","beta.tesladados.com.br","","false"

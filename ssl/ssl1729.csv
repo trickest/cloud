@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.213.87.133","*.workspace.temenos-cloud.net","","","","","*.workspace.temenos-cloud.net|workspace.temenos-cloud.net","","false"
 "3.213.87.165","kube-apiserver","","","","","679a62e5b547db27e7d2b9cd28b107e0.gr7.us-east-1.eks.amazonaws.com|ip-172-16-188-106.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.200.13.122|172.16.188.106","false"
 "3.213.87.159","www.data.cayabacare.com","","","","","www.data.cayabacare.com","","false"

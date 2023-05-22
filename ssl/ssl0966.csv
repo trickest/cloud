@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.230.15.202","kube-apiserver","","","","","70c1f9437eedc1d70ff7adb485a9a6ce.yl4.us-west-2.eks.amazonaws.com|ip-172-16-112-251.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.43.21.19|172.16.112.251","false"
 "44.230.15.234","prod01.oregon.platform-os.com","","","","","prod01.oregon.platform-os.com|*.prod01.oregon.platform-os.com","","false"
 "44.230.15.156","s1-sp.com","","","","","s1-sp.com|*.stage-druss.s1-sp.com|*.stage-druss.system1.company|*.system1.company|*.s1-sp.com","","false"

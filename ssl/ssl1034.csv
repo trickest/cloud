@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.225.198.99","kube-apiserver","","","","","8176dc00e234e704059f3c464624ff7c.yl4.us-west-2.eks.amazonaws.com|ip-172-16-124-193.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.64.133.182|172.16.124.193","false"
 "44.225.198.102","*.us-west-2.awsapprunner.com","","","","","*.us-west-2.awsapprunner.com","","false"
 "44.225.198.108","example.com","","","","","","","true"

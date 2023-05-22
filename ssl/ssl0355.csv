@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.116.124.176","*.webershandwick.ai","","","","","*.webershandwick.ai|webershandwick.ai","","false"
 "18.116.124.171","*.koverly.com","","","","","*.koverly.com","","false"
 "18.116.124.178","kube-apiserver","","","","","d59f823d0beafb6647ac4185a4fdef05.gr7.us-east-2.eks.amazonaws.com|ip-10-0-111-104.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.188.189|10.0.111.104","false"

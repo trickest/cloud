@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.228.34.191","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "3.228.34.197","metabase.aws.einsteinstudios.io","","","","","metabase.aws.einsteinstudios.io","","false"
 "3.228.34.199","*.ecg-api.com","","","","","*.ecg-api.com","","false"

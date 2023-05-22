@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.1.135.48","kube-apiserver","","","","","3772afd34e2e445ef5d75208cac6a89d.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-57-22.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.41|172.16.57.22","false"
 "3.1.135.56","*.central.co.th","","","","","*.central.co.th","","false"
 "3.1.135.53","kube-apiserver","","","","","3b73d46bfe4e04e0521a8f522f6d5f6b.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-57-107.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.13.179|172.16.57.107","false"

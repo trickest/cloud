@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.127.103.206","kube-apiserver","","","","","cc8907959f027f7a36ba13944e730458.gr7.eu-central-1.eks.amazonaws.com|ip-10-0-50-57.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.65.14|10.0.50.57","false"
 "3.127.103.208","nexxieprojects.com","","","","","nexxieprojects.com|www.nexxieprojects.com","","false"
 "3.127.103.210","vatrin.com","","","","","vatrin.com|*.vatrin.com|*.dev.vatrin.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.136.118.81","gm.guttercatgang.com","","","","","gm.guttercatgang.com|*.gm.guttercatgang.com","","false"
 "3.136.118.23","ip-172-31-6-55","SomeOrganization","--","SomeCity","SomeState","localhost|localhost.localdomain|ip-172-31-6-55|ip-172-31-6-55.us-east-2.compute.internal","","true"
 "3.136.117.78","www.kfaddiction.com","","","","","www.kfaddiction.com","","false"

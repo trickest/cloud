@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.238.190.132","kube-apiserver","","","","","183f8cd6afd174604442be8034fda5d8.gr7.ap-southeast-2.eks.amazonaws.com|ip-10-0-54-7.ap-southeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.28.5.220|10.0.54.7","false"
 "13.238.190.134","*.dev.neara.com","","","","","*.dev.neara.com|*.au.powerlinespro.com","","false"
 "13.238.190.141","3xpo.com","","","","","3xpo.com","","false"

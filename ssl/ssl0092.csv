@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.186.119.79","*.execute-api.us-west-2.amazonaws.com","","","","","*.execute-api.us-west-2.amazonaws.com","","false"
 "54.186.119.88","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"
 "54.186.119.92","safe.msip-integrityauth.com","Menlo Security, Inc.","US","Mountain View","California","safe.msip-integrityauth.com","","false"

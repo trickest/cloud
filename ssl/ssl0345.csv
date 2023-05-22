@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "107.21.183.34","*.cat70.com","","","","","*.cat70.com|cat70.com","","false"
 "107.21.183.53","ip-172-26-7-0.ec2.internal","SomeOrganization","--","SomeCity","SomeState","","","true"
 "107.21.183.52","kube-apiserver","","","","","582a1f7bb964afd176cda5dab142c85d.gr7.us-east-1.eks.amazonaws.com|ip-10-0-163-189.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.83.62|10.0.163.189","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.235.96.73","us01cci-va.zoom.us","Zoom Video Communications, Inc.","US","San Jose","California","us01cci-va.zoom.us|us01cci.zoom.us|us01-va1-cci-nginx1.zoom.us|us01-va1-cci-nginx2.zoom.us|us01-va1-cci-nginx3.zoom.us|us01cci-va-internal.zoom.us|us01cciapi-va-internal.zoom.us|us01cciop.zoom.us|us01cciop-va.zoom.us|us01cciapi-va.zoom.us|us01cciapi.zoom.us|us01cci-a.zoom.us|us01cci-c.zoom.us","","false"
 "3.235.96.121","*.zoom.us","Zoom Video Communications, Inc.","US","San Jose","California","*.zoom.us|zoom.us","","false"
 "3.235.96.122","*.zoom.us","Zoom Video Communications, Inc.","US","San Jose","California","*.zoom.us|zoom.us","","false"

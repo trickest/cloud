@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.226.10.38","kube-apiserver","","","","","01db0ad4977ca6ab3b58b063723336e0.gr7.us-west-2.eks.amazonaws.com|ip-10-0-50-10.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.31.81|10.0.50.10","false"
 "44.226.10.98","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"
 "44.226.10.15","api-cobalt.js-pipelines-staging.junglescout.com","","","","","api-cobalt.js-pipelines-staging.junglescout.com","","false"

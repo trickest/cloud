@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.193.237.64","kube-apiserver","","","","","8867f1763c54f54ea0c257519e93f2b8.gr7.us-east-1.eks.amazonaws.com|ip-10-0-106-116.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.81.123|10.0.106.116","false"
 "44.193.237.67","orchestration.cell0.us-east-1.prod.wadi.identity.aws.dev","Amazon.com Inc.","US","Seattle","Washington","orchestration.cell0.us-east-1.prod.wadi.identity.aws.dev","","false"
 "44.193.237.70","*.voolt.com","","","","","*.voolt.com","","false"

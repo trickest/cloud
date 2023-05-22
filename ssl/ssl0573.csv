@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.196.169.105","kube-apiserver","","","","","4beae31f623a7a5572ea4379252f3186.gr7.us-east-1.eks.amazonaws.com|ip-172-16-58-138.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.6.36|172.16.58.138","false"
 "34.196.169.107","na-1-install.preview.widgets.qa-20-1.apriori.net","","","","","na-1-install.preview.widgets.qa-20-1.apriori.net|*.na-1-install.preview.widgets.qa-20-1.apriori.net","","false"
 "34.196.169.97","airflow.ds.beta.ml.wwro.aws.dev","","","","","airflow.ds.beta.ml.wwro.aws.dev","","false"

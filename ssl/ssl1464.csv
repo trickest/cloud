@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.181.92.57","kube-apiserver","","","","","891b8b38e445e987d930221d06f92ba7.gr7.ap-northeast-1.eks.amazonaws.com|ip-172-16-51-242.ap-northeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.182.0.44|172.16.51.242","false"
 "18.181.92.65","ptosh.com","","","","","ptosh.com|*.dev.ptosh.com|*.ptosh.com","","false"
 "18.181.92.25","reserve.the-club.fitness","","","","","reserve.the-club.fitness","","false"

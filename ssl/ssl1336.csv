@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.178.178.25","ip-172-31-20-33","SomeOrganization","--","SomeCity","SomeState","","","true"
 "18.178.178.23","*.verification-coms.com","","","","","*.verification-coms.com|verification-coms.com","","false"
 "18.178.178.20","*.ds-pharma.jp","Sumitomo Pharma Co.,Ltd.","JP","OSAKA-SHI","OSAKA","*.ds-pharma.jp|ds-pharma.jp","","false"

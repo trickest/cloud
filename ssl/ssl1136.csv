@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.245.169.242","*.execute-api.af-south-1.amazonaws.com","","","","","*.execute-api.af-south-1.amazonaws.com","","false"
 "13.245.169.244","kube-apiserver","","","","","dd6c4f57dc5c691f301a2d9374db550d.gr7.af-south-1.eks.amazonaws.com|ip-10-0-109-217.af-south-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.21.14.108|10.0.109.217","false"
 "13.245.169.247","*.digitata.com","","","","","*.digitata.com|digitata.com","","false"

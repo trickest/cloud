@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.207.197.70","plataformas.editorialencuentro.com","","","","","plataformas.editorialencuentro.com|www.plataformas.editorialencuentro.com","","false"
 "54.207.197.91","kube-apiserver","","","","","f825f03cc541a708ed9489d901d17a1d.sk1.sa-east-1.eks.amazonaws.com|ip-10-0-99-53.sa-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.125.231|10.0.99.53","false"
 "54.207.197.89","*.flexpag.com","","","","","*.flexpag.com|flexpag.com|www.flexpag.com","","false"

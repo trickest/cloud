@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.219.69.102","kube-apiserver","","","","","60bfa65f248373fd8aa73d0192ed91d1.gr7.us-east-2.eks.amazonaws.com|ip-10-0-35-194.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.22.251.5|10.0.35.194","false"
 "18.219.69.130","api-dev.dibsdeals.com","","","","","api-dev.dibsdeals.com","","false"
 "18.219.69.128","*.karrostech.net","","","","","*.karrostech.net|*.use2.karrostech.net","","false"

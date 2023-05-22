@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.240.159.255","*.bidchatserver.com","","","","","*.bidchatserver.com","","false"
 "44.240.160.38","*.discovery-prod.axs.com","","","","","*.discovery-prod.axs.com","","false"
 "44.240.160.36","usertesting.com","","","","","usertesting.com|*.qa.usertesting.com|*.usertesting.com","","false"

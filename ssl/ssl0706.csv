@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.70.29.98","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"
 "54.70.29.99","ebizautos.com","","","","","ebizautos.com|*.ebizautos.com","","false"
 "54.70.29.112","kube-apiserver","","","","","028284cd1bcdd82ec17302970aede3d6.gr7.us-west-2.eks.amazonaws.com|ip-10-0-106-255.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.8.79|10.0.106.255","false"

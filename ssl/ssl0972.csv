@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.226.113.125","careeronlinetips.com","","","","","careeronlinetips.com","","false"
 "44.226.113.142","kube-apiserver","","","","","ee819ed4767954c70d0421515f9a7ce6.gr7.us-west-2.eks.amazonaws.com|ip-172-16-101-217.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.113.204.20|172.16.101.217","false"
 "44.226.113.189","staging.driscolls.com","Driscoll's, Inc.","US","Watsonville","California","staging.driscolls.com","","false"

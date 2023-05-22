@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.222.49.237","kube-apiserver","","","","","1dc913f5d27da347d2aa3556300b382a.sk1.ca-central-1.eks.amazonaws.com|ip-10-0-174-123.ca-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.170.200|10.0.174.123","false"
 "15.222.49.233","kube-apiserver","","","","","b0963e1e15381dd31a393ceee1056143.yl4.ca-central-1.eks.amazonaws.com|ip-172-16-46-246.ca-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.243.83.41|172.16.46.246","false"
 "15.222.50.0","NGINXIngressController","","","","","","","false"

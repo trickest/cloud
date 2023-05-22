@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.207.14.44","*.customer.cloud.microstrategy.com","MicroStrategy Inc.","US","Tysons","Virginia","*.customer.cloud.microstrategy.com","","false"
 "44.207.14.46","kube-apiserver","","","","","0ee62dfe73842a04329364910abef16c.gr7.us-east-1.eks.amazonaws.com|ip-172-16-101-149.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.143.231|172.16.101.149","false"
 "44.207.14.76","kube-apiserver","","","","","30add85b2e71489e1f3451cc046c1095.gr7.us-east-1.eks.amazonaws.com|ip-172-16-190-252.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.5.5.128|172.16.190.252","false"

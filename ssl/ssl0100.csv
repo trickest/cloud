@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.35.190.4","kube-apiserver","","","","","bys-dev-nlb-kubeadm-cluster-8fc7f1f5d5b6d0b6.elb.ap-northeast-2.amazonaws.com|kube-master-node2|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.96.0.1|10.20.14.123","false"
 "3.35.190.6","*.arkinfo.kr","","","","","*.arkinfo.kr|arkinfo.kr","","false"
 "3.35.190.13","rovideus.com","","","","","rovideus.com|*.rovideus.com","","false"

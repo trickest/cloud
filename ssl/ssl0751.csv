@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.114.207.16","www.bc-studentclarinet.jp","","","","","www.bc-studentclarinet.jp","","false"
 "13.114.207.99","vr-tfhd.com","","","","","vr-tfhd.com","","false"
 "13.114.207.108","*.web-store.jp","","","","","*.web-store.jp|web-store.jp","","false"

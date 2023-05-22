@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.240.211.43","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"
 "44.240.211.41","*.comp.weride.ai","","","","","*.comp.weride.ai|comp.weride.ai","","false"
 "44.240.211.45","idnaccount.idn-prod.nikecloud.com","","","","","idnaccount.idn-prod.nikecloud.com|aws-us-west-2.idnaccount.idn-prod.nikecloud.com|any.idnaccount.idn-prod.nikecloud.com|idnaccount.userservices.nikecloud.com","","false"

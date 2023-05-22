@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.74.44.158","kube-apiserver","","","","","450c46f0d50cd262b61a4ac6ebb81122.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-167-139.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.128.46.133|172.16.167.139","false"
 "54.74.44.173","go-aigua.monitor.idrica.pro","","","","","go-aigua.monitor.idrica.pro","","false"
 "54.74.44.203","iot.eu-west-1.amazonaws.com","Amazon.com, Inc.","US","Seattle","Washington","iot.eu-west-1.amazonaws.com","","false"

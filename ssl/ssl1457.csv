@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.123.246.164","kube-apiserver","","","","","f699c6768c776ba0774fcc3a50d186cc.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-173-247.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.2.93.48|172.16.173.247","false"
 "3.123.246.172","TRAEFIK DEFAULT CERT","","","","","1efd31e580b770a67a74d7df9e0d5cc9.d648dc9c503619c5b5b95ed6fcf79ab1.traefik.default","","true"
 "3.123.246.157","api.splinker.hu","","","","","api.splinker.hu","","false"

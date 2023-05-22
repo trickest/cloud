@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.37.13.98","*.nujackpot.com","","","","","*.nujackpot.com","","false"
 "3.37.13.111","lulutpa.com","","","","","lulutpa.com|*.lulutpa.com","","false"
 "3.37.13.117","*.kemi.ai","","","","","*.kemi.ai","","false"

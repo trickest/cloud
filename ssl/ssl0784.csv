@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.97.176.91","*.ca1.stratas.net","Sparta Systems, Inc.","US","Hamilton","New Jersey","*.ca1.stratas.net|ca1.stratas.net","","false"
 "3.97.176.96","adracare.com","","","","","adracare.com|*.adracare.com","","false"
 "3.97.176.100","*.crescendo.resound.ca","","","","","*.crescendo.resound.ca|crescendo.resound.ca","","false"

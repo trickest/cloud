@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.219.162.193","a4lsanantonio.com","","","","","a4lsanantonio.com|www.a4lsanantonio.com","","false"
 "34.219.163.131","navigategreen.com","","","","","navigategreen.com|www.navigategreen.com","","false"
 "34.219.163.147","example.com","","","","","","","true"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.196.229.247","*.braintag.com","","","","","*.braintag.com|*.justquiz.com|*.braintagtech.com|*.gol-network.com","","false"
 "34.196.229.252","*.woozworld.com","Woozworld inc.","CA","Montreal","Quebec","*.woozworld.com|woozworld.com","","false"
 "34.196.229.254","*.cv458d9ktr69e.us-east-1.cs.amazonlightsail.com","","","","","*.cv458d9ktr69e.us-east-1.cs.amazonlightsail.com","","false"

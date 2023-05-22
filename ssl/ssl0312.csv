@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.236.214.218","*.ap-southeast-2.es.amazonaws.com","","","","","*.ap-southeast-2.es.amazonaws.com","","false"
 "13.236.214.210","*.centaurportal.com","","","","","*.centaurportal.com|centaurportal.com","","false"
 "13.236.214.217","*.tgifridays.com.au","","","","","*.tgifridays.com.au","","false"

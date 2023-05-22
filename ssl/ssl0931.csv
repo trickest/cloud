@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.179.195.88","kube-apiserver","","","","","27c785bb7a6ebe55f16d0cc1d812cf29.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-118-253.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.36.208.166|172.16.118.253","false"
 "54.179.195.93","aad422r.com","","","","","aad422r.com|*.aad422r.com|www.aad422r.com|*.gconsent.aad422r.com","","false"
 "54.179.195.94","*.vfp.viewpoint.com","","","","","*.vfp.viewpoint.com|vfp.viewpoint.com","","false"

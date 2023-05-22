@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "23.20.36.122","*.agdiago.com","","","","","*.agdiago.com","","false"
 "23.20.36.139","*.h7nrc085kn1hk.us-east-1.cs.lightsail.ec2.aws.dev","","","","","*.h7nrc085kn1hk.us-east-1.cs.lightsail.ec2.aws.dev","","false"
 "23.20.36.133","workingonsolutions.com","","","","","workingonsolutions.com|*.workingonsolutions.com","","false"

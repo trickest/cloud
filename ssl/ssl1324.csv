@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.135.158.225","kube-apiserver","","","","","653585a6441104df08d33b851bfdd545.gr7.eu-west-2.eks.amazonaws.com|ip-10-0-62-158.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.137.105|10.0.62.158","false"
 "18.135.158.228","cloud.ecorunner.nl","","","","","cloud.ecorunner.nl","","false"
 "18.135.158.236","designone.co.uk","","","","","designone.co.uk|www.designone.co.uk|*.designone.co.uk|*.staging.designone.co.uk|*.d1.designone.co.uk","","false"

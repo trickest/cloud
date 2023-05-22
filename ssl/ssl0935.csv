@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.206.6.162","kube-apiserver","","","","","3a8eecb44b6180ea1dca4b05def371ac.gr7.us-east-1.eks.amazonaws.com|ip-172-16-105-130.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.227.96.29|172.16.105.130","false"
 "52.206.7.128","*.gamma.execute-api.us-east-1.amazonaws.com","","","","","*.gamma.execute-api.us-east-1.amazonaws.com","","false"
 "52.206.7.91","RA-us-east-1-prod","Amazon","US","Seattle","Washington","","","false"

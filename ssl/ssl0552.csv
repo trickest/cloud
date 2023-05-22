@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.230.236.219","portaldev.evs7.com","","","","","portaldev.evs7.com","","false"
 "3.230.236.228","influencity.es","","","","","influencity.es|*.influencity.es|*.influencity.com|influencity.com|www.influencity.es","","false"
 "3.230.236.229","kube-apiserver","","","","","dec9cc5918f65b2ea0e8f4fea82c921e.gr7.us-east-1.eks.amazonaws.com|ip-10-0-166-34.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.160.8|10.0.166.34","false"

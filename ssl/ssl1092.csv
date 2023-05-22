@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.223.154.76","kube-apiserver","","","","","1c84068156642a6b135f627799dd9227.gr7.us-west-2.eks.amazonaws.com|ip-172-16-97-214.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.3.65|172.16.97.214","false"
 "34.223.154.78","*.altusentertainment.com","","","","","*.altusentertainment.com|altusentertainment.com","","false"
 "34.223.154.93","backend.lcsm.cell-2.prod.us-west-2.prod.connect.aws.a2z.com","","","","","backend.lcsm.cell-2.prod.us-west-2.prod.connect.aws.a2z.com","","false"

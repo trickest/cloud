@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.48.209.190","*.bertel.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.bertel.splunkcloud.com|bertel.splunkcloud.com|idm-bertel.splunkcloud.com|*.idm-bertel.splunkcloud.com|http-inputs-bertel.splunkcloud.com|*.http-inputs-bertel.splunkcloud.com|akamai-inputs-bertel.splunkcloud.com|*.akamai-inputs-bertel.splunkcloud.com|http-inputs-ack-bertel.splunkcloud.com|*.http-inputs-ack-bertel.splunkcloud.com|http-inputs-firehose-bertel.splunkcloud.com|*.http-inputs-firehose-bertel.splunkcloud.com|*.pvt.bertel.splunkcloud.com|pvt.bertel.splunkcloud.com","","false"
 "13.48.209.217","www.jmoaws.com","","","","","www.jmoaws.com|service.jmoaws.com|*.jmoaws.com","","false"
 "13.48.209.231","api.dev.bookswap.lt","","","","","api.dev.bookswap.lt","","false"

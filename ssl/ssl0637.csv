@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.210.33.66","*.partner.recommendation.uol.com.br","","","","","*.partner.recommendation.uol.com.br","","false"
 "44.210.33.37","*.jewelersconnect.com","","","","","*.jewelersconnect.com|jewelersconnect.com","","false"
 "44.210.33.74","kube-apiserver","","","","","a28d1bf79c96e7e8e58680455d6372ee.gr7.us-east-1.eks.amazonaws.com|ip-10-0-36-186.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.195.56|10.0.36.186","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.213.15.163","relay.hivepath.eu","","","","","relay.hivepath.eu","","false"
 "52.213.15.168","a.ivo.io","","","","","a.ivo.io|core.lb.a.ivo.io","","false"
 "52.213.15.180","kube-apiserver","","","","","113adf2755a443ef316569362d77c5e5.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-37-190.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.3.156|172.16.37.190","false"

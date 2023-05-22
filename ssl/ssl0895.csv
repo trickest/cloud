@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.156.33.214","*.sisacademy.it","","","","","*.sisacademy.it|sisacademy.it","","false"
 "18.156.33.231","banzaibet-pe.com","","","","","banzaibet-pe.com|www.banzaibet-pe.com","","false"
 "18.156.33.228","blog.dominos.com.tr","","","","","blog.dominos.com.tr","","false"

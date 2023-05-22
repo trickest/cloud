@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "107.22.122.104","container-manager.usescholar.org","","","","","container-manager.usescholar.org","","false"
 "107.22.122.105","*.trievr.com","","","","","*.trievr.com|trievr.com","","false"
 "107.22.122.114","*.spencermetrics.com","","","","","*.spencermetrics.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.10.176.40","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"
 "52.10.176.62","*.trilogy.2u.com","","","","","*.trilogy.2u.com|*.stg.trilogy.2u.com|*.prod.trilogy.2u.com|*.dev.trilogy.2u.com|*.uat.trilogy.2u.com","","false"
 "52.10.176.63","api-intg10.kount.com","","","","","api-intg10.kount.com","","false"

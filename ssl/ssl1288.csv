@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.221.24.159","useast2a.nightly.liveswitch.io","","","","","useast2a.nightly.liveswitch.io|*.useast2a.nightly.liveswitch.io","","false"
 "18.221.24.162","api.betopenly.com","","","","","api.betopenly.com","","false"
 "18.221.24.171","*.emeraenergy-aws-prd.com","","","","","*.emeraenergy-aws-prd.com","","false"

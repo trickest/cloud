@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.71.252.64","kube-apiserver","","","","","9153da489f53a59c5a7a9db5bc4eb994.gr7.eu-central-1.eks.amazonaws.com|ip-10-0-59-97.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.18.172|10.0.59.97","false"
 "3.71.252.69","*.render.com","","","","","*.app.render.com|*.render.com|render.com","","false"
 "3.71.252.75","*.mobicontrolcloud.com","","","","","*.mobicontrolcloud.com|mobicontrolcloud.com","","false"

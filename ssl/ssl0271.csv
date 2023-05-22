@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.229.194.232","*.guideinvestimentos.com.br","","","","","*.guideinvestimentos.com.br","","false"
 "18.229.194.234","dbproxy.dbproxy.prod.sa-east-1.quicksight.aws.a2z.com","","","","","dbproxy.dbproxy.prod.sa-east-1.quicksight.aws.a2z.com|app.dbproxy.prod.sa-east-1.quicksight.aws.a2z.com","","false"
 "18.229.194.235","*.execute-api.sa-east-1.amazonaws.com","","","","","*.execute-api.sa-east-1.amazonaws.com","","false"

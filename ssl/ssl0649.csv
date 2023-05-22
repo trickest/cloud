@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.213.220.40","squidsan.com","","","","","squidsan.com","","false"
 "54.213.220.81","api.dev.afn.tusimple.ai","","","","","api.dev.afn.tusimple.ai","","false"
 "54.213.220.83","lfes-v2.cell-2.gamma.us-west-2.nonprod.connect.aws.a2z.com","","","","","lfes-v2.cell-2.gamma.us-west-2.nonprod.connect.aws.a2z.com","","false"

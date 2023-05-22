@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.121.245.45","moseleu.telenav.com","Telenav","US","","California","","","false"
 "3.121.245.48","*.soar.sumologic.com","","","","","*.soar.sumologic.com","","false"
 "3.121.245.51","*.prod.aws.emagin.eu","","","","","*.prod.aws.emagin.eu","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.216.219.94","viva-abordaje-test.introid.com","","","","","viva-abordaje-test.introid.com","","false"
 "18.216.219.107","kgp.gdc.kar-hosting.com","","","","","kgp.gdc.kar-hosting.com|*.kgp.gdc.kar-hosting.com","","false"
 "18.216.219.102","theminted.com","","","","","theminted.com|*.theminted.com","","false"

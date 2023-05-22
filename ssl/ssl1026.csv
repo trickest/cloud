@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "65.0.237.240","*.updates.api.brightspace.com","","","","","*.updates.api.brightspace.com|updates.api.brightspace.com","","false"
 "65.0.237.244","dispatch.swatirx.com","","","","","dispatch.swatirx.com","","false"
 "65.0.237.255","*.ap-south-1.es.amazonaws.com","","","","","*.ap-south-1.es.amazonaws.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.199.102.5","kube-apiserver","","","","","cee6d30a25e9f75babca811fd34e16e2.gr7.us-east-1.eks.amazonaws.com|ip-172-16-125-75.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.211.0.1|10.101.42.155|172.16.125.75","false"
 "44.199.102.8","us-east-1.prod.cholly.rekognition.aws.dev","","","","","us-east-1.prod.cholly.rekognition.aws.dev","","false"
 "44.199.102.18","*.stage.ecarlist.com","Solera Holdings LLC","US","Westlake","Texas","*.stage.ecarlist.com|stage.ecarlist.com","","false"

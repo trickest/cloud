@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.235.238.200","kube-apiserver","","","","","31eff771d4a8f2583b9eb7fe2f6e349e.gr7.us-east-1.eks.amazonaws.com|ip-172-16-170-50.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.3.162|172.16.170.50","false"
 "34.235.238.208","app.bluemonitor.net","","","","","app.bluemonitor.net","","false"
 "34.235.238.211","*.orm.datarobot.com","","","","","*.orm.datarobot.com|orm.datarobot.com","","false"

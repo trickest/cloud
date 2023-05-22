@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.21.165.239","*.cwng-prod.edgenuityapp.com","","","","","*.cwng-prod.edgenuityapp.com|error-dashboard-api.cwng.imaginelearning.engineering|student.ex.edgenuity.com","","false"
 "100.21.165.243","kube-apiserver","","","","","119b2f47441d45170f0270bdd64a8f35.gr7.us-west-2.eks.amazonaws.com|ip-172-16-169-119.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","192.168.0.1|10.155.225.200|172.16.169.119","false"
 "100.21.165.246","kube-apiserver","","","","","f842213df81ea7c1276c793220d40555.gr7.us-west-2.eks.amazonaws.com|ip-172-16-52-134.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.69.0.180|172.16.52.134","false"

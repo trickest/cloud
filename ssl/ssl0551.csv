@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.230.156.151","adadog.io","","","","","adadog.io|*.adadog.io","","false"
 "3.230.156.116","thewellwoodstock.com","","","","","thewellwoodstock.com|www.thewellwoodstock.com","","false"
 "3.230.156.149","*.seatyourself.biz","","","","","*.seatyourself.biz|seatyourself.biz","","false"

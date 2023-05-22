@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.18.99.63","*.nnu4me4gprjeg.eu-west-1.cs.amazonlightsail.com","","","","","*.nnu4me4gprjeg.eu-west-1.cs.amazonlightsail.com","","false"
 "52.18.99.35","dedit.io","","","","","dedit.io|*.dedit.io","","false"
 "52.18.99.48","oranika.net","","","","","oranika.net|preventiva.oranika.net|spjn.oranika.net|tss.oranika.net|www.oranika.net","","false"

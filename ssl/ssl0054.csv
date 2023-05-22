@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.194.251.155","d365adapter.service.d-velop.cloud","","","","","d365adapter.service.d-velop.cloud|*.d365adapter.service.d-velop.cloud","","false"
 "18.194.251.157","*.sheskillzglobal.com","","","","","*.sheskillzglobal.com","","false"
 "18.194.249.204","*.chipsstore.com","CHIPS RETAIL & WHOLESLAE TRADING CO. SPC","KW","Kuwait City","Kuwait City","*.chipsstore.com|www.chipsstore.com|chipsstore.com","","false"

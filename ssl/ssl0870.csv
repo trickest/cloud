@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.207.5.186","newsela.com","","","","","newsela.com|*.newsela.com","","false"
 "52.207.5.181","api.staging.limelight360.com","","","","","api.staging.limelight360.com","","false"
 "52.207.5.129","*.apicotefacil.com","","","","","*.apicotefacil.com","","false"

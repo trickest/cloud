@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.31.28.242","*.euphoria.co.za","Euphoria Telecom (Pty) Ltd","ZA","Cape Town","Western Cape","*.euphoria.co.za|euphoria.co.za","","false"
 "52.31.29.1","*.solvassure.com","","","","","*.solvassure.com|solvassure.com","","false"
 "52.31.29.2","beeksebergen.nl","","","","","beeksebergen.nl|api.beeksebergen.nl","","false"

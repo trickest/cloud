@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.199.68.56","*.binance.com","Binance Holdings Limited","KY","West Bay","","*.binance.com|binance.com","","false"
 "54.199.68.72","*.cac-olive.com","","","","","*.cac-olive.com","","false"
 "54.199.68.79","size24.net","","","","","size24.net|www.size24.net","","false"

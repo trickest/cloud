@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.210.238.185","gamma.us-east-1.awscognitocredentialmgmtcpl.cognito.aws.dev","","","","","gamma.us-east-1.awscognitocredentialmgmtcpl.cognito.aws.dev|*.gamma.us-east-1.awscognitocredentialmgmtcpl.cognito.aws.dev","","false"
 "54.210.238.188","*.qkgp2b6nci9d8.us-east-1.cs.amazonlightsail.com","","","","","*.qkgp2b6nci9d8.us-east-1.cs.amazonlightsail.com","","false"
 "54.210.238.192","*.infrasec-dev.orchard-dev2.com","","","","","*.infrasec-dev.orchard-dev2.com","","false"

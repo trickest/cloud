@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.100.200.20","kube-apiserver","","","","","e8d48686b827e0426a0c9b19a2fc4b31.sk1.gamma.eu-south-2.clusters.wesley.amazonaws.com|ip-172-16-108-236.eu-south-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.151.80|172.16.108.236","false"
 "18.100.200.24","kube-apiserver","","","","","ebb0f276a9cc1f4f50bb09f1f3f37357.sk1.eu-south-2.eks.amazonaws.com|ip-10-0-97-251.eu-south-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.16.64.1|172.31.68.9|10.0.97.251","false"
 "18.100.200.15","*.eu-south-2.es.amazonaws.com","","","","","*.eu-south-2.es.amazonaws.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.117.211.219","kube-apiserver","","","","","0adfed875f7d7edef87302ed12e9c1fb.gr7.us-east-2.eks.amazonaws.com|ip-10-0-182-98.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.18.23.97|10.0.182.98","false"
 "18.117.211.222","stage-api.handraise.com","","","","","stage-api.handraise.com","","false"
 "18.117.211.225","kube-apiserver","","","","","b2a32c42283629871fc0932e76834c19.gr7.us-east-2.eks.amazonaws.com|ip-172-16-48-249.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.128.193.60|172.16.48.249","false"

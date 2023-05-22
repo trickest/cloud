@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.228.102.191","secbot.smartthings.com","","","","","secbot.smartthings.com","","false"
 "44.228.102.195","*.invoystage.com","","","","","*.invoystage.com|invoystage.com","","false"
 "44.228.102.196","kube-apiserver","","","","","feb25e22244a2c9920472e9f35b63642.gr7.us-west-2.eks.amazonaws.com|ip-10-0-104-139.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|100.82.6.241|10.0.104.139","false"

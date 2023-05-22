@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.204.94.235","pucapi.homolog-bravi.tk","","","","","pucapi.homolog-bravi.tk","","false"
 "52.204.94.241","*.data.tapigo.com","","","","","*.data.tapigo.com","","false"
 "52.204.94.243","applicate.biz","","","","","applicate.biz|*.applicate.biz","","false"

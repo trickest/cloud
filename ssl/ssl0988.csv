@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.237.87.49","fn-svc-discovery-live-pub.ogs.live.on.epicgames.com","","","","","fn-svc-discovery-live-pub.ogs.live.on.epicgames.com|fn-service-discovery-live-public.ogs.live.on.epicgames.com","","false"
 "34.237.87.51","*.logsss.com","","","","","*.logsss.com","","false"
 "34.237.87.55","kube-apiserver","","","","","037c33a57c0ba97ea7425195bc3cdfdc.gr7.us-east-1.eks.amazonaws.com|ip-10-0-36-79.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.115.174|10.0.36.79","false"

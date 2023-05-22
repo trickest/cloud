@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.209.9.113","*.vitaldent.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.vitaldent.splunkcloud.com|vitaldent.splunkcloud.com|http-inputs-vitaldent.splunkcloud.com|*.http-inputs-vitaldent.splunkcloud.com|akamai-inputs-vitaldent.splunkcloud.com|*.akamai-inputs-vitaldent.splunkcloud.com|http-inputs-ack-vitaldent.splunkcloud.com|*.http-inputs-ack-vitaldent.splunkcloud.com|http-inputs-firehose-vitaldent.splunkcloud.com|*.http-inputs-firehose-vitaldent.splunkcloud.com|*.pvt.vitaldent.splunkcloud.com|pvt.vitaldent.splunkcloud.com","","false"
 "52.209.9.108","dryhomedb.co.uk","","","","","dryhomedb.co.uk","","false"
 "52.209.9.115","*.eu-west-1.es-staging.amazonaws.com","","","","","*.eu-west-1.es-staging.amazonaws.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.149.56.232","*.colleague.elluciancloud.com","Ellucian Company L.P.","US","Reston","Virginia","*.colleague.elluciancloud.com|colleague.elluciancloud.com","","false"
 "54.149.56.236","*.campaign.adobe.com","Adobe Inc.","US","San Jose","California","*.campaign.adobe.com","","false"
 "54.149.56.216","Test site","Unknown","Unknown","","","","","true"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.73.197.235","kube-apiserver","","","","","3c7cbfea05ce71f3d6df534cc63691d2.gr7.us-east-1.eks.amazonaws.com|ip-10-0-98-58.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.132.204|10.0.98.58","false"
 "52.73.197.172","lastenit.com","","","","","lastenit.com","","false"
 "52.73.197.249","mbopartners.com","","","","","mbopartners.com|*.mboenterprise.com|*.mbopartners.com|mybizoffice.com|*.mybizoffice.com|mboenterprise.com","","false"

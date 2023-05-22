@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.102.31.3","lcahq.protezionecivile.it","","","","","lcahq.protezionecivile.it","","false"
 "18.102.31.29","quality.sienaimaging.com","","","","","quality.sienaimaging.com","","false"
 "18.102.31.230","*.dedit.io","","","","","*.dedit.io|dedit.io","","false"

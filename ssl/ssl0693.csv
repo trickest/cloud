@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.161.169.213","*.na.hsiplatformdev.com","","","","","*.na.hsiplatformdev.com|*.h4.donesafe.com","","false"
 "35.161.169.217","production.scribesecurity.com","","","","","production.scribesecurity.com|*.api.production.scribesecurity.com|*.production.scribesecurity.com","","false"
 "35.161.169.220","*.wdp.brave.com","","","","","*.wdp.brave.com|*.wdp-public.brave.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.170.40.103","application.jenslee.awsps.myinstance.com","","","","","application.jenslee.awsps.myinstance.com|netbal.jenslee.awsps.myinstance.com|classic.jenslee.awsps.myinstance.com","","false"
 "35.170.40.126","production.server.legitapps.com","","","","","production.server.legitapps.com","","false"
 "35.170.40.71","cluster85.canvas-user-content.com","","","","","cluster85.canvas-user-content.com|*.instructure.com|instructure.com|canvaslms.com|*.cluster85.canvas-user-content.com|*.canvaslms.com","","false"

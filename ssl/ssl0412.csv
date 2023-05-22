@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.39.100.131","*.byd.auto","比亚迪汽车工业有限公司","CN","深圳市","广东省","*.byd.auto|byd.auto","","false"
 "13.39.100.146","kube-apiserver","","","","","bc9a0e528f5e50387ea3bc5e1283d94e.sk1.eu-west-3.eks.amazonaws.com|ip-10-0-119-102.eu-west-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.16.210|10.0.119.102","false"
 "13.39.100.151","*.execute-api.eu-west-3.amazonaws.com","","","","","*.execute-api.eu-west-3.amazonaws.com","","false"

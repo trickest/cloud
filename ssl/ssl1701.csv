@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.73.181.90","ssv.xrc.docomo.ne.jp","","","","","ssv.xrc.docomo.ne.jp|lbe.xrc.docomo.ne.jp|*.lbe.xrc.docomo.ne.jp|*.ssv.xrc.docomo.ne.jp","","false"
 "35.73.181.96","stg.service.future-search.jp","","","","","stg.service.future-search.jp","","false"
 "35.73.181.97","kube-apiserver","","","","","e998b1dfc71c417f3ee7d2a454625cf9.gr7.ap-northeast-1.eks.amazonaws.com|ip-10-0-63-191.ap-northeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.14.62|10.0.63.191","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.53.253.7","*.aws42.tv2.no","","","","","*.aws42.tv2.no","","false"
 "13.53.253.20","7d7992e49365310ec5e997241c6312bd.com","","","","","7d7992e49365310ec5e997241c6312bd.com|96969696969696696696699996969699996969699.com|cbb5723fed9575909f113b17c09bc4bb3d6466c.de|969696969696966966669999696969999696969.com|b0e6cc97e9a9170e0234ce5912e24a4cb8ff9090737a645e29.de|a7bdece4963d6d4999981d84bcc14582b3cc880e72b52.cc|96969696969696696666999696969999696969.com|cbb5723fed9575909f113b17c09bc4bb3b6466c.de","","false"
 "13.53.253.21","transfer.eu-north-1.amazonaws.com","","","","","transfer.eu-north-1.amazonaws.com|*.transfer.eu-north-1.vpce.amazonaws.com","","false"

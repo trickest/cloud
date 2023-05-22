@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.9.30.195","kube-apiserver","","","","","809fedcad21ee1a28788c4b62950c169.sk1.us-west-1.eks.amazonaws.com|ip-172-16-105-148.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.31.1.116|172.16.105.148","false"
 "52.9.30.210","2r8.us","","","","","2r8.us|dev.2r8.us|www.2r8.us","","false"
 "52.9.30.204","default.company.io","Default Company Ltd.","US","Boulder","Colorado","","","true"

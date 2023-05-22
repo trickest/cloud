@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.134.76.255","kube-apiserver","","","","","e153865bc74d0b96c385cb733a794131.yl4.eu-west-2.eks.amazonaws.com|ip-10-0-103-204.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.126.121|10.0.103.204","false"
 "18.134.76.253","ctf-semema.aws.wiz-ctf.io","","","","","ctf-semema.aws.wiz-ctf.io","","false"
 "18.134.77.15","kube-apiserver","","","","","fe8373b4107cf5c7bf241ef879669610.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-105-101.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.12.157.170|172.16.105.101","false"

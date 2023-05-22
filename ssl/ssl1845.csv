@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.209.143.77","kube-apiserver","","","","","bfe598d4499f02513eba0688f5a3472a.yl4.us-east-1.eks.amazonaws.com|ip-172-16-186-93.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.254.113.41|172.16.186.93","false"
 "3.209.143.84","moment.materialsdatafacility.org","","","","","moment.materialsdatafacility.org","","false"
 "3.209.143.79","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "63.33.219.138","kube-apiserver","","","","","7f1d870013aa0e677da671c505d7c5b8.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-123-119.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.12.81.62|172.16.123.119","false"
 "63.33.219.118","ibericimport.com","","","","","ibericimport.com|*.ibericimport.com","","false"
 "63.33.219.162","localhost","Kong","US","San Francisco","California","","","true"

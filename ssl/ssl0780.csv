@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.96.5.46","prod.cliologs-ca.systems","","","","","prod.cliologs-ca.systems|*.prod.cliologs-ca.systems","","false"
 "3.96.6.16","*.voyager.na2.atomx.nanostring.com","","","","","*.voyager.na2.atomx.nanostring.com","","false"
 "3.96.5.250","kube-apiserver","","","","","e80894af07b4c696cb497df8aec6d14f.sk1.ca-central-1.eks.amazonaws.com|ip-172-16-118-64.ca-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.4.117.211|172.16.118.64","false"

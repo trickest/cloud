@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.3.110.203","staffstrength.shorelinenaturalresources.com","","","","","staffstrength.shorelinenaturalresources.com","","false"
 "52.3.110.250","condotecdr.com","","","","","condotecdr.com|app.condotecdr.com|api.condotecdr.com","","false"
 "52.3.111.2","www.nicc.edu","Northeast Iowa Community College","US","Calmar","Iowa","www.nicc.edu|nicc.edu|www.necasag.org|cms.nicc.edu|catalog.nicc.edu","","false"

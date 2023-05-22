@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.200.112.208","kube-apiserver","","","","","5cb2ea36efd71dafeb504b236aa40c51.gr7.eu-west-1.eks.amazonaws.com|ip-10-0-50-226.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.125.12|10.0.50.226","false"
 "18.200.112.226","nxdev-dev-ai.beta.nuxeocloud.com","","","","","nxdev-dev-ai.beta.nuxeocloud.com","","false"
 "18.200.112.215","colegiologopedas-cv.org","","","","","colegiologopedas-cv.org|colegiologopedas-cv.vfges.com|api-colegiologopedas-cv.vfges.com|www.colegiologopedas-cv.org|colegiologopedas-cv-web.vfges.com|*.colegiologopedas-cv.org","","false"

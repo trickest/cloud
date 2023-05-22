@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.25.51.93","availabilitytrnsfrmr-prod.mp-inventory-prod.nikecloud.com","Nike, Inc.","US","Beaverton","Oregon","availabilitytrnsfrmr-prod.mp-inventory-prod.nikecloud.com","","false"
 "52.25.51.116","kube-apiserver","","","","","97c300f0fcea875ac525bb1cf3899f68.gr7.us-west-2.eks.amazonaws.com|ip-10-0-102-203.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.16.103.101|10.0.102.203","false"
 "52.25.51.130","*.jsrdn.com","","","","","*.jsrdn.com|jsrdn.com","","false"

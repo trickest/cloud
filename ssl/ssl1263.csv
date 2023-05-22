@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.136.176.106","kube-apiserver","","","","","e4de270dda8e64ca9f6e8a70081e30fa.gr7.ap-southeast-1.eks.amazonaws.com|ip-10-0-61-104.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.49.9|10.0.61.104","false"
 "18.136.176.110","kube-apiserver","","","","","27cc769df14c9858d9c74f3d652685c7.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-33-37.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.19.13.165|172.16.33.37","false"
 "18.136.176.111","dataplane.ap-southeast-1.prod.translate.aws.a2z.com","Amazon.com Inc.","US","Seattle","Washington","dataplane.ap-southeast-1.prod.translate.aws.a2z.com|dataplane.onebox.ap-southeast-1.prod.translate.aws.a2z.com","","false"

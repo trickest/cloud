@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.211.151.41","productivo.datalaia.com","","","","","productivo.datalaia.com","","false"
 "52.211.151.35","*.alissa.agilent.com","","","","","*.alissa.agilent.com|alissa.agilent.com","","false"
 "52.211.151.42","activatucliente.dev.beercoin.es","","","","","activatucliente.dev.beercoin.es","","false"

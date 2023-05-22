@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.49.88.41","ads.adevinta.fotocasa.es","SCHIBSTED CLASSIFIED MEDIA SPAIN SL","ES","Madrid","Madrid","ads.adevinta.fotocasa.es|t.ads.adevinta.fotocasa.es|m.ads.adevinta.fotocasa.es|res.ads.adevinta.fotocasa.es|formacion.schibsted.fotocasa.es|t.formacion.schibsted.fotocasa.es|m.formacion.schibsted.fotocasa.es|res.formacion.schibsted.fotocasa.es|info.adevinta.fotocasa.es|t.info.adevinta.fotocasa.es|m.info.adevinta.fotocasa.es|res.info.adevinta.fotocasa.es|realestate.adevinta.fotocasa.es|t.realestate.adevinta.fotocasa.es|m.realestate.adevinta.fotocasa.es|res.realestate.adevinta.fotocasa.es|academy.fotocasa.es|t.academy.fotocasa.es|m.academy.fotocasa.es|res.academy.fotocasa.es","","false"
 "52.49.88.29","*.ec.sharjah.ac.ae","Ellucian Company L.P.","US","Reston","Virginia","*.ec.sharjah.ac.ae|ec.sharjah.ac.ae","","false"
 "52.49.88.31","*.bjr.cimpress.io","","","","","*.bjr.cimpress.io","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.86.84.68","*.smart-qc.com","","","","","*.smart-qc.com|smart-qc.com","","false"
 "54.86.84.114","*.us-east-1.cloudsearch.amazonaws.com","","","","","*.us-east-1.cloudsearch.amazonaws.com","","false"
 "54.86.84.124","sggw-staging.sendgrid.net","","","","","sggw-staging.sendgrid.net|*.sggw-staging.sendgrid.net","","false"

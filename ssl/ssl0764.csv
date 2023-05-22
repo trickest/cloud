@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.44.214.217","api.template-projet.24g.dev","","","","","api.template-projet.24g.dev","","false"
 "52.44.214.218","alplab-eem.nicedevops.com","","","","","alplab-eem.nicedevops.com|portal.alplab-eem.nicedevops.com|alplab-ems.nicedevops.com|api.portal.alplab-eem.nicedevops.com","","false"
 "52.44.214.226","kube-apiserver","","","","","96f07f0c1fe19284725154afa95b54bd.yl4.us-east-1.eks.amazonaws.com|ip-172-16-38-125.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.210.56.27|172.16.38.125","false"

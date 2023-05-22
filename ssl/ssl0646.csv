@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.212.114.36","*.coalitionmanager.org","","","","","*.coalitionmanager.org|coalitionmanager.org","","false"
 "54.212.114.40","qbo.intuit.com","INTUIT INC.","US","San Diego","California","qbo.intuit.com|*.prod.qbo.ie.intuit.com|*.prod.qbo.intuit.com|*.qbo.intuit.com|accounting.quickbooks.com|cloud.intuit.com|mintbizbeta.intuit.com|office.intuit.com|qboa.intuit.com|qboaccountant.intuit.com|www.accounting.quickbooks.com|downloads.quickbooks.com|emaillicense.quickbooks.com","","false"
 "54.212.114.47","*.innovation.centricsoftware.com","","","","","*.innovation.centricsoftware.com|*.centricsoftware.com","","false"

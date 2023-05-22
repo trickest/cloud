@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.212.158.90","kube-apiserver","","","","","27164af0a4c689cccb947600c47ba70a.sk1.us-west-2.eks.amazonaws.com|ip-10-0-191-242.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.112.99|10.0.191.242","false"
 "34.212.158.98","roscocloud.com","","","","","roscocloud.com","","false"
 "34.212.158.106","*.5thkind.net","","","","","*.5thkind.net|5thkind.net","","false"

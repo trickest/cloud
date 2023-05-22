@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.255.57.1","kube-apiserver","","","","","ee7f68de81378405ca37bd112b0eb20a.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-127-84.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.136.58|172.16.127.84","false"
 "54.255.57.3","pickap.in","","","","","pickap.in|www.pickap.in","","false"
 "54.255.57.7","*.ap-southeast-1.es.amazonaws.com","","","","","*.ap-southeast-1.es.amazonaws.com","","false"

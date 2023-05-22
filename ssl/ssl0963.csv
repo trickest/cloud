@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.228.210.77","*.procyon.dev.infotainment.pdx.atieva.com","","","","","*.procyon.dev.infotainment.pdx.atieva.com|*.infotainment.dev.atieva.com","","false"
 "44.228.210.83","gem-api.stage.us-west-2.gem.co","","","","","gem-api.stage.us-west-2.gem.co","","false"
 "44.228.210.101","prescription2learn.org","","","","","prescription2learn.org|www.prescription2learn.org","","false"

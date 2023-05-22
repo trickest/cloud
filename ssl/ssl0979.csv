@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.218.142.31","api.nudge-dev.transeosolutions.com","","","","","api.nudge-dev.transeosolutions.com|verify.nudge-dev.transeosolutions.com|admin.nudge-dev.transeosolutions.com|nudge-dev.transeosolutions.com|dashboard.nudge-dev.transeosolutions.com|mobile.nudge-dev.transeosolutions.com","","false"
 "54.218.142.35","kube-apiserver","","","","","5de70c0659096118d9c4c1c59b0d2424.gr7.us-west-2.eks.amazonaws.com|ip-10-0-48-232.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.16.128.149|10.0.48.232","false"
 "54.218.141.248","*.oomnitza.com","","","","","*.oomnitza.com|oomnitza.com","","false"

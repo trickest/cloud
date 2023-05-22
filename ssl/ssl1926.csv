@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.35.216.229","app.refillassistant.com","","","","","app.refillassistant.com|pwsecurehealth.com|rxdshealth.com","","false"
 "52.35.216.227","example.com","","","","","example.com|www.example.com","127.0.0.1","true"
 "52.35.216.232","*.macantacrm.com","","","","","*.macantacrm.com|*.salesferry.com|*.apps.salesferry.com|salesferry.com","","false"

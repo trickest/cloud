@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.195.225.145","*.c63.us-east-1.airflow.amazonaws.com","","","","","*.c63.us-east-1.airflow.amazonaws.com","","false"
 "34.195.225.140","example.com","","","","","","","true"
 "34.195.225.157","www.samd.cl","","","","","www.samd.cl|samd.cl","","false"

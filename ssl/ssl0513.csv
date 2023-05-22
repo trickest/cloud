@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.193.1.7","*.wibbitz.com","Wibbitz Ltd","IL","Tel Aviv-Yafo","","*.wibbitz.com|wibbitz.com","","false"
 "34.193.1.8","*.mq.us-east-1.amazonaws.com","","","","","*.mq.us-east-1.amazonaws.com","","false"
 "34.193.1.18","bowery.link","","","","","bowery.link|*.development.bowery.link|*.bowery.link|*.qa.bowery.link|*.staging.bowery.link","","false"

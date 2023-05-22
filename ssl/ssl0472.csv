@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.198.74.191","kube-apiserver","","","","","32c4190d60e38a9a982f1a56368ecbf9.gr7.us-east-1.eks.amazonaws.com|ip-10-0-55-216.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.11.141|10.0.55.216","false"
 "34.198.74.186","comicsandcards.net","","","","","comicsandcards.net","","false"
 "34.198.74.189","*.videoready.tv","","","","","*.videoready.tv","","false"

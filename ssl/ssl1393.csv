@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.136.191.210","kube-apiserver","","","","","d5315cb35606fa09604a53c806417dd0.gr7.us-east-2.eks.amazonaws.com|ip-172-16-185-109.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.137|172.16.185.109","false"
 "3.136.191.209","*.formaspace.com","","","","","*.formaspace.com|formaspace.com","","false"
 "3.136.191.211","clint.ed-staging.net","","","","","clint.ed-staging.net","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.32.211.42","kube-apiserver","","","","","3b7b7fda04a8e5cd8a609d40d563dd08.sk1.us-gov-west-1.eks.amazonaws.com|ip-172-16-126-124.us-gov-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.147.5.10|172.16.126.124","false"
 "3.32.211.55","kube-apiserver","","","","","ab8c98cac1a7f57549fe24c1758d9e5e.sk1.us-gov-west-1.eks.amazonaws.com|ip-172-16-54-80.us-gov-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.168.123.52|172.16.54.80","false"
 "3.32.211.63","*.us-gov-west-1.es.amazonaws.com","","","","","*.us-gov-west-1.es.amazonaws.com","","false"

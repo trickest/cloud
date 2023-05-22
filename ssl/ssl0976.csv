@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.79.51.254","www.healthness.co.kr","","","","","healthness.co.kr|www.healthness.co.kr","","false"
 "52.79.53.64","v.koreasmartvoting.com","","","","","v.koreasmartvoting.com","","false"
 "52.79.53.72","focusmediakorea.com","","","","","focusmediakorea.com|www.focusmediakorea.com","","false"

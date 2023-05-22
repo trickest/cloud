@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.20.172.246","stageaholic.com","","","","","stageaholic.com|*.stageaholic.com","","false"
 "52.20.172.252","*.sasdigital.com.br","","","","","*.sasdigital.com.br","","false"
 "52.20.173.4","*.ptk.stg.ampli.com.br","","","","","*.ptk.stg.ampli.com.br|ptk.int.ampli.com.br|*.ptk.int.ampli.com.br|ptk.stg.ampli.com.br","","false"

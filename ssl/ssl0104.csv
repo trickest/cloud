@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.185.242.45","kube-apiserver","","","","","7f7f8fe5d46dcb02005ad4c2126b5de9.yl4.us-west-2.eks.amazonaws.com|ip-10-0-179-157.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.16.83.106|10.0.179.157","false"
 "54.185.242.50","*.execute-api.us-west-2.amazonaws.com","","","","","*.execute-api.us-west-2.amazonaws.com","","false"
 "54.185.242.48","*.atgpay.com","","","","","*.atgpay.com","","false"

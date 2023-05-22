@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.183.242.216","*.mindrelief.ca","","","","","*.mindrelief.ca","","false"
 "35.183.242.219","staging.verifiedach.com","","","","","staging.verifiedach.com|staging4.verifiedach.com|staging-merchant.verifiedach.com|staging4-merchant.verifiedach.com|staging2.verifiedach.com|qa2-merchant.verifiedach.com|staging2-merchant.verifiedach.com|qa2.verifiedach.com","","false"
 "35.183.242.221","api.iotwireless.ca-central-1.amazonaws.com","","","","","api.iotwireless.ca-central-1.amazonaws.com","","false"

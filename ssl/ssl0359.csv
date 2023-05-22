@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "75.101.232.22","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "75.101.232.20","*.duolingo.com","","","","","*.duolingo.com|duolingo.com","","false"
 "75.101.232.28","*.carnowtest.com","","","","","*.carnowtest.com","","false"

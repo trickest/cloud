@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.95.211.155","*.ap-northeast-1.es.amazonaws.com","","","","","*.ap-northeast-1.es.amazonaws.com","","false"
 "54.95.211.158","*.wfc-internal.pt-aws.wni.com","","","","","*.wfc-internal.pt-aws.wni.com","","false"
 "54.95.211.161","dl-btc.com","","","","","dl-btc.com|*.dl-btc.com","","false"

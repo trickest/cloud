@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.79.241.156","api-chestomx.phenomx.ai","","","","","api-chestomx.phenomx.ai","","false"
 "52.79.241.219","*.klaymeta.io","","","","","*.klaymeta.io|klaymeta.io","","false"
 "52.79.241.251","admin.chaket.co.kr","","","","","admin.chaket.co.kr|api.chaket.co.kr|chaket.co.kr","","false"

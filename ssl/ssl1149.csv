@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.68.35.102","rsconnect.dev.cs.sats.cloud","","","","","rsconnect.dev.cs.sats.cloud","","false"
 "3.68.35.110","TRAEFIK DEFAULT CERT","","","","","234a1b167c18f6c91e62a8f2f1a85535.0b70b98dd82b68148f50c97ca698f0f1.traefik.default","","true"
 "3.68.35.58","*.csod.com","Cornerstone OnDemand Inc.","US","Santa Monica","California","*.csod.com|csod.com","","false"

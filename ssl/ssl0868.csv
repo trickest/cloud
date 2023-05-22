@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.239.28.11","kube-apiserver","","","","","471b94fb3698529497b6cdff2e44147b.gr7.us-east-1.eks.amazonaws.com|ip-172-16-117-185.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.121.50|172.16.117.185","false"
 "34.239.28.44","development.awake.cloud","","","","","development.awake.cloud","","false"
 "34.239.28.37","cloudresearch.com","","","","","cloudresearch.com|*.cloudresearch.com|*.turkprime.com|turkprime.com","","false"

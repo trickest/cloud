@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.51.69.211","acc.beheer.got-it.nl","","","","","acc.beheer.got-it.nl|acc.proefpakket.got-it.nl","","false"
 "52.51.69.239","ip-172-31-24-10","SomeOrganization","--","SomeCity","SomeState","localhost|localhost.localdomain|ip-172-31-24-10|ip-172-31-24-10.eu-west-1.compute.internal","","true"
 "52.51.69.220","*.eu-west-1.es.amazonaws.com","","","","","*.eu-west-1.es.amazonaws.com","","false"

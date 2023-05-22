@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.196.195.195","api.qa1.smartdrive.jp","","","","","api.qa1.smartdrive.jp","","false"
 "52.196.195.198","*.leonisand.co","","","","","*.leonisand.co","","false"
 "52.196.195.145","composer.headwaters.co.jp","","","","","composer.headwaters.co.jp","","false"

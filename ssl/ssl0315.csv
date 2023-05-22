@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.237.163.25","connect-uat.nswlrs.com.au","","","","","connect-uat.nswlrs.com.au","","false"
 "13.237.163.39","*.beta.tab.com.au","","","","","*.beta.tab.com.au","","false"
 "13.237.163.44","kube-apiserver","","","","","5c806034e8aebbbd04e02e0cc5dda0b8.gr7.ap-southeast-2.eks.amazonaws.com|ip-10-0-42-48.ap-southeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.138.221|10.0.42.48","false"

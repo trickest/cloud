@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.59.22.167","kube-apiserver","","","","","f91b3f75fc046114ed4b679cd52bde97.gr7.us-east-2.eks.amazonaws.com|ip-10-0-98-43.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.16.1.202|10.0.98.43","false"
 "13.59.22.165","curriculumdigitalmexicano.com","","","","","curriculumdigitalmexicano.com|cpanel.curriculumdigitalmexicano.com|cpcalendars.curriculumdigitalmexicano.com|cpcontacts.curriculumdigitalmexicano.com|mail.curriculumdigitalmexicano.com|webdisk.curriculumdigitalmexicano.com|webmail.curriculumdigitalmexicano.com|whm.curriculumdigitalmexicano.com|www.curriculumdigitalmexicano.com","","false"
 "13.59.22.173","ec2-13-59-22-173.us-east-2.compute.amazonaws.com","UTSA","US","San Antonio","Texas","","","true"

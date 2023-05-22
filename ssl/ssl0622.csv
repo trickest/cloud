@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.196.172.120","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com","","false"
 "44.196.172.126","kube-apiserver","","","","","53ce000ab7d45a8859f96c679599e196.gr7.us-east-1.eks.amazonaws.com|ip-10-0-103-134.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.124.11|10.0.103.134","false"
 "44.196.172.127","*.welvie.com","Welvie, LLC","US","Chicago","Illinois","*.welvie.com|welvie.com","","false"

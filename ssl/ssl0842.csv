@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.236.221.160","stage-mudax.xyz","","","","","stage-mudax.xyz|*.stage-mudax.xyz|www.stage-mudax.xyz","","false"
 "34.236.222.94","cylance.com","","","","","cylance.com|*.cylance.com","","false"
 "34.236.222.96","*.dev.vectoriousmed.com","","","","","*.dev.vectoriousmed.com|dev.vectoriousmed.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.208.93.22","*.content.cirrus.bloomberg.com","Bloomberg LP","US","New York","New York","*.content.cirrus.bloomberg.com|content.cirrus.bloomberg.com","","false"
 "44.208.93.28","*.teamwork.com","","","","","*.teamwork.com","","false"
 "44.208.93.31","kube-apiserver","","","","","1349d87a86fe21e9b688f30dae348414.gr7.us-east-1.eks.amazonaws.com|ip-10-0-171-199.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.150.184|10.0.171.199","false"

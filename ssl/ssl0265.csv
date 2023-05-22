@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.236.127.9","*.poc.v2xscms.eval.blackberry.com","BlackBerry Limited","CA","Waterloo","Ontario","*.poc.v2xscms.eval.blackberry.com|poc.v2xscms.eval.blackberry.com","","false"
 "54.236.127.133","kube-apiserver","","","","","d2aa4baa3a9d05229e2d945359ff1dbd.gr7.us-east-1.eks.amazonaws.com|ip-10-0-46-205.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.67.14|10.0.46.205","false"
 "54.236.127.135","novella-stage.prod.mheducation.com","","","","","novella-stage.prod.mheducation.com|novella.mheducation.com|highered.prod.mheducation.com|novella-live.prod.mheducation.com|highered.mheducation.com|novella.prod.mheducation.com","","false"

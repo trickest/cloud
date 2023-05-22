@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.28.198.207","kube-apiserver","","","","","6851d3f04b6a6f9a25daf1bdd830e9b6.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-50-140.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.31.0.1|10.4.6.124|172.16.50.140","false"
 "52.28.198.210","*.perspectium.net","","","","","*.perspectium.net|perspectium.net","","false"
 "52.28.198.213","*.weltherrschaft.jocoon.de","","","","","*.weltherrschaft.jocoon.de","","false"

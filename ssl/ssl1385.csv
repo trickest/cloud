@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.170.219.188","kube-apiserver","","","","","1d83201060d84e45d9effb4287f28f33.gr7.us-east-1.eks.amazonaws.com|ip-10-0-46-174.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.153.125|10.0.46.174","false"
 "35.170.219.195","kube-apiserver","","","","","a060b1918f281eaedab9da63b811bff2.gr7.us-east-1.eks.amazonaws.com|ip-10-0-36-34.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.27.77.23|10.0.36.34","false"
 "35.170.219.211","*.nodriza.io","","","","","*.nodriza.io|nodriza.io","","false"

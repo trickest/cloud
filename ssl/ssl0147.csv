@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "177.71.158.121","prajaenvios.com.br","","","","","prajaenvios.com.br|www.prajaenvios.com.br","","false"
 "177.71.158.146","*.finvestdtvm.io","","","","","*.finvestdtvm.io","","false"
 "177.71.157.225","*.einstein.br","","","","","*.einstein.br","","false"

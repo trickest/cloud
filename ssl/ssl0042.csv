@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.249.15.2","kube-apiserver","","","","","f92e8c75c27953cd1f5e618452d7f50a.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-40-160.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.249.146.85|172.16.40.160","false"
 "34.249.15.0","ats.preprod.aws.scania.com","","","","","ats.preprod.aws.scania.com","","false"
 "34.249.15.3","*.adobe-campaign.com","Adobe Inc.","US","San Jose","California","*.adobe-campaign.com","","false"

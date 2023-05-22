@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "23.22.136.239","kube-apiserver","","","","","d9329e4b22fd950a4f9114af897593bc.gr7.us-east-1.eks.amazonaws.com|ip-172-16-123-32.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.20.109.131|172.16.123.32","false"
 "23.22.136.240","23.22.136.240","","","","","","","false"
 "23.22.136.245","*.deltekenterprise.com","Deltek, Inc.","US","Herndon","Virginia","*.deltekenterprise.com|deltekenterprise.com","","false"

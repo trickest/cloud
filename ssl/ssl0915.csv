@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.205.206.103","saatva.com","","","","","saatva.com|saatva.io|*.saatva.com|*.saatva.io|tsc-starts-coding.com|*.tsc-starts-coding.com","","false"
 "52.205.206.121","kube-apiserver","","","","","808686fd8731a1b403be68befbc8c273.gr7.us-east-1.eks.amazonaws.com|ip-10-0-45-231.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|100.106.23.121|10.0.45.231","false"
 "52.205.206.108","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"

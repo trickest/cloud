@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.237.232.180","*.teradek-cloud.com","","","","","*.teradek-cloud.com|teradek-cloud.com","","false"
 "13.237.232.190","*.cloud.infor.com","Infor, US LLC","US","","New York","*.cloud.infor.com|cloud.infor.com","","false"
 "13.237.232.194","*.bloodstockauction.com","","","","","*.bloodstockauction.com","","false"

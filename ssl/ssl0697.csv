@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.200.36.130","kube-apiserver","","","","","2f870b383d8d98555b5dd9d6c6c03f6c.gr7.ap-northeast-2.eks.amazonaws.com|ip-172-16-113-55.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.242.201.181|172.16.113.55","false"
 "43.200.36.133","*.api.oilnow.co.kr","","","","","*.api.oilnow.co.kr|api.oilnow.co.kr","","false"
 "43.200.36.156","shopshopdomain.com","","","","","shopshopdomain.com|www.shopshopdomain.com","","false"

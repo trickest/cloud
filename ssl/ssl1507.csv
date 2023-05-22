@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.78.64.91","kube-apiserver","","","","","e2f696a0e6d10d71940127474dda4f25.gr7.ap-northeast-2.eks.amazonaws.com|ip-10-0-125-64.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.33.56.165|10.0.125.64","false"
 "52.78.64.82","*.adtcapshome.co.kr","","","","","*.adtcapshome.co.kr|adtcapshome.co.kr","","false"
 "52.78.64.90","kube-apiserver","","","","","321ff5910166cbb108467210fddf9f2b.sk1.ap-northeast-2.eks.amazonaws.com|ip-10-0-54-180.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.129.47|10.0.54.180","false"

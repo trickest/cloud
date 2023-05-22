@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.213.224.34","streetlite2.seakenergetics.com","","","","","streetlite2.seakenergetics.com","","false"
 "52.213.224.32","mp.auto1-test.com","","","","","mp.auto1-test.com|*.mp.auto1-test.com","","false"
 "52.213.224.39","kube-apiserver","","","","","087b98bd877f26f3418ad7c3d92aef4b.gr7.eu-west-1.eks.amazonaws.com|ip-10-0-125-234.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.22.162.21|10.0.125.234","false"

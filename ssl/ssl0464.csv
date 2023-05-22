@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.145.164.142","kube-apiserver","","","","","772f8ebaaa6a6743451b6f070d5d2aef.gr7.us-east-1.eks.amazonaws.com|ip-10-0-127-252.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.112.236|10.0.127.252","false"
 "54.145.164.144","kube-apiserver","","","","","39a1bca34ce81ff2e9fbb273c53b4e03.gr7.us-east-1.eks.amazonaws.com|ip-172-16-114-234.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.100.2.171|172.16.114.234","false"
 "54.145.164.148","scod-dev.mp-ordermgmt-test.nikecloud.com","","","","","scod-dev.mp-ordermgmt-test.nikecloud.com|osdscodservice-dev.mp-ordermgmt-test.nikecloud.com","","false"

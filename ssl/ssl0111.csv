@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.18.230.253","*.int.test.11880.tech","","","","","*.int.test.11880.tech|*.rosie.int.test.11880.tech|*.bea.int.test.11880.tech|*.argos.int.test.11880.tech|*.hook.int.test.11880.tech","","false"
 "52.18.231.10","*.sofiadss.gr","","","","","*.sofiadss.gr","","false"
 "52.18.231.14","*.execute-api.eu-west-1.amazonaws.com","","","","","*.execute-api.eu-west-1.amazonaws.com","","false"

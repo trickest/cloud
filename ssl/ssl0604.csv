@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.228.186.226","eetee.huntress.io","Huntress Labs Inc.","US","Ellicott City","Maryland","eetee.huntress.io|www.eetee.huntress.io","","false"
 "3.228.186.228","*.cloud.wazuh.com","","","","","*.cloud.wazuh.com","","false"
 "3.228.186.240","*.tecnomcrm.com","","","","","*.tecnomcrm.com|tecnomcrm.com","","false"

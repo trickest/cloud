@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "107.22.5.47","*.beta.execute-api.us-east-1.amazonaws.com","","","","","*.beta.execute-api.us-east-1.amazonaws.com","","false"
 "107.22.5.70","*.omaudits.com","","","","","*.omaudits.com","","false"
 "107.22.5.34","OP2 Devel","Nintendo Co., Ltd.","JP","Minami-ku","Kyoto","capi.sandbox.op2.nintendo.net|capi.td1.op2.nintendo.net|capi.jd1.op2.nintendo.net|capi.dd1.op2.nintendo.net|capi.dp1.op2.nintendo.net|capi.sd1.op2.nintendo.net|capi.sp1.op2.nintendo.net|capi.xd1.op2.nintendo.net","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.93.238.6","vasterporten.strateg.dev","","","","","vasterporten.strateg.dev","","false"
 "54.93.238.51","*.elegro.eu","","","","","*.elegro.eu|elegro.eu","","false"
 "54.93.238.60","secretcash-staging.cryptolitos.io","","","","","secretcash-staging.cryptolitos.io","","false"

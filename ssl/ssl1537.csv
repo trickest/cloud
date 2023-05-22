@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.88.110.36","*.clinspark.com","","","","","*.clinspark.com|*.fh.clinspark.com|*.val.clinspark.com|*.demo.clinspark.com|*.training.clinspark.com|*.dev.clinspark.com","","false"
 "54.88.110.51","*.jljpb7f7lpbq8.us-east-1.cs.amazonlightsail.com","","","","","*.jljpb7f7lpbq8.us-east-1.cs.amazonlightsail.com","","false"
 "54.88.110.27","*.transformationradio.fm","","","","","*.transformationradio.fm","","false"

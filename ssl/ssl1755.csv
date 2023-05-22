@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.73.132.2","kube-apiserver","","","","","8257d1844a55a5c297989b7e50bc67f0.gr7.us-east-1.eks.amazonaws.com|ip-172-16-115-11.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.252.1.60|172.16.115.11","false"
 "52.73.132.11","*.staging.coworker.com","","","","","*.staging.coworker.com","","false"
 "52.73.132.10","cryptochill.com","","","","","cryptochill.com|*.cryptochill.com","","false"

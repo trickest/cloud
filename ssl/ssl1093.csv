@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.223.238.41","kube-apiserver","","","","","a90eeabee6ff996a40711430d8559ec6.gr7.us-west-2.eks.amazonaws.com|ip-172-16-114-167.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.157.206|172.16.114.167","false"
 "34.223.238.51","aws-dev.highstreet.market","","","","","aws-dev.highstreet.market|staging.highstreet.market|*.staging.highstreet.market|*.aws-dev.highstreet.market|*.dev.highstreet.market|dev.highstreet.market","","false"
 "34.223.238.62","rm-b-10.dev.msc.roku.com","","","","","rm-b-10.dev.msc.roku.com|rokumesh-b-10.us-west-2.dev.msc.roku.com","","false"

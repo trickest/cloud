@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.228.48.203","*.dq62og2lv68c8.us-east-1.cs.amazonlightsail.com","","","","","*.dq62og2lv68c8.us-east-1.cs.amazonlightsail.com","","false"
 "34.228.48.206","*.scoutrfp.com","","","","","*.scoutrfp.com|scoutrfp.com|*.go.scoutrfp.com","","false"
 "34.228.48.201","*.k8s.nph.dpn.inmar.com","","","","","*.k8s.nph.dpn.inmar.com","","false"

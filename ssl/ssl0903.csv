@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.228.150.39","ip-172-31-29-237.ec2.internal","","","","","","","true"
 "34.228.150.54","*.certain.com","Certain Inc","US","San Francisco","California","*.certain.com|certain.com","","false"
 "34.228.150.55","sandbox.cloud.laqus.com.br","","","","","sandbox.cloud.laqus.com.br|sandbox.cloud.laqus.io|*.sandbox.cloud.laqus.com.br|*.sandbox.cloud.laqus.io","","false"

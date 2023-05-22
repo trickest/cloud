@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.210.204.233","*.legitify.legal","","","","","*.legitify.legal","","false"
 "52.210.204.234","cms.fincantieri.it","FINCANTIERI S.p.A.","IT","Trieste","Friuli Venezia Giulia","cms.fincantieri.it|cms.dev.fincantieri.it|api.cms.fincantieri.it|medias.cms.fincantieri.it|api.cms.dev.fincantieri.it|medias.cms.dev.fincantieri.it|medias.cms.test.fincantieri.it|cms.test.fincantieri.it|api.cms.test.fincantieri.it","","false"
 "52.210.204.239","*.iam.eu-west.philips-healthsuite.com","Philips Healthcare Informatics, Inc","US","Cambridge","Massachusetts","*.iam.eu-west.philips-healthsuite.com|iam.eu-west.philips-healthsuite.com","","false"

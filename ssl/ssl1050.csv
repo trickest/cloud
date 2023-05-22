@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.241.135.108","dpservice.integ.us-west-2.quicksight.aws.a2z.com","","","","","dpservice.integ.us-west-2.quicksight.aws.a2z.com|spaceneedledataprepservice.integ.us-west-2.quicksight.aws.a2z.com","","false"
 "44.241.135.110","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"
 "44.241.135.127","dev.app.provisioning.rd.elliemae.io","","","","","dev.app.provisioning.rd.elliemae.io","","false"

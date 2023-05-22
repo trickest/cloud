@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.226.223.193","travelservices.worldbacktowork.com","","","","","travelservices.worldbacktowork.com","","false"
 "44.226.223.192","wiki.davescrappywiki.fail","","","","","wiki.davescrappywiki.fail","","false"
 "44.226.223.203","kube-apiserver","","","","","030ed3d299d788fe5dc59b9781a301a2.yl4.us-west-2.eks.amazonaws.com|ip-172-16-166-214.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.129.235.49|172.16.166.214","false"

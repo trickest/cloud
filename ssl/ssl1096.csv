@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.86.243.40","kube-apiserver","","","","","8920f36bd9123f289043294240298526.gr7.us-east-1.eks.amazonaws.com|ip-172-16-96-136.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.59.3.95|172.16.96.136","false"
 "54.86.243.63","*.dev.kd-dev.net","","","","","*.dev.kd-dev.net","","false"
 "54.86.243.83","*.mspws.net","","","","","*.mspws.net","","false"

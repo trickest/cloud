@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.17.88.185","kube-apiserver","","","","","cdb3d493b975a19b8b2ab8f509687923.gr7.us-east-2.eks.amazonaws.com|ip-172-16-97-19.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.1.187|172.16.97.19","false"
 "3.17.88.184","quickcheck-dev.eds.iu.edu","","","","","quickcheck-dev.eds.iu.edu|www.quickcheck-dev.eds.iu.edu","","false"
 "3.17.88.174","cisco.onquip.com","","","","","cisco.onquip.com|*.cisco.qvpc-apps.com|*.cisco.onquip.com|cisco.qvpc-apps.com","","false"

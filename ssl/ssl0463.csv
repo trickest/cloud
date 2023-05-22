@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.145.65.101","props-staging.pitchly.com","","","","","props-staging.pitchly.com","","false"
 "54.145.65.114","getproperly.com","","","","","getproperly.com|getproperly.it|getproperly.fr|*.getproperly.de|*.getproperly.net|*.getproperly.co.uk|getproperly.co.nz|getproperly.net|properlyinc.com|*.getproperly.fr|*.getproperly.it|*.getproperly.es|getproperly.co.uk|getproperly.org|getproperly.es|*.getproperly.co.nz|*.properlyinc.com|*.getproperly.org|getproperly.de|*.getproperly.com","","false"
 "54.145.65.124","abc4digital.com","","","","","abc4digital.com|*.abc4digital.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.240.60.95","*.sbfinance.intuit.com","INTUIT INC.","US","San Diego","California","*.sbfinance.intuit.com|camps.intuit.com|*.camps.intuit.com|*.qbinproduct.intuit.com|*.api.intuit.com|*.api.intuit.ae|*.api.intuit.ca|*.api.intuit.co.za|*.api.intuit.com.au|*.api.intuit.fr|*.api.intuit.hk|*.api.intuit.mx|*.api.intuit.ph|*.api.intuit.sg|*.api.quickbooks.co.uk|*.api.quickbooks.com.br|*.platform.intuit.com","","false"
 "44.240.60.97","*.canongdo.com","","","","","*.canongdo.com","","false"
 "44.240.60.109","kube-apiserver","","","","","3b62fb6c35b0221ea73049c6642b5e33.gr7.us-west-2.eks.amazonaws.com|ip-172-16-32-83.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.21.3.165|172.16.32.83","false"

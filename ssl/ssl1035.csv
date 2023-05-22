@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.214.32.133","*.fgf5el8a65sps.us-east-1.cs.amazonlightsail.com","","","","","*.fgf5el8a65sps.us-east-1.cs.amazonlightsail.com","","false"
 "18.214.32.141","*.scanslated.com","","","","","*.scanslated.com","","false"
 "18.214.32.129","*.coupadev.com","Coupa Software Inc.","US","San Mateo","California","*.coupadev.com|coupadev.com","","false"

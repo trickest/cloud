@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.126.196.89","kube-apiserver","","","","","15fa7730ad8cd9dd01b5f402bffbe487.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-60-56.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.8.155|172.16.60.56","false"
 "3.126.196.76","*.bookis.com","","","","","*.bookis.com","","false"
 "3.126.196.78","manage-staging.augmentify.me","","","","","manage-staging.augmentify.me","","false"

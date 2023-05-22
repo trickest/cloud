@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.81.219.153","kube-apiserver","","","","","4b2375b44cf47288503b986cb7cdd483.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-166-233.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.30.8.21|172.16.166.233","false"
 "99.81.219.164","*.scratch.autoclear.itv.com","","","","","*.scratch.autoclear.itv.com","","false"
 "99.81.219.168","sandbox.jugo.io","","","","","sandbox.jugo.io|*.sandbox.jugo.io","","false"

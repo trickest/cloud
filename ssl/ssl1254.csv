@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.67.59.135","kube-apiserver","","","","","cac2fc795920a282768dc25c37f70b44.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-44-120.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.23.53|172.16.44.120","false"
 "3.67.59.138","*.mwcbarcelona.com","Jemexideas","HK","","Hong Kong","","","true"
 "3.67.59.147","*.fastvan.com","","","","","*.fastvan.com","","false"

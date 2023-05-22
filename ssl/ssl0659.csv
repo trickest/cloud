@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.112.119.33","sma9.jp","","","","","sma9.jp|www.sma9.jp","","false"
 "13.112.119.31","*.hotelpay.jp","","","","","*.hotelpay.jp","","false"
 "13.112.119.38","*.wazutomo.com","","","","","*.wazutomo.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.55.84.18","*.outsystemsenterprise.com","Outsystems - Software Em Rede S.A.","PT","Linda-A-Velha","","*.outsystemsenterprise.com|outsystemsenterprise.com","","false"
 "52.55.84.20","kube-apiserver","","","","","a8caf46e24e9dbc40a6320b6e9ca0b55.gr7.us-east-1.eks.amazonaws.com|ip-172-16-107-220.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.255.0.1|10.168.155.8|172.16.107.220","false"
 "52.55.84.23","hexfwq442-hx-webui-1.hex01.helix.apps.fireeye.com","FireEye, Inc.","US","Milpitas","California","","","true"

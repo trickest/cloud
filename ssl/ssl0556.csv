@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.234.78.67","localhost.localdomain","SomeOrganization","--","SomeCity","SomeState","","","true"
 "3.234.78.62","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"
 "3.234.78.73","*.internal-crmdev.640017853020.yab-ta.com","","","","","*.internal-crmdev.640017853020.yab-ta.com","","false"

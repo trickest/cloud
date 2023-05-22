@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.215.166.86","kube-apiserver","","","","","c8feb301d9057fe4a0a5344c533f8728.gr7.us-east-1.eks.amazonaws.com|ip-10-0-114-102.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|11.91.90.38|10.0.114.102","false"
 "44.215.166.97","*.automationanywhere.com","","","","","*.automationanywhere.com|automationanywhere.com","","false"
 "44.215.166.122","*.d6uljaa57bue0.us-east-1.cs.amazonlightsail.com","","","","","*.d6uljaa57bue0.us-east-1.cs.amazonlightsail.com","","false"

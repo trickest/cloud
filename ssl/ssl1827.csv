@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.21.239.253","kube-apiserver","","","","","5fb7be46980845d0a1b8b0cf632808ae.gr7.us-east-2.eks.amazonaws.com|ip-10-0-117-194.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.19.75|10.0.117.194","false"
 "3.21.239.252","customerstatushub.champds.com","","","","","customerstatushub.champds.com","","false"
 "3.21.239.254","*.fighttm.com","","","","","*.fighttm.com|fighttm.com","","false"

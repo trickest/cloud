@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.215.79.76","gamma.us-east-1.suggestion-targeting.alexa-shopping.amazon.dev","","","","","gamma.us-east-1.suggestion-targeting.alexa-shopping.amazon.dev","","false"
 "18.215.79.84","kube-apiserver","","","","","21c58fef85a8196b2e86f1f3a0291a3a.gr7.us-east-1.eks.amazonaws.com|ip-10-0-59-201.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.98.49|10.0.59.201","false"
 "18.215.79.92","*.execute-api.us-east-1.amazonaws.com","","","","","*.execute-api.us-east-1.amazonaws.com","","false"

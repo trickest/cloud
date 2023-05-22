@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.79.80.5","api.staging.mercatoprogrammaticpublishing.com","","","","","api.staging.mercatoprogrammaticpublishing.com","","false"
 "54.79.80.14","*.swmdigital.io","","","","","*.swmdigital.io|swmdigital.io","","false"
 "54.79.80.10","wizardly-swartz.54-79-80-10.plesk.page","","","","","wizardly-swartz.54-79-80-10.plesk.page","","false"

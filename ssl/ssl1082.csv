@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.80.15.135","teleport-aws.cassbana.com","","","","","teleport-aws.cassbana.com","","false"
 "99.80.15.166","ip-10-144-33-86.prod.eu-west-1.unibailprod.eu-west-1.unibail","Unspecified","US","","","ip-10-144-33-86.prod.eu-west-1.unibailprod.eu-west-1.unibail","","false"
 "99.80.15.164","century21.chatbot.kickmybot.com","","","","","century21.chatbot.kickmybot.com","","false"

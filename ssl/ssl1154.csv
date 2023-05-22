@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.228.50.185","*.execute-api.eu-west-1.amazonaws.com","","","","","*.execute-api.eu-west-1.amazonaws.com","","false"
 "54.228.50.184","*.seeraspain.com","","","","","*.seeraspain.com|seeraspain.com","","false"
 "54.228.50.193","*.prod.ateam.acast.cloud","","","","","*.prod.ateam.acast.cloud","","false"

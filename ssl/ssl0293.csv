@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.195.150.99","*.0dr42ra0ilqb2.us-east-1.cs.amazonlightsail.com","","","","","*.0dr42ra0ilqb2.us-east-1.cs.amazonlightsail.com","","false"
 "34.195.150.102","formazione.aepinformatica.it","","","","","formazione.aepinformatica.it|www.formazione.aepinformatica.it","","false"
 "34.195.150.105","*.execute-api.us-east-1.amazonaws.com","","","","","*.execute-api.us-east-1.amazonaws.com","","false"

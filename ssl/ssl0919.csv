@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.64.234.29","mycloudalert.com","","","","","mycloudalert.com|*.mycloudalert.com","","false"
 "54.64.234.40","*.dev-ictouchless.net","","","","","*.dev-ictouchless.net","","false"
 "54.64.234.41","*.onepiece-cardgame.com","BANDAI Co., Ltd.","JP","Taito-ku","Tokyo","*.onepiece-cardgame.com|onepiece-cardgame.com","","false"

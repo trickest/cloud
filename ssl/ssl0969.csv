@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.231.62.61","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"
 "44.231.62.66","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "44.231.62.97","kube-apiserver","","","","","a71628520857509220c3afbbc7f92d83.beta.us-west-2.wesley.amazonaws.com|ip-10-0-122-162.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.165.163|10.0.122.162","false"

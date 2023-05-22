@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.244.170.131","services.potterybarn.com","Williams-Sonoma, Inc.","US","San Francisco","California","services.potterybarn.com","","false"
 "54.244.170.124","sni-support-required-for-valid-ssl","","","","","","","true"
 "54.244.170.143","*.ncs-saleslink.io","","","","","*.ncs-saleslink.io","","false"

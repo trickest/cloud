@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.168.47.229","kube-apiserver","","","","","ip-172-16-56-169.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local|0f7d8661b7837d323088292b6c4a0195.gr7.eu-west-2.eks.amazonaws.com","172.20.0.1|10.0.13.79|172.16.56.169","false"
 "18.168.47.200","letsencrypt-nginx-proxy-companion","","","","","","","true"
 "18.168.47.216","*.vmock.com","","","","","*.vmock.com|vmock.com","","false"

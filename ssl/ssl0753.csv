@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.115.124.184","admin.stg.nuri-kae.jp","","","","","admin.stg.nuri-kae.jp|*.admin.stg.nuri-kae.jp","","false"
 "13.115.124.191","elb.smps-weather.auone.jp","","","","","elb.smps-weather.auone.jp","","false"
 "13.115.124.116","s-manga.net","","","","","s-manga.net|*.s-manga.net","","false"

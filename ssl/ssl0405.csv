@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.167.48.181","kube-apiserver","","","","","3eece3b36fc33e2704cf1aed609ea751.sk1.us-west-2.eks.amazonaws.com|ip-172-16-42-171.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.192.177.250|172.16.42.171","false"
 "35.167.48.200","*.nicecxone-dev.com","inContact, Inc.","US","Sandy","Utah","*.nicecxone-dev.com|nicecxone-dev.com|*.my.nicecxone-dev.com|*.dev.niceincontact.com|*.dev.nice-incontact.com|*.my.dev.niceincontact.com|*.my.dev.nice-incontact.com|*.ucnlabext.com|*.my.ucnlabext.com","","false"
 "35.167.48.187","*.7e79tnkm0eqrc.us-west-2.cs.amazonlightsail.com","","","","","*.7e79tnkm0eqrc.us-west-2.cs.amazonlightsail.com","","false"

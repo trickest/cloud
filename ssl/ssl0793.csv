@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.50.93.226","kube-apiserver","","","","","d70d372750e94a66d73ab2ece84f52d4.sk1.eu-west-1.eks.amazonaws.com|ip-10-0-174-136.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.115.144|10.0.174.136","false"
 "52.50.93.214","labruket.com","","","","","labruket.com|*.labruket.se|*.labruket.com|*.labruket.de|labruket.de|labruket.se|*.labruket.fr|labruket.fr","","false"
 "52.50.93.204","monitoring.crint.net","","","","","monitoring.crint.net|*.monitoring.crint.net","","false"

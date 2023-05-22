@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.168.57.245","kube-apiserver","","","","","de2981a048bfbc5b34749210283501b5.yl4.ap-northeast-3.eks.amazonaws.com|ip-172-16-42-74.ap-northeast-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.150.141|172.16.42.74","false"
 "15.168.57.252","kube-apiserver","","","","","0e177ea9adfc25517cb5146297f42540.yl4.ap-northeast-3.eks.amazonaws.com|ip-172-16-124-212.ap-northeast-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.145.94|172.16.124.212","false"
 "15.168.58.2","web.medicalkotoba.com","","","","","web.medicalkotoba.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.12.78.218","portal-redrock.com","","","","","portal-redrock.com|*.portal-redrock.com","","false"
 "52.12.79.3","us-west-2.stinger-ad.bidr.io","","","","","us-west-2.stinger-ad.bidr.io|*.anx-lax1.stinger-ad.bidr.io|*.us-west-2.stinger-ad.bidr.io","","false"
 "52.12.79.11","kube-apiserver","","","","","c185a4b9b66d6acf09729da7d4f67378.gr7.us-west-2.eks.amazonaws.com|ip-10-0-109-86.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.16.175.132|10.0.109.86","false"

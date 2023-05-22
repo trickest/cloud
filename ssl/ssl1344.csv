@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.70.130.0","*.us-east-1.es-integ.amazonaws.com","","","","","*.us-east-1.es-integ.amazonaws.com","","false"
 "52.70.130.19","*.shiphero.com","","","","","*.shiphero.com|shiphero.com","","false"
 "52.70.130.23","wheniwork-acceptance.com","","","","","wheniwork-acceptance.com|api.tasks.wiw-acceptance.net|api.login.wiw-acceptance.net|api.integrations.wiw-acceptance.net|*.api.wheniwork-acceptance.com|*.wheniwork-acceptance.com|api.wiw-acceptance.net|*.api.wiw-acceptance.net|*.wiw-acceptance.net|api.integrations.wheniwork-acceptance.com|api.tasks.wheniwork-acceptance.com|wiw-acceptance.net|api.login.wheniwork-acceptance.com|api.wheniwork-acceptance.com","","false"

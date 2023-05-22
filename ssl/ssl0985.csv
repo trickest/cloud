@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "50.19.62.56","*.galvan.com","Galvan Group, Inc","US","Laredo","Texas","*.galvan.com|www.galvan.com|galvan.com","","false"
 "50.19.61.244","learning.go-africa.io","","","","","learning.go-africa.io","","false"
 "50.19.62.130","*.hellotars.com","","","","","*.hellotars.com|hellotars.com","","false"

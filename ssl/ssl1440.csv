@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.39.192.246","kube-apiserver","","","","","6d8922edb0576f2cbcd7402fb4fca301.gr7.us-west-2.eks.amazonaws.com|ip-172-16-167-58.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.98.61.188|172.16.167.58","false"
 "52.39.192.244","*.tsheets.com","INTUIT INC.","US","San Diego","California","*.tsheets.com|tsheets.com|*.a.tsheets.com|a.tsheets.com","","false"
 "52.39.192.254","kube-apiserver","","","","","d1b4233299d988eb587ed01b6140ad3e.yl4.us-west-2.eks.amazonaws.com|ip-10-0-166-200.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.167.89|10.0.166.200","false"

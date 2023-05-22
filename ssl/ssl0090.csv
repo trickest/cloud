@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.189.150.218","kube-apiserver","","","","","64e8d956b13852013c305ce44ade9f57.gr7.us-west-2.eks.amazonaws.com|ip-10-0-185-227.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.2.63|10.0.185.227","false"
 "54.189.150.230","*.iot.us-west-2.amazonaws.com","","","","","iot.us-west-2.amazonaws.com|*.iot.us-west-2.amazonaws.com","","false"
 "54.189.150.255","monsterstudio.io","","","","","monsterstudio.io|*.monsterstudio.io","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.79.232.189","*.public.dev.indirect-ads.dev.outfra.xyz","","","","","*.public.dev.indirect-ads.dev.outfra.xyz","","false"
 "54.79.232.176","*.mq.ap-southeast-2.amazonaws.com","","","","","*.mq.ap-southeast-2.amazonaws.com","","false"
 "54.79.232.192","*.wowza.arlo.com","Arlo Technologies, Inc.","US","Milpitas","California","*.wowza.arlo.com|wowza.arlo.com","","false"

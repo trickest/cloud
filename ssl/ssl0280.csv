@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.32.40.61","*.us-gov-west-1.es.amazonaws.com","","","","","*.us-gov-west-1.es.amazonaws.com","","false"
 "3.32.40.99","vault.fieldglass.dev.sapns2.us","","","","","vault.fieldglass.dev.sapns2.us","","false"
 "3.32.39.219","*.mscm.govstage.inforgov.com","","","","","*.mscm.govstage.inforgov.com","","false"

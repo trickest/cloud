@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.28.78.138","walktest.ranlytics.com","","","","","walktest.ranlytics.com|walktest2.ranlytics.com","","false"
 "52.28.78.152","kopano-new.int.binary-artworks.com","binary artworks","DE","DE","DE","kopano-new.int.binary-artworks.com|kopano-new","","false"
 "52.28.78.144","prod.mmk.mewa.cloud","","","","","prod.mmk.mewa.cloud","","false"

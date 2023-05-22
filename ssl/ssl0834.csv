@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.238.2.13","*.af1platform.com","","","","","*.af1platform.com|*.preprod.ent-e1pdata-01.aws.ent.af1platform.com","","false"
 "34.238.2.10","*.healthcaresource.com","Symplr Software LLC","US","Houston","Texas","*.healthcaresource.com|healthcaresource.com","","false"
 "34.238.0.18","cnr.interpricetech.com","","","","","cnr.interpricetech.com|www.cnr.admin-isolated.interpricetech.com|cnr.admin-isolated.interpricetech.com|cnr.admin.interpricetech.com|www.cnr.interpricetech.com|www.cnr.admin.interpricetech.com","","false"

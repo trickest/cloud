@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.135.11.250","kube-apiserver","","","","","7ddbf0cc68c478ca396f58221c6e46ba.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-123-122.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.1.178|172.16.123.122","false"
 "18.135.11.254","enta.cloud","","","","","enta.cloud|myuserportal.co.uk|*.enta.net|enta.net|*.myuserportal.co.uk|*.enta.cloud|cityfibre.com|*.cityfibre.com","","false"
 "18.135.12.1","castus.3cx.uk","","","","","castus.3cx.uk","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "44.232.121.142","*.verygoodsecurity.io","","","","","*.verygoodsecurity.io|*.us-west-2.dev.vault.verygood.systems","","false"
 "44.232.121.150","*.execute-api.us-west-2.amazonaws.com","","","","","*.execute-api.us-west-2.amazonaws.com","","false"
 "44.232.121.116","wi-d80","Unspecified","US","","","wi-d80","","false"

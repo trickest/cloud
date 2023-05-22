@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.141.162.21","spring-api.vnv.conity.com","","","","","spring-api.vnv.conity.com","","false"
 "3.141.162.40","kube-apiserver","","","","","eed9f6a9f782e2ac7903c5cf78c39d66.gr7.us-east-2.eks.amazonaws.com|ip-10-0-188-101.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.100.39|10.0.188.101","false"
 "3.141.162.36","betaibp.com","","","","","betaibp.com|secuencia.betaibp.com|www.betaibp.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.1.157.222","*.main.friendly-goldwasser-jhy7mtd.cribl.cloud","","","","","*.main.friendly-goldwasser-jhy7mtd.cribl.cloud|in.main-default-friendly-goldwasser-jhy7mtd.cribl.cloud|main-friendly-goldwasser-jhy7mtd.cribl.cloud","","false"
 "52.1.157.209","staging.6vtuheyujb.us-east-1.elasticbeanstalk.com","","","","","staging.6vtuheyujb.us-east-1.elasticbeanstalk.com","","false"
 "52.1.157.239","*.6lro3kgdg4gp8.us-east-1.cs.amazonlightsail.com","","","","","*.6lro3kgdg4gp8.us-east-1.cs.amazonlightsail.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.157.0.231","35.82.209.3","LeapXpert","SG","SG","SG","","","false"
 "54.157.0.204","duelazo.com","","","","","duelazo.com","","false"
 "54.157.0.238","kube-apiserver","","","","","c2be55847202e2c8b2db4e65c816fe9e.gr7.us-east-1.eks.amazonaws.com|ip-10-0-99-61.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.83.16|10.0.99.61","false"

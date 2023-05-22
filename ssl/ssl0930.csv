@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.179.114.20","call.mansi.io","","","","","call.mansi.io","","false"
 "54.179.113.174","www.finsi.com.ph","","","","","www.finsi.com.ph","","false"
 "54.179.114.27","*.file.samsungcloud.com","Samsung Electronics Co., Ltd.","KR","","Gyeonggi-do","*.file.samsungcloud.com|file.samsungcloud.com","","false"

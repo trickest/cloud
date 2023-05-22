@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.252.240.128","kube-apiserver","","","","","ce167aa1390487af0006075444474e1b.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-189-122.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.16.1.13|172.16.189.122","false"
 "34.252.240.126","canary.tools","","","","","*.canary.tools|canary.tools","","false"
 "34.252.240.143","mobte.net","","","","","mobte.net|*.mobte.net","","false"

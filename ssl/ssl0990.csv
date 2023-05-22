@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.237.237.141","qastreaminfra.com","","","","","qastreaminfra.com|*.qastreaminfra.com","","false"
 "34.237.237.145","centrobill.mantika.io","","","","","centrobill.mantika.io","","false"
 "34.237.237.150","kube-apiserver","","","","","db44c9e16b10f08d17ab8dda1aaf7ba0.gr7.us-east-1.eks.amazonaws.com|ip-172-16-117-59.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.9.101.70|172.16.117.59","false"

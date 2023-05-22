@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.142.110.150","kube-apiserver","","","","","4eb606558a36c01311ddc3bc4da913a7.gr7.ap-southeast-1.eks.amazonaws.com|ip-10-0-171-46.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.43.184|10.0.171.46","false"
 "18.142.110.155","hooperlabs.com","","","","","hooperlabs.com|www.hooperlabs.com|biz.hooperlabs.com|dev.hooperlabs.com|*.hooperlabs.com|stgbiz.hooperlabs.com","","false"
 "18.142.110.163","","","","","","","","true"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "23.21.150.59","*.us-east-1.aws.confluent.cloud","","","","","*.us-east-1.aws.confluent.cloud|*.us-east-1.aws.glb.confluent.cloud","","false"
 "23.21.150.63","*.alk.com","","","","","*.alk.com|*.trimblemaps.com","","false"
 "23.21.150.78","*.velotax.com.br","","","","","*.velotax.com.br|velotax.com.br","","false"

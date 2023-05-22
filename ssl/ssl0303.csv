@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.75.60.13","kube-apiserver","","","","","1c2d1415e387b2d306b444f8ad6e9b71.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-166-237.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.64.25.1|172.16.166.237","false"
 "54.75.60.16","*.epoints.com","","","","","*.epoints.com","","false"
 "54.75.60.21","console-acceptance.vwapps.io","","","","","console-acceptance.vwapps.io","","false"

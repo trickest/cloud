@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.185.199.136","*.prod.majora.aws.generali-cloud.net","","","","","*.prod.majora.aws.generali-cloud.net","","false"
 "18.185.199.142","page.prod.swanmirror.xyz","","","","","page.prod.swanmirror.xyz","","false"
 "18.185.199.148","tableau.uefa.ch","","","","","tableau.uefa.ch","","false"

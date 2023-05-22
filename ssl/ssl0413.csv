@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.39.177.248","*.development-sup-aws.wethenew.com","","","","","*.development-sup-aws.wethenew.com","","false"
 "13.39.177.244","kube-apiserver","","","","","a673871a263960fcd073b914222e7025.gr7.eu-west-3.eks.amazonaws.com|ip-172-16-108-187.eu-west-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.28.239|172.16.108.187","false"
 "13.39.177.250","kube-apiserver","","","","","5ba26397d436b09e865c50977fb9b6f8.yl4.eu-west-3.eks.amazonaws.com|ip-172-16-172-237.eu-west-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.103.218|172.16.172.237","false"

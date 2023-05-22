@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.206.211.33","ge4bkp.us-east-1.dellinc.graxaws.com","","","","","ge4bkp.us-east-1.dellinc.graxaws.com|*.ge4bkp.us-east-1.dellinc.graxaws.com","","false"
 "52.206.211.36","docuphase-qa.com","","","","","docuphase-qa.com|*.docuphase-qa.com","","false"
 "52.206.211.43","kube-apiserver","","","","","76248e11ebcf229a74869e061da183b0.gr7.us-east-1.eks.amazonaws.com|ip-172-16-107-139.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.11.1.27|172.16.107.139","false"

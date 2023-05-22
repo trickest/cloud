@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.169.92.189","agent.eu2.integration.wiz.io","","","","","agent.eu2.integration.wiz.io","","false"
 "18.169.92.188","cityam.uk","","","","","cityam.uk|www.cityam.uk","","false"
 "18.169.92.197","jenkins.sozie.com","","","","","jenkins.sozie.com","","false"

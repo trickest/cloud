@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.34.87.50","spares.kr","","","","","spares.co.kr|spares.kr|spares.or.kr|www.spares.co.kr|www.spares.kr|www.spares.or.kr","","false"
 "3.34.87.55","*.playbattlegrounds.com","","","","","*.playbattlegrounds.com","","false"
 "3.34.87.62","softbrain.xyz","","","","","softbrain.xyz|*.softbrain.xyz","","false"

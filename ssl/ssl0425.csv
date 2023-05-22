@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.31.99.244","kube-apiserver","","","","","fec4a8c2643087a8b19bb75d7f00f73c.gr7.eu-west-1.eks.amazonaws.com|ip-10-0-102-237.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.20.20.9|10.0.102.237","false"
 "52.31.99.251","*.portal.testeveonline.com","","","","","*.portal.testeveonline.com|portal.testeveonline.com","","false"
 "52.31.100.0","openloyalty.prod.wigroup.io","","","","","openloyalty.prod.wigroup.io|*.openloyalty.prod.wigroup.io","","false"

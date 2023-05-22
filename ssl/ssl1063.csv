@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.220.218.175","kube-apiserver","","","","","79a0ad7a6fc20c67b5123464055d5a86.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-162-144.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.128.27.5|172.16.162.144","false"
 "54.220.218.106","*.avolutionsoftware.com","","","","","*.avolutionsoftware.com|avolutionsoftware.com","","false"
 "54.220.218.184","example.com","","","","","","","true"

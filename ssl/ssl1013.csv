@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.224.255.204","*.ib05l6cu9c8j6.us-east-1.cs.amazonlightsail.com","","","","","*.ib05l6cu9c8j6.us-east-1.cs.amazonlightsail.com","","false"
 "34.224.255.208","*.c47.us-east-1.airflow.amazonaws.com","","","","","*.c47.us-east-1.airflow.amazonaws.com","","false"
 "34.224.255.215","core-int.cloud.code42.com","","","","","core-int.cloud.code42.com|*.core-int.cloud.code42.com","","false"

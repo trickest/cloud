@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.182.198.174","*.a1.typesense.net","","","","","*.a1.typesense.net|a1.typesense.net","","false"
 "35.182.198.176","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "35.182.198.183","*.webgistesting.net","Environmental Systems Research Institute, Inc.","US","Redlands","California","*.webgistesting.net|webgistesting.net","","false"

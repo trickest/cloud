@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.124.200.21","kube-apiserver","","","","","764b29e589e59eb663695a71fca56f12.gr7.ap-northeast-2.eks.amazonaws.com|ip-10-0-106-152.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fdd3:b34c:abac::1|2406:da12:68f:8b01:303f:7509:85b0:62b|10.0.106.152","false"
 "13.124.200.38","lrlms.cell-1.prod.ap-northeast-2.prod.connect.aws.a2z.com","","","","","lrlms.cell-1.prod.ap-northeast-2.prod.connect.aws.a2z.com","","false"
 "13.124.200.41","*.dev.lemontree.ai","","","","","*.dev.lemontree.ai","","false"
