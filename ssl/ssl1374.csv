@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.172.169.129","*.flashtalking.net","SIMPLICITY MARKETING LIMITED","GB","LONDON","","*.flashtalking.net|flashtalking.net|g.flashtalking.net|*.g.flashtalking.net","","false"
 "54.172.169.149","kube-apiserver","","","","","c26d95bc7b8038c014f3a949c8202ccd.gr7.us-east-1.eks.amazonaws.com|ip-172-16-34-145.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.48.185.28|172.16.34.145","false"
 "54.172.169.152","kube-apiserver","","","","","75cc33c51ab640333ebb18730231123c.gr7.us-east-1.eks.amazonaws.com|ip-172-16-123-63.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.20.2.206|172.16.123.63","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.197.31.25","9fc8a20a6db8","SomeOrganization","--","SomeCity","SomeState","","","true"
 "52.197.31.34","reonconnect.sony.co.jp","","","","","reonconnect.sony.co.jp","","false"
 "52.197.31.35","*.newspicks.com","","","","","*.newspicks.com|newspicks.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.194.107.131","*.famima.com","","","","","*.famima.com","","false"
 "52.194.107.144","api.star.craftegg.jp","","","","","api.star.craftegg.jp|*.api.star.craftegg.jp","","false"
 "52.194.107.148","*.studyplus.jp","","","","","*.studyplus.jp|studylog.jp|*.studylog.jp|*.studyplus.co.jp","","false"

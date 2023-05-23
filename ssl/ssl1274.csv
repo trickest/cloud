@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.214.88.193","kube-apiserver","","","","","0152e6656896ce37947f73a650800719.sk1.beta.us-west-2.clusters.wesley.amazonaws.com|ip-10-0-117-187.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.158.45|10.0.117.187","false"
 "34.214.88.197","idp.markitagent.com","","","","","idp.markitagent.com","","false"
 "34.214.88.203","*.execute-api.us-west-2.amazonaws.com","","","","","*.execute-api.us-west-2.amazonaws.com","","false"

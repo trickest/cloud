@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.213.237.192","*.test.console.zoomd.com","","","","","*.test.console.zoomd.com","","false"
 "18.213.237.187","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com","","false"
 "18.213.237.202","kube-apiserver","","","","","44829c94bd69230223ed76029d4f2210.gr7.us-east-1.eks.amazonaws.com|ip-10-0-60-178.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.127.240|10.0.60.178","false"

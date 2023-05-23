@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.203.222.87","kube-apiserver","","","","","ip-10-0-112-216.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local|83ee6c8d8c24f275a42fd08f9a01b44f.beta.us-west-2.wesley.amazonaws.com","10.100.0.1|192.168.139.162|10.0.112.216","false"
 "54.203.222.92","*.grpc.dplat-dr-eks.dplat-dev.dev.tmv.aws.clarivate.net","","","","","*.grpc.dplat-dr-eks.dplat-dev.dev.tmv.aws.clarivate.net","","false"
 "54.203.222.90","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.33.23.38","pfsense.concentricsky.com","","","","","pfsense.concentricsky.com|pfsense.corp.concentricsky.com","","false"
 "52.33.23.34","*.demisto.works","","","","","*.demisto.works","","false"
 "52.33.22.222","www.example.com","Bitnami","","","","","","true"

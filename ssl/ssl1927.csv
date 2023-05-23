@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.32.20.213","kube-apiserver","","","","","2540460dbb0caf546911ca676104c412.gr7.us-west-2.eks.amazonaws.com|ip-172-16-55-82.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.90.177|172.16.55.82","false"
 "52.32.20.174","mpx-sandbox.natera.com","","","","","mpx-sandbox.natera.com","","false"
 "52.32.20.66","helpbangingher.com","","","","","helpbangingher.com|www.helpbangingher.com","","false"

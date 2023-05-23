@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.60.119.250","kube-apiserver","","","","","c330914b094e7321a1e75a81669d73ca.sk1.ca-central-1.eks.amazonaws.com|ip-172-16-63-216.ca-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.78.75|172.16.63.216","false"
 "52.60.120.4","kube-apiserver","","","","","8ee5783d129fa168144ad75e3acfdc2e.gr7.ca-central-1.eks.amazonaws.com|ip-10-0-176-127.ca-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.19.201|10.0.176.127","false"
 "52.60.120.13","staging-sst.veritree.com","","","","","staging-sst.veritree.com","","false"

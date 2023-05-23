@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.152.160.214","kube-apiserver","","","","","4584d78e12625b9fb81670a78d6c3ac2.gr7.us-east-1.eks.amazonaws.com|ip-10-0-125-105.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|11.0.247.187|10.0.125.105","false"
 "54.152.160.222","aggregator-qa.aviso.com","","","","","aggregator-qa.aviso.com|aviso.com|*.aggregator-qa.aviso.com","","false"
 "54.152.160.231","kube-apiserver","","","","","2460939f368460f5facbf11fadea0d79.gr7.us-east-1.eks.amazonaws.com|ip-172-16-108-2.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.140.104.4|172.16.108.2","false"

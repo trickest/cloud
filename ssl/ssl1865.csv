@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.22.24.207","dashboard.connecton.com.br","","","","","api.smartmeter.connecton.com.br|dashboard.connecton.com.br|ota.connecton.com.br|plataforma.connecton.com.br|smartmeter.connecton.com.br","","false"
 "3.22.24.210","corp.pf.paylocity.com","","","","","corp.pf.paylocity.com|api.corp.pf.paylocity.com","","false"
 "3.22.24.225","*.studiorotate.moovweb.io","","","","","*.studiorotate.moovweb.io|*.xdn.alt.studiorotate.moovweb.io|*.studiorotate.layer0-perma.link|*.xdn.studiorotate.layer0-perma.link|us-east-2.463386330799.layer0-perma.link|*.xdn.studiorotate.moovweb.io|*.xdn.alt.studiorotate.layer0-perma.link|*.alt.studiorotate.moovweb.io|us-east-2.463386330799.moovweb.io|*.alt.studiorotate.layer0-perma.link","","false"

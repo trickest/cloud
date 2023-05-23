@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.19.135.152","*.g9muhgi1m7h08.us-east-2.cs.amazonlightsail.com","","","","","*.g9muhgi1m7h08.us-east-2.cs.amazonlightsail.com","","false"
 "3.19.135.153","*.stage.erabu.tv","","","","","*.stage.erabu.tv","","false"
 "3.19.135.156","kube-apiserver","","","","","8594bced2490505ea017e422af171f9b.gr7.us-east-2.eks.amazonaws.com|ip-10-0-186-92.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.188.59|10.0.186.92","false"

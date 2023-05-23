@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.169.36.18","curogram.com","","","","","curogram.com|*.sick.org|*.sick.app|sick.org|sick.app|*.curogram.com","","false"
 "35.169.36.19","kube-apiserver","","","","","ac04eb51bcc85934f7f5834b5de12b18.gr7.us-east-1.eks.amazonaws.com|ip-172-16-188-197.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.103.89.46|172.16.188.197","false"
 "35.169.36.23","*.slvv4nsp2kkpa.us-east-1.cs.amazonlightsail.com","","","","","*.slvv4nsp2kkpa.us-east-1.cs.amazonlightsail.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.33.110.175","*.synegen.com","","","","","*.synegen.com|*.dev.synegen.com|*.uat.synegen.com|*.tst.synegen.com","","false"
 "52.33.110.190","na1.edgevis.com","","","","","na1.edgevis.com","","false"
 "52.33.110.192","kube-apiserver","","","","","f7aeadf6a72aaf303e3718216d290c1c.gr7.us-west-2.eks.amazonaws.com|ip-172-16-50-46.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.16.191.136|172.16.50.46","false"

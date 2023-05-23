@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.162.80.235","notebook.ap-east-1.sagemaker.aws","","","","","*.notebook.ap-east-1.sagemaker.aws|*.notebook.ap-east-1.vpce.sagemaker.aws|notebook.ap-east-1.sagemaker.aws","","false"
 "18.162.80.244","curtain-3.com","Jedix","US","Seattle","WA","","","true"
 "18.162.81.8","kube-apiserver","","","","","86931d10129bb5b8d7fead80cc2436cb.yl4.ap-east-1.eks.amazonaws.com|ip-172-16-47-81.ap-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.230|172.16.47.81","false"

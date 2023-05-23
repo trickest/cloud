@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "50.16.43.73","kube-apiserver","","","","","be9189e80a121cc38c2ae0b36c67aefe.gr7.us-east-1.eks.amazonaws.com|ip-172-16-116-166.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.21.0.1|10.30.198.123|172.16.116.166","false"
 "50.16.43.60","realthy.io","","","","","realthy.io|*.mvp.realthy.io|*.realthy.io|mvp.realthy.io","","false"
 "50.16.43.102","*.tfcom-eks-na-comerce-gateway-prd.commerceprod.thermofisher.net","","","","","*.tfcom-eks-na-comerce-gateway-prd.commerceprod.thermofisher.net|*.prod.cloud.thermofisher.net|*.cloud.thermofisher.net|*.tfcom-cluster-na-commerceprodb.cloud.thermofisher.net|*.commerceprod.thermofisher.net|*.cloudprod.thermofisher.com|*.commerceprod.thermofisher.com|*.thermofisher.com","","false"

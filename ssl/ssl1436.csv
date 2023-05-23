@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.38.85.167","kube-apiserver","","","","","ed3dd2a33d2792519e4c03a24df22b89.beta.us-west-2.wesley.amazonaws.com|ip-172-16-33-224.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.109.62|172.16.33.224","false"
 "52.38.85.166","*.dev.ee.getgo.com","","","","","*.dev.ee.getgo.com","","false"
 "52.38.85.178","*.zipwhip.com","Zipwhip, Inc.","US","Seattle","Washington","*.zipwhip.com|zipwhip.com","","false"

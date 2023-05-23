@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.124.1.219","kube-apiserver","","","","","ac4280c15013b8c558421c524a2a3fc2.gr7.ap-northeast-2.eks.amazonaws.com|ip-172-16-46-68.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.101.195|172.16.46.68","false"
 "13.124.0.138","*.patigames.com","","","","","*.patigames.com|patigames.com","","false"
 "13.124.0.88","bluecheckdata.com","","","","","bluecheckdata.com","","false"

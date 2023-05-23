@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.210.99.12","www.precatoriosdobrasil.com.br","","","","","www.precatoriosdobrasil.com.br","","false"
 "3.210.99.16","api.video.platform.dtciqa.technology","","","","","api.video.platform.dtciqa.technology|content.us-east-1.api.video.platform.dtciqa.technology|pcc.v1.api.video.platform.dtciqa.technology|pcc.v1.us-east-1.api.video.platform.dtciqa.technology|pcc.v2.api.video.platform.dtciqa.technology|content.graphql.us-east-1.api.video.platform.dtciqa.technology|programs.us-east-1.api.video.platform.dtciqa.technology|content.graphql.api.video.platform.dtciqa.technology|*.api.video.platform.dtciqa.technology","","false"
 "3.210.99.21","*.moolastakes.com","","","","","*.moolastakes.com","","false"

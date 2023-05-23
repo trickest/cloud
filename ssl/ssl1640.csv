@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.98.36.5","*.ca-central-1.es.amazonaws.com","","","","","*.ca-central-1.es.amazonaws.com","","false"
 "3.98.36.9","*.jbmnglrf6h56a.ca-central-1.cs.amazonlightsail.com","","","","","*.jbmnglrf6h56a.ca-central-1.cs.amazonlightsail.com","","false"
 "3.98.36.15","localhost","","","","","localhost","","true"

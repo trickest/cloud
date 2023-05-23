@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.139.169.233","api.prdpa-use2-rosa.uhz5.p1.openshiftapps.com","","","","","*.apps.prdpa-use2-rosa.uhz5.p1.openshiftapps.com|api.prdpa-use2-rosa.uhz5.p1.openshiftapps.com|rh-api.prdpa-use2-rosa.uhz5.p1.openshiftapps.com","","false"
 "3.139.169.234","dev.solifi.com","","","","","dev.solifi.com","","false"
 "3.139.169.236","*.mgex-clearing-qa.com","","","","","*.mgex-clearing-qa.com","","false"

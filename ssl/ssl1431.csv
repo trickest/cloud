@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.12.244.185","*.almastart.com","","","","","*.almastart.com|almastart.com","","false"
 "3.12.244.188","kube-apiserver","","","","","aa3fe5e05e1e0ea12fe4bd5a98b504f0.gr7.us-east-2.eks.amazonaws.com|ip-10-0-169-193.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.18.181.18|10.0.169.193","false"
 "3.12.244.187","gestor.guardioesdafe.com.br","","","","","gestor.guardioesdafe.com.br","","false"

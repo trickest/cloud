@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.34.161.22","cargolab.dev.bjn.io","","","","","cargolab.dev.bjn.io|*.cargolab.dev.bjn.io","","false"
 "52.34.161.26","xverso.com","","","","","xverso.com|*.xverso.com","","false"
 "52.34.161.27","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"

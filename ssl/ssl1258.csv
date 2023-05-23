@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.223.34.69","pb-intent.solutions","","","","","pb-intent.solutions|*.pb-intent.solutions","","false"
 "18.223.34.74","coloradomodularsynthsociety.com","","","","","coloradomodularsynthsociety.com","","false"
 "18.223.34.91","kube-apiserver","","","","","fa3a8a866e2170196a853400575eb7bf.gr7.us-east-2.eks.amazonaws.com|ip-172-16-120-250.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.201.137.11|172.16.120.250","false"

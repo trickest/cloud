@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.90.33.231","miner.sustainablebtc.org","","","","","miner.sustainablebtc.org|auditor.sustainablebtc.org|buyer.sustainablebtc.org|admin.sustainablebtc.org","","false"
 "54.90.33.74","www.example.com","Bitnami","","","","","","true"
 "54.90.34.27","*.livgoodconnect.com","","","","","*.livgoodconnect.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.9.206.219","api.neuro.semprehealth.com","","","","","api.neuro.semprehealth.com","","false"
 "52.9.206.220","kube-apiserver","","","","","b1b2185b2350c2033ca3345390125a28.sk1.us-west-1.eks.amazonaws.com|ip-10-0-100-78.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.100.207|10.0.100.78","false"
 "52.9.206.231","dev.asics.digital","","","","","dev.asics.digital|*.dev.asics.digital","","false"

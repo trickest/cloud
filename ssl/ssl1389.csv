@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.170.57.131","*.iris-streaming.devtest.aws.scania.com","IXCB","SE","Sodertajle","Stockholm","*.confluent.svc.cluster.local|*.connect-aws.confluent.svc.cluster.local|*.connect-me.confluent.svc.cluster.local|*.connect-onprem.confluent.svc.cluster.local|*.connect.confluent.svc.cluster.local|*.iris-streaming.devtest.aws.scania.com|*.kafka.confluent.svc.cluster.local|*.ksql.confluent.svc.cluster.local|*.ksqldb.confluent.svc.cluster.local|*.restproxy.confluent.svc.cluster.local|*.zookeeper.confluent.svc.cluster.local","","false"
 "16.170.57.145","kube-apiserver","","","","","4c692adcd48e7ceca22249a5c418c009.sk1.eu-north-1.eks.amazonaws.com|ip-172-16-98-82.eu-north-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.3.153|172.16.98.82","false"
 "16.170.57.148","eu-north-1.prod.runtime.catalog.sso.amazonaws.com","","","","","eu-north-1.prod.runtime.catalog.sso.amazonaws.com","","false"

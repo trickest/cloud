@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.220.188.118","*.scruffapp.com","","","","","*.scruffapp.com|*.perrystreetsoftware.com","","false"
 "3.220.188.125","osb.urosario.edu.co","COLEGIO MAYOR DE NUESTRA SENORA DEL ROSARIO","CO","Bogota","","osb.urosario.edu.co|bi.urosario.edu.co","","false"
 "3.220.188.130","kube-apiserver","","","","","b1d2ff4caaabe1eb758bd1e65297b24d.gr7.us-east-1.eks.amazonaws.com|ip-10-0-118-57.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.104.130|10.0.118.57","false"

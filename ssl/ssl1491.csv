@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.193.179.44","uruken.org","","","","","uruken.org|*.uruken.org","","false"
 "52.193.179.61","*.gameserver.medarot.jp","","","","","*.gameserver.medarot.jp","","false"
 "52.193.179.65","daiichi.jcccloud.jp","","","","","daiichi.jcccloud.jp","","false"

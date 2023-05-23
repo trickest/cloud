@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.212.127.20","chatbot.devbeet.com","","","","","chatbot.devbeet.com","","false"
 "3.212.127.18","kube-apiserver","","","","","e08d53bfb6a6fbc3a429c16ec3284983.gr7.us-east-1.eks.amazonaws.com|ip-172-16-39-149.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.145.24.53|172.16.39.149","false"
 "3.212.127.24","kube-apiserver","","","","","30788c91f752c74c9b7e0d0420b0a600.gr7.us-east-1.eks.amazonaws.com|ip-10-0-55-158.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.23.152.39|10.0.55.158","false"

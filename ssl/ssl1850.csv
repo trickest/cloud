@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.215.10.211","getblox.ai","","","","","getblox.ai|*.getblox.ai","","false"
 "3.215.11.21","education.icn.ch","","","","","education.icn.ch","","false"
 "3.215.11.23","kube-apiserver","","","","","b2e8735ad7173b48c1d70a2fc6ecf657.yl4.us-east-1.eks.amazonaws.com|ip-172-16-42-156.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.1.214|172.16.42.156","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.194.195.29","kube-apiserver","","","","","1b03f4ca6e41aaeb7dd7fb1bef993f2e.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-55-179.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.37.31.126|172.16.55.179","false"
 "54.194.195.30","sykescottages.co.uk","","","","","sykescottages.co.uk|*.sykescottages.co.uk","","false"
 "54.194.195.35","*.eu-west-1.lb.cvent.com","","","","","*.eu-west-1.lb.cvent.com","","false"

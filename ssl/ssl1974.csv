@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.199.29.229","skclnk.net","","","","","skclnk.net|www.skclnk.net","","false"
 "52.199.29.230","*.en-japan.com","en japan inc.","JP","Shinjuku-Ku","Tokyo","*.en-japan.com","","false"
 "52.199.29.243","*.atledcloud.jp","ATLED CORP.","JP","Shibuya-ku","Tokyo","*.atledcloud.jp|atledcloud.jp","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.206.130.188","developer.beacon.io","","","","","developer.beacon.io|select.beacon.io","","false"
 "18.206.130.174","api.approval-central-itg-virginia.dxc.com","","","","","api.approval-central-itg-virginia.dxc.com","","false"
 "18.206.130.183","*.us-2.lessonly.com","","","","","*.us-2.lessonly.com","","false"

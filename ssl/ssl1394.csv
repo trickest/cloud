@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.137.2.246","kube-apiserver","","","","","f6dd713da4546e05527b0d482fb049ec.gr7.us-east-2.eks.amazonaws.com|ip-172-16-61-158.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.150.8.204|172.16.61.158","false"
 "3.137.2.249","k9s.devpv.us","","","","","k9s.devpv.us|*.k9s.devpv.us","","false"
 "3.137.3.9","*.campfire.fm","","","","","*.campfire.fm","","false"

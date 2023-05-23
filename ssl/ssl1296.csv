@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.130.247.5","kube-apiserver","","","","","08c33a3c19a5c6b9d9ac1d02e30383a0.gr7.us-east-2.eks.amazonaws.com|ip-172-16-168-145.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.213.129|172.16.168.145","false"
 "3.130.247.12","*.hassium.us-east-2.snowflakecomputing.com","","","","","*.hassium.us-east-2.snowflakecomputing.com|*.hassium.us-east-2.aws.snowflakecomputing.com|*.global.snowflakecomputing.com|*.snowflakecomputing.com","","false"
 "3.130.247.16","*.apifktech.net","","","","","*.apifktech.net|apifktech.net","","false"

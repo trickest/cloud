@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.73.209.57","*.stage.brighttalk.net","","","","","*.stage.brighttalk.net|stage.brighttalk.net","","false"
 "54.73.209.55","*.eu-west-1.awsapprunner.com","","","","","*.eu-west-1.awsapprunner.com","","false"
 "54.73.209.63","*.boost.ai","","","","","*.boost.ai","","false"

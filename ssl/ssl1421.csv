@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.202.227.174","kubernetes-master","","","","","api.internal.nx.aws.rnp.io|api.nx.aws.rnp.io|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","100.64.0.1|127.0.0.1","false"
 "54.202.227.173","leet.tech","Leet","BR","Recife","Pernambuco","","","true"
 "54.202.227.192","brickseek.com","","","","","brickseek.com|www.brickseek.com","","false"

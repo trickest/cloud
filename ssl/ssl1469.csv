@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.207.54.82","kube-apiserver","","","","","035cfdf01fb7ef2ee554dea0bda09298.gr7.us-east-1.eks.amazonaws.com|ip-172-16-116-48.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.50.102.246|172.16.116.48","false"
 "18.207.54.85","*.delmarsd.com","","","","","*.delmarsd.com|delmarsd.com","","false"
 "18.207.54.87","*.pro-us.koahealth.com","","","","","*.pro-us.koahealth.com","","false"

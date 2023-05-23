@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.140.60.33","*.us-east-2.es.amazonaws.com","","","","","*.us-east-2.es.amazonaws.com","","false"
 "3.140.60.17","blog.dressd.com","","","","","blog.dressd.com","","false"
 "3.140.60.45","kube-apiserver","","","","","d8cf796d39c8d53c3315057899e28bce.gr7.us-east-2.eks.amazonaws.com|ip-172-16-188-87.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.88.23|172.16.188.87","false"

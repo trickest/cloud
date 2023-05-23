@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.86.216.201","*.collectively.app","","","","","*.collectively.app","","false"
 "52.86.216.203","shaip.ai","","","","","shaip.ai|*.shaip.ai","","false"
 "52.86.216.207","opensponsorship.online","","","","","opensponsorship.online","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.76.86.84","*.bizforecast.net","","","","","*.bizforecast.net","","false"
 "35.76.86.91","app-staging.cc.aplika.jp","","","","","app-staging.cc.aplika.jp|*.app-staging.cc.aplika.jp","","false"
 "35.76.86.95","*.wired.jp","","","","","*.wired.jp|wired.jp","","false"

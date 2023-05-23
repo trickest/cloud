@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.130.163.192","spellboundserver.com","","","","","spellboundserver.com|www.spellboundserver.com","","false"
 "3.130.163.198","forwarding.sandbox.braintreegateway.com","PayPal, Inc.","US","San Jose","California","forwarding.sandbox.braintreegateway.com","","false"
 "3.130.163.200","callback.khusa.africa","","","","","callback.khusa.africa","","false"

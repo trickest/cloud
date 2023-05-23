@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.6.182.58","ets-ui-stg1.services.adobe.com","Adobe Inc.","US","San Jose","California","ets-ui-stg1.services.adobe.com|na1e-stg1-internal.services.adobe.com|na1e-stg1-internal.adobe-identity.com|ets-stg1-uw-bastion.services.adobe.com|ets-flow-stg1.services.adobe.com|etsreports-stg1.services.adobe.com|ets-stg1-ue-bastion.services.adobe.com|ets-stg1-bastion.services.adobe.com|na1e-stg1.services.adobe.com|na1e-stg1.adobe-identity.com|na1e-stg2-uw1-internal.services.adobe.com|identity-okta-stg1.services.adobe.com|na1e-stg2-uw1.services.adobe.com","","false"
 "52.6.182.60","*.mobify-staging.com","","","","","*.mobify-staging.com","","false"
 "52.6.182.69","kube-apiserver","","","","","ddb4b3eb9e993ff765edafb488c8d74c.sk1.us-east-1.eks.amazonaws.com|ip-10-0-49-239.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.80.89|10.0.49.239","false"

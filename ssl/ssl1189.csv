@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.23.44.128","*.classintercom.com","","","","","*.classintercom.com","","false"
 "52.23.44.142","kube-apiserver","","","","","00877bb84abf2ae25bdd5c154eafb9e5.gr7.us-east-1.eks.amazonaws.com|ip-172-16-46-197.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.119.1.33|172.16.46.197","false"
 "52.23.44.153","example.com","","","","","","","true"

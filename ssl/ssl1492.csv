@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.193.253.209","lf.api-dev.aize.jp","","","","","lf.api-dev.aize.jp|*.lf.api-dev.aize.jp","","false"
 "52.193.253.208","*.cbt.luac.co.jp","","","","","*.cbt.luac.co.jp","","false"
 "52.193.253.213","*.mapion.co.jp","株式会社ＯＮＥ　ＣＯＭＰＡＴＨ","JP","港区","東京都","*.mapion.co.jp|mapion.co.jp","","false"

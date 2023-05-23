@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.206.8.49","kube-apiserver","","","","","1eb4f948f45a177bf2eba8a6300368e0.gr7.us-east-1.eks.amazonaws.com|ip-172-16-48-137.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.37.135.144|172.16.48.137","false"
 "18.206.8.45","*.hlrpphoenix.com","","","","","*.hlrpphoenix.com|hlrpphoenix.com","","false"
 "18.206.8.60","*.execute-api.us-east-1.amazonaws.com","","","","","*.execute-api.us-east-1.amazonaws.com","","false"

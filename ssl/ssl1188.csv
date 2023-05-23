@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.22.233.152","farmapptufarmacia.com","","","","","farmapptufarmacia.com|*.farmapptufarmacia.com","","false"
 "52.22.233.155","ip-172-31-45-180.ec2.internal","","","","","ip-172-31-45-180.ec2.internal","","true"
 "52.22.233.160","*.29tbst6rhuf5o.us-east-1.cs.amazonlightsail.com","","","","","*.29tbst6rhuf5o.us-east-1.cs.amazonlightsail.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.62.166.86","rc1.beopen.com","","","","","rc1.beopen.com|*.staging.beopen.com|sandbox.beopen.com|*.sandbox.beopen.com|*.uat.beopen.com|uat.beopen.com|staging.beopen.com|*.rc1.beopen.com|rc2.beopen.com|*.rc2.beopen.com","","false"
 "52.62.166.90","ip-10-10-0-127","SomeOrganization","--","SomeCity","SomeState","localhost|localhost.localdomain|ip-10-10-0-127|ip-10-10-0-127.ap-southeast-2.compute.internal","","true"
 "52.62.166.103","*.dev.ridewithvia.com","","","","","*.dev.ridewithvia.com|dev.ridewithvia.com","","false"

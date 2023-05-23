@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.223.233.255","prod-na.prms.spp.a2z.com","","","","","prod-na.prms.spp.a2z.com","","false"
 "3.223.233.254","kube-apiserver","","","","","dfa5f935b1f7233cbca71e9e6af7f145.gr7.us-east-1.eks.amazonaws.com|ip-10-0-103-121.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.17.81.160|10.0.103.121","false"
 "3.223.233.253","kube-apiserver","","","","","161e217c95fa89dcb1494f0773f89880.gr7.us-east-1.eks.amazonaws.com|ip-172-16-173-129.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.25.131|172.16.173.129","false"

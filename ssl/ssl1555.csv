@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.138.235.26","kube-apiserver","","","","","ea2a9254e85e0f3908594689e986d59f.gr7.us-east-2.eks.amazonaws.com|ip-172-16-160-137.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.224.58.112|172.16.160.137","false"
 "3.138.235.29","*.monitairhealth.com","Monitair LLC","US","Miami","Florida","*.monitairhealth.com|monitairhealth.com","","false"
 "3.138.235.27","*.us-east-2.es.amazonaws.com","","","","","*.us-east-2.es.amazonaws.com","","false"

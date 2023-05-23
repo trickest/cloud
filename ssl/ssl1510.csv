@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.209.123.192","kube-apiserver","","","","","35a6590b157ce177f8f7a6f75ecd514b.gr7.ap-northeast-2.eks.amazonaws.com|ip-172-16-176-207.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.24.28.120|172.16.176.207","false"
 "13.209.123.191","*.api.riman.biz","","","","","*.api.riman.biz","","false"
 "13.209.123.198","*.stcomm.shop","","","","","*.stcomm.shop|stcomm.shop","","false"

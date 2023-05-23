@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.221.24.3","kube-apiserver","","","","","71e11517146384e2045c1255f8e288dd.gr7.us-east-1.eks.amazonaws.com|ip-172-16-123-169.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.131.137|172.16.123.169","false"
 "3.221.24.9","kube-apiserver","","","","","73a4f7d453425e0bec6ecd26f90f4c51.yl4.us-east-1.eks.amazonaws.com|ip-172-16-181-218.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.6.43.227|172.16.181.218","false"
 "3.221.24.13","*.amazonappstream.com","","","","","*.amazonappstream.com","","false"

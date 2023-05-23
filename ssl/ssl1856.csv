@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.218.63.160","*.mistagecld.spglobal.com","S&P Global Inc.","US","New York","New York","*.mistagecld.spglobal.com|*.ratings360stg.spglobal.com|*.spgistg.spglobal.com|*.plattsstg.spglobal.com|*.mistage.spglobal.com|*.spdjistg.spglobal.com|ratings360stg.spglobal.com|spgistg.spglobal.com|plattsstg.spglobal.com|mistage.spglobal.com|spdjistg.spglobal.com|mistagecld.spglobal.com","","false"
 "3.218.63.165","*.befa.live.use1a.on.epicgames.com","","","","","*.befa.live.use1a.on.epicgames.com|*.ol.epicgames.com|*.epicgames.dev","","false"
 "3.218.63.168","*.lightkeeperhq.com","","","","","*.lightkeeperhq.com|lightkeeperhq.com","","false"

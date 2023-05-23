@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.14.155.202","*.14m38jcm0vi9m.us-east-2.cs.amazonlightsail.com","","","","","*.14m38jcm0vi9m.us-east-2.cs.amazonlightsail.com","","false"
 "52.14.155.207","kube-apiserver","","","","","907cb2b6c988de1fb1b8b33aa77ae73f.gr7.us-east-2.eks.amazonaws.com|ip-10-0-186-117.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.30.4.209|10.0.186.117","false"
 "52.14.155.212","windmill-public.infra-stag.nsvcs.net","","","","","windmill-public.infra-stag.nsvcs.net","","false"

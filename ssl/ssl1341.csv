@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.133.95.199","*.dronecloud.io","","","","","*.dronecloud.io|dronecloud.io","","false"
 "18.133.95.247","sentry.linius.com","","","","","sentry.linius.com","","false"
 "18.133.95.251","kube-apiserver","","","","","6396ce9a6a2f6a08503ac8a264599578.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-122-106.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fdd7:8dc9:18f7::1|2a05:d01c:f5a:f401:386c:df63:a95a:b194|172.16.122.106","false"

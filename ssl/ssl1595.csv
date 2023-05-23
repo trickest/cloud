@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.242.192.120","media-ec2.tifos.net","","","","","media-ec2.tifos.net","","false"
 "34.242.192.143","*.eu-west-1.es.amazonaws.com","","","","","*.eu-west-1.es.amazonaws.com","","false"
 "34.242.192.148","*.app.luminance.com","","","","","*.app.luminance.com|app.luminance.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.211.70.102","kube-apiserver","","","","","da145c26e36b10813d0b8e74a0dcc275.gr7.us-east-1.eks.amazonaws.com|ip-10-0-114-129.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.74.249|10.0.114.129","false"
 "3.211.70.98","frontrush.com","","","","","frontrush.com|*.frontrush.com","","false"
 "3.211.70.106","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com","","false"

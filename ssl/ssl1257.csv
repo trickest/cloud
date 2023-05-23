@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.222.86.100","control.service.secretcdn.net","Fastly, Inc.","US","San Francisco","California","control.service.secretcdn.net|a.ssl.fastly.net|control.fastly.net|fastly.com|tools.fastly.net|*.a.ssl.fastly.net|*.fastly.com|*.global.ssl.fastly.net|*.hosts.fastly.net|control-fo.secretcdn.net|control-shield.service.secretcdn.net|control.secretcdn.net|cypress.service.secretcdn.net|cache-control-cp-aws-us-east-1-prod-lb.int.cp.aws.secretcdn.net|cache-control-cp-aws-us-east-2-prod-lb.int.cp.aws.secretcdn.net|cache-control-cp-aws-us-west-2-prod-lb.int.cp.aws.secretcdn.net","","false"
 "18.222.86.97","api.winningmetadata.com","","","","","api.winningmetadata.com|*.winningmetadata.com","","false"
 "18.222.86.109","*.alationcloud-demo.com","","","","","*.alationcloud-demo.com","","false"

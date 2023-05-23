@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.70.49.83","*.wyndham.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.wyndham.splunkcloud.com|wyndham.splunkcloud.com|idm-wyndham.splunkcloud.com|*.idm-wyndham.splunkcloud.com|http-inputs-wyndham.splunkcloud.com|*.http-inputs-wyndham.splunkcloud.com|akamai-inputs-wyndham.splunkcloud.com|*.akamai-inputs-wyndham.splunkcloud.com|http-inputs-ack-wyndham.splunkcloud.com|*.http-inputs-ack-wyndham.splunkcloud.com|http-inputs-firehose-wyndham.splunkcloud.com|*.http-inputs-firehose-wyndham.splunkcloud.com|*.pvt.wyndham.splunkcloud.com|pvt.wyndham.splunkcloud.com","","false"
 "52.70.49.86","qa.aws.pharos.com","","","","","qa.aws.pharos.com|*.qa.aws.pharos.com","","false"
 "52.70.49.98","*.bugsnag.ngm.audible.a2z.com","","","","","*.bugsnag.ngm.audible.a2z.com","","false"

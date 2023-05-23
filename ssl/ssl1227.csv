@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.243.115.208","storereportservice.globalpricing-test.nikecloud.com","Nike, Inc.","US","Beaverton","Oregon","storereportservice.globalpricing-test.nikecloud.com|prices.storereportservice.globalpricing-test.nikecloud.com|prices-ext.storereportservice.globalpricing-test.nikecloud.com|promos.storereportservice.globalpricing-test.nikecloud.com|promos-ext.storereportservice.globalpricing-test.nikecloud.com","","false"
 "54.243.115.214","*.savvasrealize.com","","","","","*.savvasrealize.com|www.savvasrealize.com|savvasrealize.com","","false"
 "54.243.115.203","*.villyge.com","","","","","*.villyge.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.55.243.143","proxy.nameless-river-5062.herokuspace.com","Heroku","US","San Francisco","California","proxy.nameless-river-5062.herokuspace.com","","false"
 "13.55.243.102","ip-172-31-41-100","LiteSpeedCommunity","US","Virtual","New Jersey","","","true"
 "13.55.243.146","*.wbx2.com","","","","","*.wbx2.com|wbx2.com","","false"

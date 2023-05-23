@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.207.208.41","*.neeyamo.com","","","","","*.neeyamo.com|neeyamo.com","","false"
 "15.207.208.46","srushil.bom","","","","","","","true"
 "15.207.208.52","kube-apiserver","","","","","8732da2cfffe66f31ec9ec78d9de01cd.gr7.ap-south-1.eks.amazonaws.com|ip-10-0-107-248.ap-south-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.80.222|10.0.107.248","false"

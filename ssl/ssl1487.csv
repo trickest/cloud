@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.192.148.97","mdm-prod.aplix.net","","","","","mdm-prod.aplix.net","","false"
 "52.192.148.106","*.lisa-c.jp","C_Net Corporation","JP","Chiba-shi","Chiba","*.lisa-c.jp|lisa-c.jp","","false"
 "52.192.148.100","*.bbgslot.com","","","","","*.bbgslot.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.48.93.42","email-verification.eu-north-1.amazonaws.com","","","","","email-verification.eu-north-1.amazonaws.com","","false"
 "13.48.93.65","kube-apiserver","","","","","33584f3bb7e8ebb7c7bdc4d947b96280.gr7.eu-north-1.eks.amazonaws.com|ip-172-16-117-32.eu-north-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.16.0.1|10.0.0.23|172.16.117.32","false"
 "13.48.92.110","*.eu-north-1.es.amazonaws.com","","","","","*.eu-north-1.es.amazonaws.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.213.86.153","kube-apiserver","","","","","7dee1f5526ab736bf11ec58922302f08.gr7.us-east-1.eks.amazonaws.com|ip-172-16-126-121.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.99.2.66|172.16.126.121","false"
 "18.213.86.159","api.staging-2.createlms.biz","","","","","api.staging-2.createlms.biz","","false"
 "18.213.86.167","gdh.geo-comm.com","","","","","gdh.geo-comm.com","","false"

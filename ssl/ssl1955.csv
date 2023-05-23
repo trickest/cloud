@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.111.234.84","*.augmontgold.com","","","","","*.augmontgold.com|augmontgold.com","","false"
 "3.111.234.86","dreamy-faraday.43-205-87-74.plesk.page","","","","","dreamy-faraday.43-205-87-74.plesk.page","","false"
 "3.111.234.89","*.kqa2.enspirecommerce.com","","","","","*.kqa2.enspirecommerce.com","","false"

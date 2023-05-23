@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.189.95.74","kube-apiserver","","","","","70a1c53779911d135c910b037682c3ff.gr7.us-east-2.eks.amazonaws.com|ip-10-0-35-223.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.8.159|10.0.35.223","false"
 "18.189.95.76","default.company.io","Default Company Ltd.","US","Boulder","Colorado","","","true"
 "18.189.95.83","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.223.139.173","kube-apiserver","","","","","de79ce49bd388a2f7201803faa0ff159.yl4.us-east-2.eks.amazonaws.com|ip-172-16-174-252.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.180.41.151|172.16.174.252","false"
 "18.223.139.178","admin.changemindset.app","","","","","admin.changemindset.app","","false"
 "18.223.139.181","kube-apiserver","","","","","a278a16dd36a586cb23c43b11e16a641.gr7.us-east-2.eks.amazonaws.com|ip-172-16-100-30.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.84.121.14|172.16.100.30","false"

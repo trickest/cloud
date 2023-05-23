@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.37.58.57","*.execute-api.us-west-2.amazonaws.com","","","","","*.execute-api.us-west-2.amazonaws.com","","false"
 "52.37.58.59","bam.dev.api.here.com","HERE Global BV","NL","Eindhoven","Noord-Brabant","bam.dev.api.here.com|*.bam.dev.api.here.com","","false"
 "52.37.58.64","localhost","","","","","localhost","","true"

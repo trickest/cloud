@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.3.40.224","*.gamma.execute-api.us-east-1.amazonaws.com","","","","","*.gamma.execute-api.us-east-1.amazonaws.com","","false"
 "52.3.40.229","*.ccleaner.com","","","","","*.ccleaner.com|www.ccleaner.com","","false"
 "52.3.40.232","kube-apiserver","","","","","59ac22758b0b2f1acada0f2b05249407.gr7.us-east-1.eks.amazonaws.com|ip-172-16-191-188.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.149|172.16.191.188","false"

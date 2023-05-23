@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.138.128.51","*.us-east-2.elb.amazonaws.com","","","","","*.us-east-2.elb.amazonaws.com|us-east-2.elb.amazonaws.com","","false"
 "3.138.128.55","42ad3f56c9ed5a7f.cle16.v1-cle2.isolation.zscaler.com","","","","","42ad3f56c9ed5a7f.cle16.v1-cle2.isolation.zscaler.com|*.v1-cle2.isolation.zscaler.com","","false"
 "3.138.128.57","*.mqddffv9fitje.us-east-2.cs.amazonlightsail.com","","","","","*.mqddffv9fitje.us-east-2.cs.amazonlightsail.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.235.103.251","*.stewartsshops.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.stewartsshops.splunkcloud.com|stewartsshops.splunkcloud.com|http-inputs-stewartsshops.splunkcloud.com|*.http-inputs-stewartsshops.splunkcloud.com|akamai-inputs-stewartsshops.splunkcloud.com|*.akamai-inputs-stewartsshops.splunkcloud.com|http-inputs-ack-stewartsshops.splunkcloud.com|*.http-inputs-ack-stewartsshops.splunkcloud.com|http-inputs-firehose-stewartsshops.splunkcloud.com|*.http-inputs-firehose-stewartsshops.splunkcloud.com|*.pvt.stewartsshops.splunkcloud.com|pvt.stewartsshops.splunkcloud.com","","false"
 "54.235.103.249","*.mq.us-east-1.amazonaws.com","","","","","*.mq.us-east-1.amazonaws.com","","false"
 "54.235.103.255","api.aequorhc.com","","","","","api.aequorhc.com","","false"

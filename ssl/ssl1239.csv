@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.64.221.13","*.leinoau4nebq4.eu-central-1.cs.amazonlightsail.com","","","","","*.leinoau4nebq4.eu-central-1.cs.amazonlightsail.com","","false"
 "3.64.221.5","*.lepaya.com","","","","","*.lepaya.com","","false"
 "3.64.221.15","*.fitx.de","","","","","*.fitx.de|fitx.de","","false"

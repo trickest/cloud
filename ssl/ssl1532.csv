@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.2.228.177","*.stitcher-gold.us-east-1.plutopreprod.tv","","","","","*.stitcher-gold.us-east-1.plutopreprod.tv|*.us-east-1.plutopreprod.tv|*.stitcher-gold.plutopreprod.tv|*.plutopreprod.tv","","false"
 "52.2.228.175","ip-10-0-136-191.ec2.internal","Demisto","US","","","","","true"
 "52.2.228.183","*.alb.awsdripp.buymyri.de","","","","","*.alb.awsdripp.buymyri.de","","false"

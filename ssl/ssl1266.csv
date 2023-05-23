@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.72.244.86","*.outsystemsenterprise.com","Outsystems - Software Em Rede S.A.","PT","Linda-A-Velha","","*.outsystemsenterprise.com|outsystemsenterprise.com","","false"
 "3.72.244.94","kube-apiserver","","","","","0c0abcf3016d14ae68530b55a071ba83.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-100-235.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.200.14.176|172.16.100.235","false"
 "3.72.244.101","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

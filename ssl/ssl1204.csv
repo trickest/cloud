@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.234.235.37","kube-apiserver","","","","","f44bdeeb5880b7e544183c777d66d71c.gr7.ap-south-1.eks.amazonaws.com|ip-10-0-45-38.ap-south-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.40.63|10.0.45.38","false"
 "13.234.235.38","*.neyyar.in","","","","","*.neyyar.in|www.neyyar.in","","false"
 "13.234.235.47","gamma.bom.host-management.amazon.dev","Amazon.com Inc.","US","Seattle","Washington","gamma.bom.host-management.amazon.dev","","false"

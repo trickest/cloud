@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.236.94.105","solidarite.lavoixdunord.fr","","","","","solidarite.lavoixdunord.fr","","false"
 "15.236.94.108","brix.lesreconstructeurs.fr","","","","","brix-admin.lesreconstructeurs.fr|brix-certif.lesreconstructeurs.fr|brix-editor.lesreconstructeurs.fr|brix-orga.lesreconstructeurs.fr|brix.lesreconstructeurs.fr","","false"
 "15.236.94.114","kube-apiserver","","","","","627396cd86459684c8cee01117601313.sk1.eu-west-3.eks.amazonaws.com|ip-10-0-117-253.eu-west-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.144.28|10.0.117.253","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.223.253.119","*.mobilefox.club","","","","","*.mobilefox.club","","false"
 "18.223.253.130","shop.usa.canon.com","Magento Cloud","FR","","","","","true"
 "18.223.253.127","alabama.commongoodlt.com","","","","","alabama.commongoodlt.com","","false"

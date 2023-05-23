@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.189.172.38","beta.us-east-2.account-store.control-tower.aws.dev","","","","","beta.us-east-2.account-store.control-tower.aws.dev","","false"
 "18.189.172.44","*.9nesr65a0bp14.us-east-2.cs.amazonlightsail.com","","","","","*.9nesr65a0bp14.us-east-2.cs.amazonlightsail.com","","false"
 "18.189.172.43","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

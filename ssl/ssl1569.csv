@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.130.128.90","kube-apiserver","","","","","9fa4cfd4e576cec5aa93f391f56f3bfd.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-104-78.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.100.2.66|172.16.104.78","false"
 "18.130.128.92","bubbleotea.com","","","","","*.bubbleotea.com|bubbleotea.com","","false"
 "18.130.128.91","denburyprimary-voip.3cx.co.uk","","","","","denburyprimary-voip.3cx.co.uk","","false"
