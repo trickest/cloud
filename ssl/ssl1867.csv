@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.22.210.253","kube-apiserver","","","","","a0657e625218eb595f3fb00489351080.gr7.us-east-2.eks.amazonaws.com|ip-172-16-43-170.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.101.47.79|172.16.43.170","false"
 "3.22.210.254","portal.trademarktrans.com","","","","","portal.trademarktrans.com","","false"
 "3.22.211.3","api-sbx-aspi.everyware.io","prova srl","OR","Oristano","Oristano","","","true"

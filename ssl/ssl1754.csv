@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.73.62.213","*.savingsdev.com","","","","","*.savingsdev.com","","false"
 "52.73.62.220","*.air.inc","","","","","*.air.inc","","false"
 "52.73.62.215","*.us-east-1.es-staging.amazonaws.com","","","","","*.us-east-1.es-staging.amazonaws.com","","false"

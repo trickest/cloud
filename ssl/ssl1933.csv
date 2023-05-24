@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.108.28.61","*.31lg178359p1s.ap-south-1.cs.amazonlightsail.com","","","","","*.31lg178359p1s.ap-south-1.cs.amazonlightsail.com","","false"
 "3.108.28.59","wingrowmarket.com","","","","","wingrowmarket.com","","false"
 "3.108.28.53","www.aspecto.tech","","","","","www.aspecto.tech|aspecto.tech|*.aspecto.tech","","false"

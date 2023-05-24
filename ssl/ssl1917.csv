@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.82.239.119","kube-apiserver","","","","","50334ad52d41c97d375150b9695d1aab.gr7.us-east-1.eks.amazonaws.com|ip-172-16-113-184.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.184.158.126|172.16.113.184","false"
 "3.82.237.79","*.park2jetdenver.com","","","","","*.park2jetdenver.com|park2jetdenver.com","","false"
 "3.82.239.131","*.me.sc-teams.com","","","","","*.me.sc-teams.com","","false"

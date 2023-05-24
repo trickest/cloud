@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.110.80.130","*.supabase.co","","","","","*.supabase.co|*.supabase.in","","false"
 "3.110.80.156","*.v.m3.ao1.app.chime.aws","","","","","*.v.m3.ao1.app.chime.aws","","false"
 "3.110.80.200","cash.hugocourse.co.in","","","","","cash.hugocourse.co.in","","false"

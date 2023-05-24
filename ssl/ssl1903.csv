@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.225.3.250","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "54.225.3.245","*.assetworks.cloud","Assetworks, Inc","US","","Texas","*.assetworks.cloud|assetworks.cloud","","false"
 "54.225.4.15","*.upnvirtual.pe","Universidad Privada del Norte","PE","","La Libertad","*.upnvirtual.pe|upnvirtual.pe","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.23.150.217","kube-apiserver","","","","","643aec5c6181c06dcaa8ee8b48d4ae84.gr7.us-east-2.eks.amazonaws.com|ip-10-0-168-76.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.148.216|10.0.168.76","false"
 "3.23.150.220","*.tappitprod.com","","","","","*.tappitprod.com","","false"
 "3.23.150.225","registry.lattehub.ccom","Lattehub","VN","HN","Ha Noi","","","true"

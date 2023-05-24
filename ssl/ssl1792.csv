@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.162.87.228","*.us-east-1.aws.confluent.cloud","","","","","*.us-east-1.aws.confluent.cloud|*.us-east-1.aws.glb.confluent.cloud","","false"
 "54.162.88.0","*.prod-core.matterport.com","","","","","*.prod-core.matterport.com","","false"
 "54.162.87.67","famelivemagazine.com","","","","","famelivemagazine.com|www.famelivemagazine.com","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.155.115.43","*.pushmessage.samsung.com","Samsung Electronics Co., Ltd.","KR","","Gyeonggi-do","*.pushmessage.samsung.com|pushmessage.samsung.com","","false"
 "54.155.115.42","jfrog.netbox2.evolvere-lab.link","","","","","jfrog.netbox2.evolvere-lab.link","","false"
 "54.155.115.55","beta.hipocrates.org.ar","","","","","beta.hipocrates.org.ar","","false"

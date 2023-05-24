@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.43.148.31","*.selfregistration.daphne.navex-dev.com","","","","","*.selfregistration.daphne.navex-dev.com|selfregistration.daphne.navex-dev.com","","false"
 "52.43.148.57","*.dev.me.tesla.services","","","","","*.dev.me.tesla.services","","false"
 "52.43.148.70","*.us-west-2.cloudsearch.amazonaws.com","","","","","*.us-west-2.cloudsearch.amazonaws.com","","false"

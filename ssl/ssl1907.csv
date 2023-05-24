@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.180.140.216","*.yesweclass.com","","","","","*.yesweclass.com|yesweclass.com","","false"
 "35.180.140.217","TRAEFIK DEFAULT CERT","","","","","79f4a269660b88c547fe4d899047bff9.2d3962eec4c125b3d80ea61584065514.traefik.default","","true"
 "35.180.140.225","ava.client.lexifi.com","","","","","ava.client.lexifi.com","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.52.67.123","*.aptible.com","","","","","*.aptible.com|*.aptible-staging.com|*.aptible-sandbox.com","","false"
 "52.52.67.144","kube-apiserver","","","","","60158424c08a5ad0aa12d87bb3b4bcbe.yl4.us-west-1.eks.amazonaws.com|ip-10-0-97-61.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.129.164|10.0.97.61","false"
 "52.52.67.141","api.olus.mx","","","","","api.olus.mx","","false"

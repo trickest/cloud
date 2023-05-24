@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.95.35.62","kube-apiserver","","","","","b145488e71045fd3363e7a6ec4bc5c4e.sk1.us-east-1.eks.amazonaws.com|ip-172-16-167-25.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.2.125.52|172.16.167.25","false"
 "3.95.35.60","*.emersonecologics.com","","","","","*.emersonecologics.com|*.wellevate.me|*.eenetworks.net","","false"
 "3.95.35.78","*.idms-aws.dealersocket.engineering","","","","","*.idms-aws.dealersocket.engineering","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.21.51.70","kube-apiserver","","","","","5302b8b6e93db4567ca28206c7aee251.gr7.us-east-2.eks.amazonaws.com|ip-172-16-185-4.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.119.93|172.16.185.4","false"
 "3.21.51.76","*.svc.dhp.dxc.technology","Dxc.Technology Ltd","GB","Aldershot","","*.svc.dhp.dxc.technology","","false"
 "3.21.51.83","kube-apiserver","","","","","0b2fcfb5b393392bf6f479c1342f7f6e.gr7.us-east-2.eks.amazonaws.com|ip-172-16-112-53.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.167|172.16.112.53","false"

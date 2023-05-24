@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.199.104.254","bcas.cloud","","","","","bcas.cloud","","false"
 "52.199.105.0","*.3esys.jp","","","","","*.3esys.jp|3esys.jp","","false"
 "52.199.104.255","*.feat2-api.mgre.demo.engagement-apps.jp","","","","","*.feat2-api.mgre.demo.engagement-apps.jp|*.feat2-core-api.mgre.demo.engagement-apps.jp","","false"

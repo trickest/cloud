@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.42.236.206","kube-apiserver","","","","","7e0bab7b3b915d3a77c8fc1f18ef1312.gr7.us-west-2.eks.amazonaws.com|ip-172-16-42-147.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.8.14.188|172.16.42.147","false"
 "52.42.236.214","kube-apiserver","","","","","b46dcda6a5a8156a151f76c6cd6a08e9.gr7.us-west-2.eks.amazonaws.com|ip-10-0-45-29.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","192.168.0.1|172.31.167.115|10.0.45.29","false"
 "52.42.236.216","*.stryder.respawn.com","","","","","*.stryder.respawn.com|*.r5prod.stryder.respawn.com","","false"
