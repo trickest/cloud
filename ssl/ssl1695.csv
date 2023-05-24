@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.27.98.112","*.crowdsmart.ai","CrowdSmart, Inc.","US","San Francisco","California","*.crowdsmart.ai|crowdsmart.ai","","false"
 "52.27.98.132","ansible-tower.brivity.io","","","","","ansible-tower.brivity.io","","false"
 "52.27.98.98","www.example.com","Bitnami","","","","","","true"

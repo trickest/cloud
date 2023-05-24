@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.215.167.114","kube-apiserver","","","","","9d955b014334de197fd6603b40af5c9c.gr7.us-east-1.eks.amazonaws.com|ip-172-16-175-167.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.10.188|172.16.175.167","false"
 "3.215.167.122","*.sprinklr.com","","","","","*.sprinklr.com","","false"
 "3.215.167.126","kube-apiserver","","","","","89e2d1ec13d96ccd19dc7fe463b3d8fb.gr7.us-east-1.eks.amazonaws.com|ip-172-16-115-58.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.254.87.45|172.16.115.58","false"

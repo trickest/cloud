@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.253.196.114","kube-apiserver","","","","","dca9e50ae8bd15ef27c78d7286c66a80.gr7.us-gov-east-1.eks.amazonaws.com|ip-172-16-48-210.us-gov-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.96.104|172.16.48.210","false"
 "18.253.196.120","aplcdmdashboarddev.org","","","","","aplcdmdashboarddev.org|*.aplcdmdashboarddev.org","","false"
 "18.253.196.148","*.us-gov-east-1.es.amazonaws.com","","","","","*.us-gov-east-1.es.amazonaws.com","","false"

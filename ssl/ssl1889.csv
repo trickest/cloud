@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.41.0.219","www.fuelfitnessusa.com","","","","","www.fuelfitnessusa.com","","false"
 "52.41.0.230","canary.yelpreservations.com","","","","","canary.yelpreservations.com|*.canary.yelpreservations.com","","false"
 "52.41.0.237","*.console.ds-stg.vmware.com","VMware, Inc.","US","Palo Alto","California","*.console.ds-stg.vmware.com|*.staging.app.vcdr.vmware.com","","false"

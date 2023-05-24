@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.199.213.226","*.chuumo.net","","","","","*.chuumo.net","","false"
 "52.199.214.3","*.recop.jp","","","","","*.recop.jp","","false"
 "52.199.214.15","*.athome.co.jp","At Home Co.,Ltd.","JP","Ota-ku","Tokyo","*.athome.co.jp|athome.co.jp","","false"

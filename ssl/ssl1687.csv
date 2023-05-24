@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.77.233.219","*.pacificleague.com","Pacific League Marketing Corporation","JP","Chuo-ku","","*.pacificleague.com|pacificleague.com","","false"
 "35.77.233.243","*.manga.fod.fujitv.co.jp","","","","","*.manga.fod.fujitv.co.jp","","false"
 "35.77.233.255","*.campaign.adobe.com","Adobe Inc.","US","San Jose","California","*.campaign.adobe.com","","false"

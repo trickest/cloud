@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.21.142.243","twitchsvc.net","","","","","twitchsvc.net|*.twitchsvc.net","","false"
 "3.21.142.242","*.sedaru.com","Sedaru, Inc.","US","San Dimas","California","*.sedaru.com|sedaru.com","","false"
 "3.21.142.246","replinkrewards.com","","","","","replinkrewards.com|*.replinkrewards.com","","false"

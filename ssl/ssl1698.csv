@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.72.137.31","dataplatform.dev.smartnews.net","","","","","dataplatform.dev.smartnews.net|*.dataplatform.dev.smartnews.net","","false"
 "35.72.137.29","spring-gx-appl.adm.s.u-tokyo.ac.jp","The University of Tokyo","JP","Bunkyo-ku","Tokyo","spring-gx-appl.adm.s.u-tokyo.ac.jp","","false"
 "35.72.137.36","heyaweb3.com","","","","","heyaweb3.com|*.heyaweb3.com","","false"

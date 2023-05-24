@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.89.88.197","*.us-west-2.cloudsearch.amazonaws.com","","","","","*.us-west-2.cloudsearch.amazonaws.com","","false"
 "52.89.88.220","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.recsys-twitter.com|recsys-twitter.com","","false"
 "52.89.88.131","example.com","","","","","","","true"

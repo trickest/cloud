@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.5.73.250","*.pegacloud.net","","","","","*.pegacloud.net","","false"
 "52.5.74.2","*.cascadecms.com","","","","","*.cascadecms.com","","false"
 "52.5.73.255","soporteseidor.com","","","","","soporteseidor.com|www.soporteseidor.com","","false"

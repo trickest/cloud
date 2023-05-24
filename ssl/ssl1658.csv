@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.217.67.234","taiwantrade.com","Taiwan External Trade Development Council","TW","","Taipei","taiwantrade.com|*.ar.taiwantrade.com|*.ar.ttstaging.com.tw|*.cn.taiwantrade.com|*.cn.ttstaging.com.tw|*.de.taiwantrade.com|*.de.ttstaging.com.tw|*.en.taiwantrade.com|*.en.ttstaging.com.tw|*.es.taiwantrade.com|*.es.ttstaging.com.tw|*.fr.taiwantrade.com|*.fr.ttstaging.com.tw|*.id.taiwantrade.com|*.id.ttstaging.com.tw|*.itaiwantrade.com|*.jp.taiwantrade.com|*.jp.ttstaging.com.tw|*.pt.taiwantrade.com|*.pt.ttstaging.com.tw|*.ru.taiwantrade.com|*.ru.ttstaging.com.tw|*.taiwantrade.com|*.taiwantrade.com.tw|*.th.taiwantrade.com|*.th.ttstaging.com.tw|*.tr.taiwantrade.com|*.tr.ttstaging.com.tw|*.ttstaging.com.tw|*.tw.taiwantrade.com|*.tw.ttstaging.com.tw|*.vi.taiwantrade.com|*.vi.ttstaging.com.tw","","false"
 "3.217.67.244","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com","","false"
 "3.217.67.248","carcheck.dev.openalpr.com","","","","","carcheck.dev.openalpr.com","","false"

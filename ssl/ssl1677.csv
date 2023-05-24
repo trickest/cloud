@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.76.94.70","*.staging.coralogix.net","","","","","*.staging.coralogix.net|*.app.staging.coralogix.net|*.private.staging.coralogix.net","","false"
 "54.76.94.79","kube-apiserver","","","","","d82e3695c4cac5ce85d8ebee50f14fbb.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-100-194.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.253.165.195|172.16.100.194","false"
 "54.76.94.81","enskil.com","","","","","enskil.com|*.enskil.com","","false"

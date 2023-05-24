@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.205.53.166","*.us-east-1.cloudsearch.amazonaws.com","","","","","*.us-east-1.cloudsearch.amazonaws.com","","false"
 "54.205.53.116","*.deltekenterprise.com","Deltek, Inc.","US","Herndon","Virginia","*.deltekenterprise.com|deltekenterprise.com","","false"
 "54.205.53.151","*.valens-research.net","","","","","*.valens-research.net","","false"

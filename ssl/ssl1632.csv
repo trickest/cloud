@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.205.136.59","*.jivelandia.com","","","","","*.jivelandia.com|jivelandia.com","","false"
 "54.205.136.92","api.programateapuesto.pe","","","","","api.programateapuesto.pe|programateapuesto.pe|www.programateapuesto.pe","","false"
 "54.205.136.102","kube-apiserver","","","","","3440c72139d7d202403d4d7c5a29df7b.gr7.us-east-1.eks.amazonaws.com|ip-172-16-121-190.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.32.199|172.16.121.190","false"

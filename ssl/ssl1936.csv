@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.109.7.41","lms.onlinejain.com","","","","","lms.onlinejain.com|lmsapi.onlinejain.com","","false"
 "3.109.7.44","kube-apiserver","","","","","25c99f0a5f99f39f363ee380be7d4846.gr7.ap-south-1.eks.amazonaws.com|ip-10-0-48-114.ap-south-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.166.56|10.0.48.114","false"
 "3.109.7.48","kube-apiserver","","","","","8f84d084f7a50579449787b66b50721a.yl4.ap-south-1.eks.amazonaws.com|ip-172-16-61-230.ap-south-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.14.180.154|172.16.61.230","false"

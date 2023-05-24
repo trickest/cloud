@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.42.71.123","helpx-origin.adobe.com","Adobe Inc.","US","San Jose","California","helpx-origin.adobe.com|kb2.adobe.com|helpx.adobe.com|helpx-origin-ew1.aws116.adobeitc.com|helpx-origin-uw2.aws116.adobeitc.com|helpx-origin-an1.aws116.adobeitc.com|helpx-origin.aws116.adobeitc.com","","false"
 "52.42.71.126","*.civa.io","","","","","*.civa.io|*.api.civa.io|*.reports.civa.io|*.web.civa.io|*.app.civa.io|*.auth.civa.io","","false"
 "52.42.71.128","*.c22.us-west-2.airflow.amazonaws.com","","","","","*.c22.us-west-2.airflow.amazonaws.com","","false"

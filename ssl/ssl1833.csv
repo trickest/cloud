@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.5.141.6","espn.com","","","","","espn.com|*.internal.espn.com|*.us-east-1.aws.hosted.espn.com|*.espn.com|*.geo.hosted.espn.com|*.geo.internal.espn.com","","false"
 "52.5.141.10","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com","","false"
 "52.5.140.240","arealmrpg.com","","","","","arealmrpg.com|www.arealmrpg.com","","false"
