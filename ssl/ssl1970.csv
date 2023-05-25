@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.197.250.93","dot.dentsu.co.jp","DENTSU Inc.","JP","Minato-Ku","Tokyo","dot.dentsu.co.jp","","false"
 "52.197.250.98","*.mobilus.me","","","","","*.mobilus.me","","false"
 "52.197.250.103","id.yoshimoto.co.jp","","","","","id.yoshimoto.co.jp","","false"

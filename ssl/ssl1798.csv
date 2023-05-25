@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.164.99.49","*.supabase.co","","","","","*.supabase.co|*.supabase.in","","false"
 "54.164.99.50","*.monformateur.ca","","","","","*.monformateur.ca","","false"
 "54.164.99.57","*.openeyes.hosted.allegro.ai","","","","","*.openeyes.hosted.allegro.ai","","false"

@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.52.242.69","savings.fracsun.com","","","","","savings.fracsun.com","","false"
 "52.52.242.73","*.insynctive.biz","","","","","*.insynctive.biz|insynctive.biz","","false"
 "52.52.242.74","admin-prod.impactlab.io","","","","","admin-prod.impactlab.io","","false"

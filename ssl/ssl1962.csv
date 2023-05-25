@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.129.226.3","kube-apiserver","","","","","ef888039b876fbfea7cc690df79aecab.gr7.us-east-2.eks.amazonaws.com|ip-172-16-167-236.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.6.202|172.16.167.236","false"
 "3.129.226.14","*.dc.dltdemo.io","","","","","*.dc.dltdemo.io|*.stg.dc.dltdemo.io","","false"
 "3.129.226.22","*.backend.simetrik.com","","","","","*.backend.simetrik.com","","false"

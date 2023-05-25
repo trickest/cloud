@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.18.220.157","*.beyondtrustcloud.com","BeyondTrust Corporation","US","Johns Creek","Georgia","*.beyondtrustcloud.com|beyondtrustcloud.com","","false"
 "3.18.220.91","www.west70analytics.com","","","","","www.west70analytics.com|west70analytics.com","","false"
 "3.18.220.207","Secure Remote Access","BeyondTrust","","","","","","true"

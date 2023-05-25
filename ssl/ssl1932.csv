@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.33.200.247","*.us-west-2.es-regression.amazonaws.com","","","","","*.us-west-2.es-regression.amazonaws.com|*.cell-01.us-west-2.es-regression.amazonaws.com","","false"
 "52.33.201.6","*.savantcs.com","","","","","*.savantcs.com|savantcs.com","","false"
 "52.33.201.8","efm.morganstanleysurveys.com","","","","","efm.morganstanleysurveys.com|www.efm.morganstanleysurveys.com","","false"

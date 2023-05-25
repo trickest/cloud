@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.196.192.111","*.accounting-metrics.sbc-production.com","","","","","*.accounting-metrics.sbc-production.com","","false"
 "18.196.192.68","*.berlitz.com","","","","","*.berlitz.com","","false"
 "18.196.192.118","anonymservice.research.skoda-auto.com","SKODA AUTO a.s.","CZ","Mlada Boleslav","Stredocesky kraj","anonymservice.research.skoda-auto.com","","false"

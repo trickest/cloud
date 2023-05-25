@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.213.231.59","*.gamma.execute-api.us-east-1.amazonaws.com","","","","","*.gamma.execute-api.us-east-1.amazonaws.com","","false"
 "3.213.231.70","poc.hsindev.com","U.S. Government","US","Washington","DC","","","false"
 "3.213.231.74","animatron.com","","","","","animatron.com|*.animatron.com","","false"

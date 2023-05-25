@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.35.145.12","*.bibliodigital.ugc.edu.co","UNIVERSIDAD LA GRAN COLOMBIA","CO","Bogotá, D.C.","Bogotá, D.C.","*.bibliodigital.ugc.edu.co|bibliodigital.ugc.edu.co","","false"
 "52.35.145.61","staging.kidsempirepos.com","","","","","staging.kidsempirepos.com|*.staging.kidsempirepos.com","","false"
 "52.35.145.71","gardasiljustice.com","","","","","gardasiljustice.com|www.gardasiljustice.com","","false"

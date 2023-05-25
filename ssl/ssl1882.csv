@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.6.250.113","kube-apiserver","","","","","a9503f0287ee33bd86baa3139e27a8ae.gr7.us-east-1.eks.amazonaws.com|ip-10-0-49-22.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.92.73|10.0.49.22","false"
 "52.6.250.117","api.gamma.io","","","","","api.gamma.io","","false"
 "52.6.250.116","*.typography.com","","","","","*.typography.com","","false"

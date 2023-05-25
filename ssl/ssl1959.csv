@@ -3,6 +3,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.53.138.78","kube-apiserver","","","","","36c747e29b6a14fcd180209d523b5d7c.sk1.us-west-1.eks.amazonaws.com|ip-172-16-114-133.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.34.19|172.16.114.133","false"
 "52.53.138.81","kube-apiserver","","","","","5b9d0aae1c024a81c33572ed5245e8b7.sk1.us-west-1.eks.amazonaws.com|ip-172-16-50-194.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.201.192.1|10.201.163.46|172.16.50.194","false"
 "52.53.137.226","wearerealty.com","","","","","wearerealty.com|webdisk.wearerealty.com|www.wearerealty.com","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.32.187.75","gitlab.whitefoxdefense.com","","","","","gitlab.whitefoxdefense.com|mattermost.whitefoxdefense.com","","false"
 "52.32.187.78","devices.oauth.release.ring.com","","","","","devices.oauth.release.ring.com|internal.devices.oauth.release.ring.com","","false"
 "52.32.187.62","*.biomarketplace.com","","","","","*.biomarketplace.com|biomarketplace.com","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.216.85.116","stems.art","","","","","stems.art|*.stems.art","","false"
 "3.216.85.107","apidaly-develop.mobility-vado.com","","","","","apidaly-develop.mobility-vado.com","","false"
 "3.216.85.125","*.services.acuant-dev.net","","","","","*.services.acuant-dev.net","","false"

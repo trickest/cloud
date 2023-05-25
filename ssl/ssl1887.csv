@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.40.80.27","wildcard.lower.getty1.net","","","","","wildcard.lower.getty1.net|*.lower.getty1.net","","false"
 "52.40.80.65","nest-stg.contentnow.warnerbros.com","","","","","nest-stg.contentnow.warnerbros.com|internal-nuxeo-api-stg.contentnow.warnerbros.com|internal-api-stg-nuxeo.contentnow.warnerbros.com|internal-api-stg2-nuxeo.contentnow.warnerbros.com|internal-nuxeo-api-stg-blitline2.contentnow.warnerbros.com|nest-stg2.contentnow.warnerbros.com|internal-nuxeo-api-stg2.contentnow.warnerbros.com|internal-nuxeo-api-stg2-blitline2.contentnow.warnerbros.com","","false"
 "52.40.80.70","portal.qa.owfg.com","Overwaitea Food Group Limited Partnership","CA","Langley","British Columbia","portal.qa.owfg.com|www.portal.qa.owfg.com","","false"

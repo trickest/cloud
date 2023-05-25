@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.41.96.213","kube-apiserver","","","","","53b677168224df07b2b43962ea37421a.gr7.us-west-2.eks.amazonaws.com|ip-172-16-44-25.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.104.177|172.16.44.25","false"
 "52.41.96.215","mobomo.com","","","","","mobomo.com|*.mobomo.com|mobomocloud.com|*.mobomocloud.com","","false"
 "52.41.96.220","zdiscovery.io","","","","","zdiscovery.io","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.6.115.101","educacaoprofissional.institutoalianca.org.br","","","","","educacaoprofissional.institutoalianca.org.br|www.educacaoprofissional.institutoalianca.org.br","","false"
 "52.6.115.223","*.runparking.com","","","","","*.runparking.com","","false"
 "52.6.115.227","prod.ascp.dscs.opstechit.amazon.dev","","","","","prod.ascp.dscs.opstechit.amazon.dev","","false"

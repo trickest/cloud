@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.16.122.27","kube-apiserver","","","","","d574f2a77380e8fa8d491b8209c568d3.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-42-118.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.141.184.133|172.16.42.118","false"
 "52.16.122.31","cde.ch","","","","","cde.ch|www.cde.ch","","false"
 "52.16.122.34","*.socialplaces-test.co.za","","","","","*.socialplaces-test.co.za","","false"

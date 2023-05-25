@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.180.7.20","kube-apiserver","","","","","05102509ddd6b289dd2dd1a0450d4937.sk1.eu-west-3.eks.amazonaws.com|ip-10-0-50-171.eu-west-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.0.113|10.0.50.171","false"
 "35.180.7.80","kelbet.de","","","","","kelbet.de","","false"
 "35.180.7.93","hightechhires.com","","","","","hightechhires.com|www.hightechhires.com","","false"

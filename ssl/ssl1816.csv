@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.176.1.29","*.seminar.vcube.com","V-cube Inc.","JP","","Tokyo","*.seminar.vcube.com|seminar.vcube.com","","false"
 "18.176.1.103","kube-apiserver","","","","","2d7016a8dd49d04b2be684dd2f9776cc.gr7.ap-northeast-1.eks.amazonaws.com|ip-172-16-98-221.ap-northeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.112.211|172.16.98.221","false"
 "18.176.2.3","eshop.nanairo.coop","","","","","eshop.nanairo.coop|ap1.elb.nanairo.coop","","false"

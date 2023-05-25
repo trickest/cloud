@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.165.192.92","isramedical.info","","","","","isramedical.info|www.isramedical.info","","false"
 "54.165.192.101","kube-apiserver","","","","","18cd645dcdbc63b2430d76b3108d4dbc.gr7.us-east-1.eks.amazonaws.com|ip-172-16-57-53.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.50.41.78|172.16.57.53","false"
 "54.165.192.108","*.happymoney.com","","","","","*.happymoney.com|happymoney.com|*.aws-ue1.happymoney.com|*.prod.aws-ue1.happymoney.com","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.42.156.64","mycertificate.calstrs.ca.gov","California State Teachers Retirement System","US","West Sacramento","California","mycertificate.calstrs.ca.gov|*.calstrs.com|mycalstrs.com|*.calstrs.ca.gov|*.mycalstrs.com","","false"
 "52.42.156.81","qa.goscripts-stg.dht.live","","","","","qa.goscripts-stg.dht.live|*.qa.goscripts-stg.dht.live","","false"
 "52.42.156.87","*.docequity.com","","","","","*.docequity.com","","false"

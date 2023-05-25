@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.23.218.104","kube-apiserver","","","","","625e2df78212897d76d99f8d8241ce8d.gr7.us-east-2.eks.amazonaws.com|ip-172-16-62-246.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.8.213|172.16.62.246","false"
 "3.23.218.108","NGINXIngressController","","","","","","","false"
 "3.23.218.109","*.fairpay.online","","","","","*.fairpay.online","","false"

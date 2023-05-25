@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.217.142.83","kube-apiserver","","","","","b564a138d5b07fd2608f400399a56d60.gr7.us-east-1.eks.amazonaws.com|ip-172-16-191-137.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.3.188|172.16.191.137","false"
 "3.217.142.84","*.astech.com","","","","","*.astech.com","","false"
 "3.217.142.88","*.us-east-1.cloudsearch.amazonaws.com","","","","","*.us-east-1.cloudsearch.amazonaws.com","","false"

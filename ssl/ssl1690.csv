@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.248.238.98","*.plat.dev.vectra-svc.ai","","","","","*.plat.dev.vectra-svc.ai|plat.dev.vectra-svc.ai","","false"
 "3.248.238.102","*.nps-preprod.dev4apps.com","","","","","*.nps-preprod.dev4apps.com|npsapp-preprod.dev4apps.com|nps-preprod.dev4apps.com|*.npsapp-preprod.dev4apps.com","","false"
 "3.248.238.101","www.academyhq.com","","","","","www.academyhq.com|academyhq.com|*.academyhq.com","","false"

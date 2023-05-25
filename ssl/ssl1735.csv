@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.75.57.124","dev.lifebear.io","","","","","dev.lifebear.io|*.www.dev.lifebear.io|*.web.dev.lifebear.io|*.api-compatibility.dev.lifebear.io|*.api.dev.lifebear.io|*.admin.dev.lifebear.io|*.api-web.dev.lifebear.io|*.web-compatibility.dev.lifebear.io|*.dev.lifebear.io","","false"
 "35.75.57.115","ljbdev.site","","","","","*.ljbdev.site|ljbdev.site","","false"
 "35.75.57.125","duos.jp","Teraoka Seiko Co., Ltd.","JP","Ohta-ku","Tokyo","duos.jp","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.93.114.14","*.svc.nhl.com","BAMTECH, LLC","US","","New York","*.svc.nhl.com|svc.nhl.com","","false"
 "3.93.114.15","localhost.localdomain","SomeOrganization","--","SomeCity","SomeState","","","true"
 "3.93.114.21","apli.ca","","","","","apli.ca|*.apli.ca","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "50.16.137.145","*.colleague.elluciancloud.com","Ellucian Company L.P.","US","Reston","Virginia","*.colleague.elluciancloud.com|colleague.elluciancloud.com","","false"
 "50.16.137.147","kube-apiserver","","","","","690f79b5411e9cf043724e66a8626392.gr7.us-east-1.eks.amazonaws.com|ip-172-16-36-193.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.1.145|172.16.36.193","false"
 "50.16.137.152","*.mobi7.io","","","","","*.mobi7.io","","false"

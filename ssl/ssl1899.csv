@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.43.64.23","git.gbhapps.com","","","","","git.gbhapps.com","","false"
 "52.43.64.39","*.smartvid.io","","","","","*.smartvid.io|*.priv.smartvid.io","","false"
 "52.43.64.42","kube-apiserver","","","","","72c9b2ff4726199a5457166d9049bba7.gr7.us-west-2.eks.amazonaws.com|ip-172-16-121-62.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.106.69|172.16.121.62","false"

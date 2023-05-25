@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.172.210.224","kube-apiserver","","","","","71501acd2bc37158e15ca6566a89618c.yl4.us-east-1.eks.amazonaws.com|ip-172-16-112-81.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.15.34.164|172.16.112.81","false"
 "35.172.210.239","*.gtgs.net","","","","","*.gtgs.net|gtgs.net","","false"
 "35.172.210.236","*.thirdwayv.com","","","","","*.thirdwayv.com|thirdwayv.com","","false"

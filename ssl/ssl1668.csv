@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.174.31.21","*.lcms.navexglobalstage.com","","","","","*.lcms.navexglobalstage.com|lcms.navexglobalstage.com","","false"
 "54.174.31.29","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com","","false"
 "54.174.31.43","*.sageintacctmpp.com","","","","","*.sageintacctmpp.com|sageintacctmpp.com","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.50.93.111","cloudtrail.ap-southeast-4.amazonaws.com","","","","","cloudtrail.ap-southeast-4.amazonaws.com|*.cloudtrail.ap-southeast-4.vpce.amazonaws.com","","false"
 "16.50.93.112","*.ap-southeast-4.es.amazonaws.com","","","","","*.ap-southeast-4.es.amazonaws.com","","false"
 "16.50.93.128","www.elbnefario.com","","","","","www.elbnefario.com","","true"

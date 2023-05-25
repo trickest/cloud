@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.158.173.45","apps.igaming-prod.euc1.betsson.tech","","","","","apps.igaming-prod.euc1.betsson.tech|*.apps.igaming-prod.euc1.betsson.tech","","false"
 "35.158.173.51","TRAEFIK DEFAULT CERT","","","","","2e4ac372fc562d21638c63edc3ca35f3.3e9245934c4f5cb4599b510911d5543c.traefik.default","","true"
 "35.158.173.49","dh-d9vnr3j0.dhaas-live.shoot.live.k8s-hana.ondemand.com","","","","","*.connectivitytunnel.ingress.dh-d9vnr3j0.dhaas-live.shoot.live.k8s-hana.ondemand.com|*.ingress.dh-d9vnr3j0.dhaas-live.shoot.live.k8s-hana.ondemand.com|dh-d9vnr3j0.dhaas-live.shoot.live.k8s-hana.ondemand.com","","false"

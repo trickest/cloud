@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.230.172.217","eigadb.com","","","","","eigadb.com","","false"
 "13.230.172.214","*.arch.cfs-lab.com","","","","","*.arch.cfs-lab.com","","false"
 "13.230.172.226","*.mens-qzin.jp","","","","","*.mens-qzin.jp|*.qzin.jp","","false"

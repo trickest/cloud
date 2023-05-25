@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.213.13.52","*.camacloud.com","","","","","*.camacloud.com|*.beta1.camacloud.com|*.pacs.camacloud.com|*.beta2.camacloud.com|*.vgsi.camacloud.com|*.alpha.camacloud.com","","false"
 "3.213.13.57","mutantstoredev.mutantcxo.com","","","","","mutantstoredev.mutantcxo.com|*.mutantstoredev.mutantcxo.com","","false"
 "3.213.13.60","*.guadalajara.gob.mx","Municipio de Guadalajara","MX","Guadalajara","Jalisco","*.guadalajara.gob.mx|guadalajara.gob.mx","","false"

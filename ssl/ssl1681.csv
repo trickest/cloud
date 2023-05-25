@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.77.91.66","*.dev.smileandlearn.net","","","","","*.dev.smileandlearn.net|*.pre.smileandlearn.net|*.smileandlearn.net","","false"
 "54.77.91.70","*.icologiq.io","","","","","*.icologiq.io|icologiq.io","","false"
 "54.77.91.81","ipsos.com.ua","","","","","ipsos.com.ua|*.ipsos.com.ua","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.216.8.168","pnwairlines.flights","","","","","pnwairlines.flights|www.pnwairlines.flights","","false"
 "3.216.8.165","nodarsensor.net","","","","","*.nodarsensor.net|nodarsensor.net","","false"
 "3.216.8.157","checkoutdevices.com","","","","","checkoutdevices.com|mail.checkoutdevices.com|www.checkoutdevices.com","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.18.52.100","*.zipify.com","Zipify Apps","US","","New York","*.zipify.com|zipify.com","","false"
 "3.18.52.99","*.us-east-2.es.amazonaws.com","","","","","*.us-east-2.es.amazonaws.com","","false"
 "3.18.52.121","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.218.226.14","*.pssapi.com","","","","","*.pssapi.com","","false"
 "3.218.226.15","*.us1.prophix.cloud","","","","","*.us1.prophix.cloud","","false"
 "3.218.225.153","*.perksconnect.com","Augeo Affinity Marketing, Inc.","US","Saint Paul","Minnesota","*.perksconnect.com|perksconnect.com","","false"

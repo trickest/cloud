@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.173.141.135","*.dailyinnovation.biz","","","","","*.dailyinnovation.biz","","false"
 "35.173.141.102","www.example.com","Bitnami","","","","","","true"
 "35.173.141.148","*.us-east-1.es-integ.amazonaws.com","","","","","*.us-east-1.es-integ.amazonaws.com","","false"

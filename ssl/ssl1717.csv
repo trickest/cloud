@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.233.250.152","unimake.app","","","","","unimake.app|www.unimake.app|*.unimake.app","","false"
 "54.233.250.147","*.idtrust.com.br","","","","","*.idtrust.com.br","","false"
 "54.233.250.154","www.masquefrutos.cl","","","","","www.masquefrutos.cl|masquefrutos.cl|*.masquefrutos.cl","","false"

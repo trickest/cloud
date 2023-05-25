@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "51.16.185.118","kube-apiserver","","","","","8106699c1ff75e45726a5f70b6e7de26.yl4.il-central-1.eks.amazonaws.com|ip-172-16-118-134.il-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.174.147|172.16.118.134","false"
 "51.16.185.140","kube-apiserver","","","","","e7e4b07574953c8f43cc467c58ac11af.yl4.il-central-1.eks.amazonaws.com|ip-10-0-120-199.il-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.228.253|10.0.120.199","false"
 "51.16.185.147","kube-apiserver","","","","","a0c60cf4987921ce89c1c3127687c7c6.sk1.il-central-1.eks.amazonaws.com|ip-172-16-55-207.il-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.147.90|172.16.55.207","false"

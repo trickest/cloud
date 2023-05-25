@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.196.213.31","*.ac-s-partners.jp","","","","","*.ac-s-partners.jp|ac-s-partners.jp","","false"
 "52.196.213.41","*.manebi.jp","","","","","*.manebi.jp|manebi.jp","","false"
 "52.196.213.43","costest.ap-northeast-1.prod.app-discovery.capstone.ai.aws.dev","","","","","costest.ap-northeast-1.prod.app-discovery.capstone.ai.aws.dev","","false"

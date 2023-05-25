@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.175.81.243","*.iot.us-east-1.amazonaws.com","","","","","iot.us-east-1.amazonaws.com|*.iot.us-east-1.amazonaws.com","","false"
 "54.175.81.244","*.planful.com","Planful, Inc.","US","REDWOOD CITY","California","*.planful.com|planful.com","","false"
 "54.175.81.251","*.cbrands.com","","","","","*.cbrands.com|cbrands.com","","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.16.200.6","*.mq.eu-west-1.amazonaws.com","","","","","*.mq.eu-west-1.amazonaws.com","","false"
 "52.16.200.13","quest-takeoff.trimble.com","","","","","quest-takeoff.trimble.com|quest-takeoff-api.trimble.com","","false"
 "52.16.200.17","*.equineregister.co.uk","","","","","*.equineregister.co.uk","","false"

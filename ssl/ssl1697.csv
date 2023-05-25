@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.72.42.132","*.mycode.jp","DeNA Co., Ltd.","JP","Shibuya-ku","Tokyo","*.mycode.jp|mycode.jp","","false"
 "35.72.42.141","*.westars.jp","","","","","*.westars.jp","","false"
 "35.72.42.80","example.com","","","","","","","true"

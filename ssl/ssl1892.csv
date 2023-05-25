@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.253.4.80","*.n3o5f6hp5eek6.ap-southeast-2.cs.amazonlightsail.com","","","","","*.n3o5f6hp5eek6.ap-southeast-2.cs.amazonlightsail.com","","false"
 "54.253.4.73","*.reckonapi.com","","","","","*.reckonapi.com","","false"
 "54.253.4.87","proptechbi.com","","","","","proptechbi.com|*.proptechbi.com","","false"

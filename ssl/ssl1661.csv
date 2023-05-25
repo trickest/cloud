@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.16.42.64","*.campaign.adobe.com","Adobe Inc.","US","San Jose","California","*.campaign.adobe.com","","false"
 "52.16.42.34","*.alt255.net","","","","","*.alt255.net|alt255.net","","false"
 "52.16.42.68","*.coralogix.com","","","","","*.coralogix.com|*.app.coralogix.com|*.private.coralogix.com","","false"
