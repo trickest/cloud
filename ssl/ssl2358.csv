@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.157.68.41","kube-apiserver","","","","","4728d0396b6d2d9e06c7d6da2eca44ca.gr7.us-east-1.eks.amazonaws.com|ip-172-16-49-61.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.245|172.16.49.61","false"
 "54.157.68.44","openidm.endpoint.stg.toyotadriverslogin.com","","","","","openidm.endpoint.stg.toyotadriverslogin.com|*.stg-tmna.toyotadriverslogin.com|*.stg.lexusdriverslogin.com|*.stg-tmna.lexusdriverslogin.com|*.stg.toyotadriverslogin.com","","false"
 "54.157.68.49","iowapcfixers.com","","","","","iowapcfixers.com|site1.iowapcfixers.com|site2.iowapcfixers.com|www.iowapcfixers.com","","false"
