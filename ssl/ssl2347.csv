@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.233.106.154","*.SyntechLive.com","Syn-Tech Systems, Inc.","US","Tallahassee","Florida","*.SyntechLive.com|SyntechLive.com","","false"
 "18.233.106.160","*.eeef.live.use1a.on.epicgames.com","","","","","*.eeef.live.use1a.on.epicgames.com|*.ol.epicgames.com|*.live.use1a.on.epicgames.net|*.live.use1a.on.epicgames.com|*.ol.epicgames.net","","false"
 "18.233.106.168","entel.pe","","","","","entel.pe|backoffice.agendamientoweb.entel.pe|api.checkin.entel.pe|*.pe.entel.turnosaloha.com|*.entel.pe|api.agendamientoweb.entel.pe","","false"

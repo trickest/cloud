@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "65.8.168.181","*.ws.sonos.com","Sonos, Inc.","US","Santa Barbara","California","*.ws.sonos.com|ws.sonos.com","","false"
 "65.8.168.179","*.stage.kinesso.ninja","","","","","*.stage.kinesso.ninja","","false"
 "65.8.168.188","*.binance.com","Binance Holdings Limited","KY","West Bay","","*.binance.com|binance.com","","false"
