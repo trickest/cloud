@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.246.185.244","*.mobicontrolcloud.com","","","","","*.mobicontrolcloud.com|mobicontrolcloud.com","","false"
 "54.246.186.1","*.comet.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.comet.splunkcloud.com|comet.splunkcloud.com|*.pvt.comet.splunkcloud.com|http-inputs-comet.splunkcloud.com|*.http-inputs-comet.splunkcloud.com|akamai-inputs-comet.splunkcloud.com|*.akamai-inputs-comet.splunkcloud.com|http-inputs-ack-comet.splunkcloud.com|*.http-inputs-ack-comet.splunkcloud.com|http-inputs-firehose-comet.splunkcloud.com|*.http-inputs-firehose-comet.splunkcloud.com|pvt.comet.splunkcloud.com","","false"
 "54.246.186.15","app.regbits.com","","","","","app.regbits.com","","false"

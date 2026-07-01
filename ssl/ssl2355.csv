@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.208.32.231","www.api.livesubmetering.com","","","","","www.api.livesubmetering.com|api.livesubmetering.com","","false"
 "3.208.32.236","*.ede.stg.xoominfoaws.io","","","","","*.ede.stg.xoominfoaws.io","","false"
 "3.208.32.246","*.imag-infra.net","","","","","*.imag-infra.net|*.imag-dev.com|*.imag-stage.com|*.cdn.imag-infra.net|*.imaginuity.com","","false"

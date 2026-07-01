@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.59.13.153","glideyoke.com","","","","","glideyoke.com|uat.glideyoke.com|*.uat.glideyoke.com|*.qa.glideyoke.com|dev.glideyoke.com|*.dev.glideyoke.com|stage.glideyoke.com|*.stage.glideyoke.com|*.glideyoke.com|qa.glideyoke.com","","false"
 "16.59.14.38","aniseservices.co","","","","","aniseservices.co|*.aniseservices.co","","false"
 "16.59.13.132","*.na6.livevox.com","","","","","*.na6.livevox.com|na6.livevox.com","","false"

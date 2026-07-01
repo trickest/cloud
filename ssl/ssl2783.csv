@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.165.134.105","*.robinhood.com","","","","","*.robinhood.com","","false"
 "3.165.134.218","*.infomedia.com.au","","","","","*.infomedia.com.au|*.superservice.com|*.ifmsystems.com","","false"
 "3.165.134.139","*.rlcdn.com","","","","","*.rlcdn.com|rlcdn.com","","false"

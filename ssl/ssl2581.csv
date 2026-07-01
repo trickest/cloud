@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.0.85.129","lingkodmuntinlupa.org","","","","","lingkodmuntinlupa.org|*.lingkodmuntinlupa.org","","false"
 "3.0.85.140","capitalnews.id","","","","","capitalnews.id","","false"
 "3.0.85.149","simande.co.id","","","","","simande.co.id|www.simande.co.id","","false"

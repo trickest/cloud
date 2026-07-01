@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.42.238.177","*.live-zoocha.zoocha.zedcloud.co.uk","","","","","*.live-zoocha.zoocha.zedcloud.co.uk|www.zoocha.com|zoocha.com","","false"
 "13.42.238.190","*.eu-west-2.es.amazonaws.com","","","","","*.eu-west-2.es.amazonaws.com","","false"
 "13.42.238.195","*.zero.dynamon.co.uk","","","","","*.zero.dynamon.co.uk","","false"

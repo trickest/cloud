@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.160.130.3","sentinel-test-2.amazon.com","","","","","sentinel-test-2.amazon.com","","false"
 "3.160.130.9","www.advancedanalytica.co.uk","","","","","www.advancedanalytica.co.uk|advancedanalytica.co.uk","","false"
 "3.160.130.8","y5f.honda.co.jp","","","","","y5f.honda.co.jp|*.y5f.honda.co.jp","","false"

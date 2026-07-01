@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.25.1.99","us.staging.immersivelabs.com","","","","","us.staging.immersivelabs.com|*.range.us.staging.immersivelabs.com|*.us.staging.immersivelabs.com|*.proxy-http.us.staging.immersivelabs.com|*.api.us.staging.immersivelabs.com","","false"
 "100.25.1.106","imsearch.bmkreddy.us-east-1.ml-platform.aws.a2z.com","","","","","imsearch.bmkreddy.us-east-1.ml-platform.aws.a2z.com","","false"
 "100.25.1.108","*.betr.ai","","","","","*.betr.ai|betr.ai","","false"

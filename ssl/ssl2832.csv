@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.49.51.176","app.ubiregi.com","","","","","app.ubiregi.com","","false"
 "100.49.51.178","*.michaelkorsversace.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.michaelkorsversace.splunkcloud.com|michaelkorsversace.splunkcloud.com|*.pvt.michaelkorsversace.splunkcloud.com|http-inputs-michaelkorsversace.splunkcloud.com|*.http-inputs-michaelkorsversace.splunkcloud.com|akamai-inputs-michaelkorsversace.splunkcloud.com|*.akamai-inputs-michaelkorsversace.splunkcloud.com|http-inputs-ack-michaelkorsversace.splunkcloud.com|*.http-inputs-ack-michaelkorsversace.splunkcloud.com|http-inputs-firehose-michaelkorsversace.splunkcloud.com|*.http-inputs-firehose-michaelkorsversace.splunkcloud.com|pvt.michaelkorsversace.splunkcloud.com","","false"
 "100.49.51.179","*.awsmancsnp.manheim.com","","","","","*.awsmancsnp.manheim.com","","false"

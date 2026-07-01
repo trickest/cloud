@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.162.69.63","*.api.brightcove.com","","","","","*.api.brightcove.com|*.api.brightcove.co.jp","","false"
 "3.162.69.105","aro.stg.goaptive.com","","","","","aro.stg.goaptive.com","","false"
 "3.162.69.86","*.silkroad-eng.com","","","","","*.silkroad-eng.com","","false"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.34.40.154","kube-apiserver","","","","","feaf5a976f9540f8e8fc041540813f85.yl4.us-west-2.eks.amazonaws.com|ip-172-16-190-88.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.217.25.82|172.16.190.88","false"
 "52.34.40.166","*.aspyr.com","","","","","*.aspyr.com","","false"
 "52.34.40.170","kube-apiserver","","","","","7cd01fe1cdc8e894f42f7185c91ebc2d.sk1.us-west-2.eks.amazonaws.com|ip-10-0-172-237.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.109.22|10.0.172.237","false"

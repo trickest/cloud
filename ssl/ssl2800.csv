@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.33.200.31","*.komoejoy.com","","","","","*.komoejoy.com|komoejoy.com","","false"
 "13.33.200.69","dataservice.cxdnext.co.jp","CXD NEXT CO., LTD.","JP","Shibuya-ku","Tokyo","dataservice.cxdnext.co.jp","","false"
 "13.33.200.3","*.docebosaas.com","","","","","*.docebosaas.com","","false"

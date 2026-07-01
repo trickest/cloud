@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.187.75.211","kube-apiserver","","","","","efaf9c66636e9c9c1fced883c03433fb.gr7.us-west-2.eks.amazonaws.com|ip-10-0-51-9.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.142.47|10.0.51.9","false"
 "54.187.75.221","powerconnect.ai","","","","","powerconnect.ai|*.powerconnect.ai","","false"
 "54.187.75.224","*.materialdesk.com","","","","","*.materialdesk.com","","false"

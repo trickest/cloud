@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.210.92.38","*.saleswarp.com","","","","","*.saleswarp.com|saleswarp.com","","false"
 "3.210.92.42","*.negocioleonisa.com","","","","","*.negocioleonisa.com","","false"
 "3.210.92.47","bibleverse.co","","","","","bibleverse.co|*.bibleverse.co","","false"

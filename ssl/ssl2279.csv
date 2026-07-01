@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.165.80.106","*.magnitdev.com","","","","","*.magnitdev.com","","false"
 "35.165.80.114","paulgolding.com","","","","","0x23.xyz|paulgolding.com","","false"
 "35.165.80.120","kube-apiserver","","","","","47ce39203ae1d0ec45776d0708b3067d.gr7.us-west-2.eks.amazonaws.com|ip-172-16-107-218.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.60.23.196|172.16.107.218","false"

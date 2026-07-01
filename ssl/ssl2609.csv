@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.166.135.118","clouddev.ismart.seventy2.hk","","","","","clouddev.ismart.ajoliving.com|clouddev.ismart.legend-in.com.hk|clouddev.ismart.seventy2.hk|www.clouddev.ismart.ajoliving.com|www.clouddev.ismart.legend-in.com.hk|www.clouddev.ismart.seventy2.hk","","false"
 "18.166.135.124","*.atg-qat.com","","","","","*.atg-qat.com","","false"
 "18.166.135.125","*.ideris.com.br","","","","","*.ideris.com.br|ideris.com.br","","false"

@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.222.15.119","kube-apiserver","","","","","c7650f3fb561386ee4bb5bd55b0bf0f0.gr7.us-east-2.eks.amazonaws.com|ip-172-16-44-7.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.60.136.155|172.16.44.7","false"
 "18.222.15.117","keyconceptskbncentralsrv2.com","","","","","keyconceptskbncentralsrv2.com|www.keyconceptskbncentralsrv2.com","","false"
 "18.222.15.130","staging-web.sandbox-nybest.com","","","","","staging-web.sandbox-nybest.com","","false"

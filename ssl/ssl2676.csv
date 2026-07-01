@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.162.217.186","rvr.tegnaone.com","","","","","rvr.tegnaone.com","","false"
 "3.162.217.161","*.segment.com","","","","","*.segment.com|segment.com|segment.io|*.segment.io","","false"
 "3.162.217.163","*.amb-uranai.ameba.jp","","","","","*.amb-uranai.ameba.jp|amb-uranai.ameba.jp","","false"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.129.85.15","api.kyc.predicate.io","","","","","api.kyc.predicate.io|api-dev.kyc.predicate.io|api-preprod.kyc.predicate.io","","false"
 "3.129.85.14","foods.wisecode.ai","","","","","foods.wisecode.ai","","false"
 "3.129.85.22","ga.admin.api.production.thegriefapp.com","","","","","ga.admin.api.production.thegriefapp.com|www.ga.admin.api.production.thegriefapp.com","","false"

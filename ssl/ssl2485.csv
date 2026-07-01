@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.252.1.77","frontend.ppnportaldev.aws.platform.porsche-preview.cloud","","","","","frontend.ppnportaldev.aws.platform.porsche-preview.cloud","","false"
 "34.252.2.80","*.supabase.co","","","","","*.supabase.co|*.supabase.in","","false"
 "34.252.1.227","*.suresmile.com","","","","","*.suresmile.com|suresmile.com","","false"

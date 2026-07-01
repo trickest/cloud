@@ -75,6 +75,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.49.48.209","muse-prd-api.sorgenia.it","","","","","muse-prd-api.sorgenia.it","","false"
 "34.49.47.128","46436380.us-central1-620976522819.vdb.vertexai.goog","","","","","46436380.us-central1-620976522819.vdb.vertexai.goog","","false"
 "34.49.48.58","ds.metro.digital","","","","","*.ds.metro.digital|ds.metro.digital","","false"

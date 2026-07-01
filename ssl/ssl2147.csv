@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "98.85.181.179","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"
 "98.85.181.158","*.gridpoint.com","GridPoint, Inc.","US","Reston","Virginia","*.gridpoint.com|gridpoint.com","","false"
 "98.85.181.199","","","","","","health-checker.prod-scam-eks1-use1.proofpoint.com","","false"

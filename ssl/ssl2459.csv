@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.208.8.12","kube-apiserver","","","","","d629ca6df23b7ed79653761ea207967f.sk1.ap-northeast-3.eks.amazonaws.com|ip-10-0-37-122.ap-northeast-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.27.126|10.0.37.122","false"
 "16.208.8.31","repository.preprod.ap-northeast-3.ml-platform.aws.a2z.com","","","","","repository.preprod.ap-northeast-3.ml-platform.aws.a2z.com","","false"
 "16.208.8.34","ap-northeast-3.gamma.mediatailor.aws.a2z.com","","","","","ap-northeast-3.gamma.mediatailor.aws.a2z.com|*.ap-northeast-3.gamma.mediatailor.aws.a2z.com","","false"

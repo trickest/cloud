@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "143.204.203.118","dl.amazon.co.uk","","","","","dl.amazon.co.uk|dl.amazon.co.za|dl.amazon.co.in|origin-dl.amazon.ie|dl.amazon.sa|dl.amazon.fr|origin-dl.amazon.co.uk|origin-dl.amazon.eg|dl.amazon.se|origin-dl.amazon.ae|origin-dl.amazon.in|origin-dl.amazon.it|origin-dl.amazon.es|origin-dl.amazon.co.za|dl.amazon.nl|origin-dl.amazon.co.in|dl.amazon.pl|dl.amazon.de|origin-dl.amazon.com.tr|origin-dl.amazon.pl|origin-dl.amazon.com.ng|origin-dl.amazon.nl|dl.amazon.es|dl.amazon.com.ng|origin-dl.amazon.de|origin-dl.amazon.com.be|dl.amazon.com.tr|dl.amazon.in|dl.amazon.ae|dl.amazon.it|dl.amazon.com.be|origin-dl.amazon.fr|origin-dl.amazon.sa|dl.amazon.ie|origin-dl.amazon.se|dl.amazon.eg","","false"
 "143.204.203.61","jwplayer.com","","","","","jwplayer.com|jwplatform.com|*.jwplayer.com|*.bitsontherun.com|*.jwplatform.com|bitsontherun.com","","false"
 "143.204.203.132","*.spd.samsungdm.com","","","","","*.spd.samsungdm.com|spd.samsungdm.com","","false"

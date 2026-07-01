@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.103.27.6","az1.network-firewall.ap-southeast-6.amazonaws.com","","","","","az1.network-firewall.ap-southeast-6.amazonaws.com|network-firewall.ap-southeast-6.api.aws|network-firewall.ap-southeast-6.amazonaws.com|*.network-firewall.ap-southeast-6.vpce.amazonaws.com","","false"
 "3.103.27.5","ap-southeast-6.merwin.aws.dev","","","","","ap-southeast-6.merwin.aws.dev","","false"
 "3.103.27.18","kube-apiserver","","","","","b298582a531ad6461fb303ded4186db5.sk1.ap-southeast-6.eks.amazonaws.com|ip-172-16-164-175.ap-southeast-6.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.35.207|172.16.164.175","false"

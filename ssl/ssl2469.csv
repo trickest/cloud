@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.178.25.205","demo2.stg-taimee.com","","","","","demo2.stg-taimee.com|*.demo2.stg-taimee.com","","false"
 "54.178.25.152","*.bindsns.com","","","","","*.bindsns.com","","false"
 "54.178.25.167","*.company.works-hi.com","WORKS HUMAN INTELLIGENCE CO., LTD.","JP","Minato-ku","Tokyo","*.company.works-hi.com|company.works-hi.com","","false"

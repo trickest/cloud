@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.166.232.103","*.offerup-stg.com","","","","","*.offerup-stg.com","","false"
 "3.166.232.105","*.specialized.com","","","","","*.specialized.com|specialized.com","","false"
 "3.166.232.104","simple-workflow-stage.licenses.adobe.com","Adobe Inc.","US","San Jose","California","simple-workflow-stage.licenses.adobe.com","","false"

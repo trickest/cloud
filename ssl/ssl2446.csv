@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.65.200.55","llm.seerfg.flameai.io","","","","","llm.seerfg.flameai.io","","false"
 "52.65.200.65","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.ridx.io|ridx.io","","false"
 "52.65.200.79","ip-connect.dev-lonsec.com.au","","","","","ip-connect.dev-lonsec.com.au","","false"

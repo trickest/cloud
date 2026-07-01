@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.67.7.152","demo-sa-br1-be.namirialsign.com","","","","","demo-sa-br1-be.namirialsign.com","","false"
 "52.67.6.7","*.teto.com.br","","","","","*.teto.com.br","","false"
 "52.67.7.162","clientes.e-pedidos.com.ar","","","","","clientes.e-pedidos.com.ar","","false"

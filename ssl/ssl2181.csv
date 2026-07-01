@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.85.239.152","ait-2.kkeio.people.aws.dev","","","","","ait-2.kkeio.people.aws.dev","","false"
 "54.85.239.157","*.azfieldnexus-staging.com","","","","","*.azfieldnexus-staging.com","","false"
 "54.85.239.159","marketing.ithinkilikeyou.net","","","","","marketing.ithinkilikeyou.net","","false"

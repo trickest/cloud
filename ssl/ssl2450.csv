@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.52.239.248","uat.api.e2payments.com","","","","","uat.api.e2payments.com","","false"
 "52.52.240.13","*.us-west-1.cloudsearch.amazonaws.com","","","","","*.us-west-1.cloudsearch.amazonaws.com","","false"
 "52.52.240.14","*.4222fa8a.preview.partnerpage.io","","","","","*.4222fa8a.preview.partnerpage.io","","false"

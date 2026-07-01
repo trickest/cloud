@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.178.126.13","line-api.gvc.co.jp","","","","","line-api.gvc.co.jp","","false"
 "54.178.126.2","rev-elb.mitsubishi.com","","","","","rev-elb.mitsubishi.com","","false"
 "54.178.126.18","prod.sushidada.com","","","","","prod.sushidada.com","","false"

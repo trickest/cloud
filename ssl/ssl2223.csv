@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.210.150.7","*.drsvcnp.aws.dealertrack.com","","","","","*.drsvcnp.aws.dealertrack.com","","false"
 "34.210.150.8","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "34.210.150.19","*.goairgap.com","","","","","*.goairgap.com","","false"

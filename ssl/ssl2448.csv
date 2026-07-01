@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.52.42.229","3c4c9b44ef3215e3.mediapackage.us-west-1.amazonaws.com","","","","","3c4c9b44ef3215e3.mediapackage.us-west-1.amazonaws.com","","false"
 "52.52.42.238","staging-api.taslingo.com","","","","","staging-api.taslingo.com","","false"
 "52.52.42.237","koleimports.com","Magento Cloud","FR","","","","","true"

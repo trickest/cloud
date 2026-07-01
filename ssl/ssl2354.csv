@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.95.116.163","public1.adgear.com","","","","","public1.adgear.com|*.adgear.com|*.adgrx.com|*.admin.adgear.com|*.dsp.samsungads.com|*.email-samsung.com|*.pre-prod.dsp.samsungads.com|*.pre-prod.trader.adgear.com|*.samsungads.com|*.samsungtvads.com|*.staging.adgear.com|*.staging.dsp.samsungads.com|*.staging.trader.adgear.com|*.trader.adgear.com|adgear.com|adgrx.com|email-samsung.com|samsungads.com|samsungtvads.com","","false"
 "3.95.116.158","substack-staging.com","","","","","substack-staging.com","","false"
 "3.95.116.175","test-sso.ylhglobal.com","","","","","test-sso.ylhglobal.com","","false"

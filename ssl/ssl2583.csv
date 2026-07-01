@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.0.251.136","kube-apiserver","","","","","111d39a2f088fa40a4481a1dc795a280.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-42-147.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.30.10.65|172.16.42.147","false"
 "3.0.251.164","aarong.com","Magento Cloud","FR","","","","","true"
 "3.0.251.155","*.n3n1y8n0np95m.ap-southeast-1.cs.amazonlightsail.com","","","","","*.n3n1y8n0np95m.ap-southeast-1.cs.amazonlightsail.com","","false"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.253.154.144","*.entsia.io","","","","","*.entsia.io|*.pst.entsia.io|*.ct.entsia.io|*.ct2.entsia.io|*.st2.entsia.io|*.express.entsia.io|*.rc.entsia.io|*.ed.entsia.io|*.uat.entsia.io|*.st.entsia.io","","false"
 "54.253.154.152","mcprod.burnsco.co.nz","Magento Cloud","FR","","","","","true"
 "54.253.154.162","vendor-webapp.com.au","","","","","vendor-webapp.com.au|*.vendor-webapp.com.au","","false"

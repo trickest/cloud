@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.86.10.138","*.geocomply.net","","","","","*.geocomply.net|geocomply.net","","false"
 "99.86.13.9","*.corp.apollo.rhinternal.net","","","","","*.corp.apollo.rhinternal.net|*.apollo.rhinternal.net","","false"
 "99.86.9.59","*.thetvdb.com","","","","","*.thetvdb.com|*.beta.thetvdb.com|thetvdb.com|*.prod.thetvdb.com","","false"

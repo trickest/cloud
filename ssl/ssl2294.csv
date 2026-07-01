@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.125.81.168","admin.sharetube.kr","","","","","admin-api.sharetube.kr|admin.sharetube.kr|simcheong-api.sharetube.kr|simcheong.sharetube.kr","","false"
 "13.125.81.171","testbigcraft.kr","","","","","testbigcraft.kr|*.testbigcraft.kr","","false"
 "13.125.81.178","13.125.81.178","","","","","13.125.81.178","","false"

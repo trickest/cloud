@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "95.40.198.227","kube-apiserver","","","","","3dbf797259c420cfeec43e0fa72c6245.yl4.ap-east-1.eks.amazonaws.com|ip-172-16-108-74.ap-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.212.168.30|172.16.108.74","false"
 "95.40.198.201","facejzwer.com","","","","","facejzwer.com|*.facejzwer.com","","false"
 "95.40.198.230","*.smarttrust.app","","","","","*.smarttrust.app","","false"

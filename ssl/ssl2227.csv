@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "98.80.6.46","analytics.gocurie.com","","","","","analytics.gocurie.com","","false"
 "98.80.7.67","studio-forge-api.villaernest.dev","","","","","studio-forge-api.villaernest.dev","","false"
 "98.80.6.143","TRAEFIK DEFAULT CERT","","","","","3423a24546c8f812a8be1f3d66438fa2.8ea60bcf191b2374526a47f4afb4bef0.traefik.default","","true"

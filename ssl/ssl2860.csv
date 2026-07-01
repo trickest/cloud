@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.84.244.78","sgcproducts.com","","","","","sgcproducts.com|*.sgcproducts.com","","false"
 "99.84.244.48","test.libracms.jp","","","","","test.libracms.jp|*.test.libracms.jp","","false"
 "99.84.244.110","binance.me","","","","","binance.me|*.binance.me|*.binance.info|binance.info","","false"

@@ -75,6 +75,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.97.244.31","main-rsa","Bogus","US","","MA","","","false"
 "34.97.244.89","main-rsa","Bogus","US","","MA","","","false"
 "34.97.244.179","34.97.0.231","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.97.0.231|172.31.160.1|34.97.9.205|34.97.244.179|34.97.10.122|10.50.16.220","false"

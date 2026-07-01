@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.22.141.107","*.intelipost.com.br","","","","","*.intelipost.com.br","","false"
 "52.22.141.109","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-02.us-east-1.es.amazonaws.com","","false"
 "52.22.141.119","dogsimity.com","","","","","dogsimity.com|*.dogsimity.com","","false"

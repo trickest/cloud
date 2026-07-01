@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.22.74.227","sym-na-uat-chat-glb-2.u.isym.io","","","","","sym-na-uat-chat-glb-2.u.isym.io","","false"
 "52.22.74.225","cadacuidadoimporta.com.br","","","","","cadacuidadoimporta.com.br|www.cadacuidadoimporta.com.br","","false"
 "52.22.74.239","us-east-1.alpha.dataapi.wirambi.redshift.aws.dev","","","","","us-east-1.alpha.dataapi.wirambi.redshift.aws.dev","","false"

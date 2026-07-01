@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.145.177.33","pruthissrui.cell-1.dev.us-west-2.nonprod.connect.aws.a2z.com","","","","","pruthissrui.cell-1.dev.us-west-2.nonprod.connect.aws.a2z.com","","false"
 "16.145.177.38","*.gamma-us-west-2.osis.amazonaws.com","","","","","*.gamma-us-west-2.osis.amazonaws.com|*.osis.gamma-us-west-2.vpce.amazonaws.com","","false"
 "16.145.177.48","*.qa.conversation-insights.com","","","","","*.qa.conversation-insights.com","","false"

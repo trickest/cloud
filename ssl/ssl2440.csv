@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.43.126.26","img-direct.prod-utils.freeviewplay.net","","","","","img-direct.prod-utils.freeviewplay.net","","false"
 "13.43.126.25","webmail.congoblue.me","","","","","webmail.congoblue.me","","false"
 "13.43.126.28","example.com","","","","","example.com|www.example.com","127.0.0.1","true"

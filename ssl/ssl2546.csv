@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.11.191.169","kube-apiserver","","","","","f8a53e64457e17b720648b0a883505d6.gr7.us-west-2.eks.amazonaws.com|ip-10-0-181-95.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.3.25|10.0.181.95","false"
 "52.11.191.171","kube-apiserver","","","","","27c27801fee953932062a0e7e47b7f05.gr7.us-west-2.eks.amazonaws.com|ip-10-0-63-67.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.47.239|10.0.63.67","false"
 "52.11.191.172","cert.elb-custom-security-policy-ssl.com","","","","","cert.elb-custom-security-policy-ssl.com","","false"

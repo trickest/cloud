@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.171.81.246","es.eu-north-1.amazonaws.com","","","","","es.eu-north-1.amazonaws.com|opensearch.eu-north-1.amazonaws.com|*.aos.eu-north-1.vpce.amazonaws.com|aos.eu-north-1.api.aws|aosd.eu-north-1.amazonaws.com|osis.eu-north-1.amazonaws.com|*.es.eu-north-1.vpce.amazonaws.com","","false"
 "16.171.81.248","bigmac-publicapi-51.eu-north-1.amazonaws.com","Amazon.com Inc.","US","Seattle","Washington","bigmac-publicapi-51.eu-north-1.amazonaws.com","","false"
 "16.171.81.188","nlbwfs-prod-52.eu-north-1.amazonaws.com","Amazon.com Inc.","US","Seattle","Washington","nlbwfs-prod-52.eu-north-1.amazonaws.com","","false"

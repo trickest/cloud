@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.217.248.36","grouper.test.iam.arizona.edu","","","","","grouper.test.iam.arizona.edu","","false"
 "34.217.248.32","vigoroom.com","","","","","vigoroom.com|*.vigoroom.com","","false"
 "34.217.248.42","*.immedia-semi.com","Amazon","US","Boston","Massachusetts","","","true"

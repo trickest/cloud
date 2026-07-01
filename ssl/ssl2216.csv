@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.208.2.108","www.example.com","","","","","","","true"
 "34.208.0.181","*.np.communication.playstation.net","Sony Computer Entertainment Inc.","JP","Minato-ku","Tokyo","*.np.communication.playstation.net","","false"
 "34.208.2.19","*.api.va.adobedc.net","Adobe Inc.","US","San Jose","California","*.api.va.adobedc.net","","false"

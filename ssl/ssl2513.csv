@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.248.134.228","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.nfra.club|nfra.club","","false"
 "34.248.134.234","dub-api.35mm.es","","","","","dub-api.35mm.es","","false"
 "34.248.134.238","kube-apiserver","","","","","705838649aba91e2ee6d05cec06b49fb.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-119-254.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.129.146|172.16.119.254","false"

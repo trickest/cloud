@@ -4,6 +4,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.135.73.98","*.qmatic.cloud","","","","","*.qmatic.cloud|*.se.qmatic.cloud|*.no.qmatic.cloud|*.fr.qmatic.cloud|*.uk.qmatic.cloud|*.de.qmatic.cloud|*.us.qmatic.cloud|*.nl.qmatic.cloud|*.be.qmatic.cloud","","false"
 "18.135.73.95","cert-lb-activate-redirects.ls-alb-testing.com","","","","","cert-lb-activate-redirects.ls-alb-testing.com","","false"
 "18.135.73.92","rewards-test.io","","","","","*.rewards-test.io|rewards-test.io","","false"

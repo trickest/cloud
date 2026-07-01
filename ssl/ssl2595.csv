@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.160.83.110","mintegral.com","","","","","mintegral.com|*.mintegral.com|rayjump.com|*.rayjump.com|mintegral.net|mobvista.com|*.mintegral.net|*.mobvista.com","","false"
 "18.160.83.128","*.samsungosp.com","Samsung Electronics Co.,Ltd.","KR","Suwon-si","Gyeonggi-do","*.samsungosp.com|samsungosp.com","","false"
 "18.160.82.214","www.amazon.com.au","","","","","www.amazon.com.au|p-y3-www-amazon-com-au-kalias.amazon.com.au|amazon.com.au|p-yo-www-amazon-com-au-kalias.amazon.com.au|www.amazon.com|origin-www.amazon.com.au|amazon.com|p-nt-www-amazon-com-au-kalias.amazon.com.au","","false"

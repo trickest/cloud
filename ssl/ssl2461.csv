@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.101.29.219","*.eu-south-2.osis.amazonaws.com","","","","","*.eu-south-2.osis.amazonaws.com|*.osis.eu-south-2.vpce.amazonaws.com","","false"
 "18.101.29.237","api.aecs.eu-south-2.gamma.paets.advertising.amazon.dev","","","","","api.aecs.eu-south-2.gamma.paets.advertising.amazon.dev","","false"
 "18.101.29.194","wikiwoohotelibiza.com","","","","","wikiwoohotelibiza.com|www.wikiwoohotelibiza.com","","false"

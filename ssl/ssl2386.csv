@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.164.78.55","*.samsungcms.com","Samsung Electronics Co.,Ltd.","KR","Suwon-si","Gyeonggi-do","*.samsungcms.com|samsungcms.com","","false"
 "15.164.78.57","*.coinpickle.net","","","","","*.coinpickle.net","","false"
 "15.164.78.76","hdit.io.kr","","","","","hdit.io.kr|wvm.hdit.io.kr|www.hdit.io.kr","","false"

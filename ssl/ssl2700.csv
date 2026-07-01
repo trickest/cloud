@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.155.140.89","*.payment.global.rakuten.com","Rakuten Group, Inc.","JP","Setagaya-ku","Tokyo","*.payment.global.rakuten.com","","false"
 "18.155.140.94","distribution.cloudfront-test.net","Amazon Inc.","US","Seattle","Washington","distribution.cloudfront-test.net","","true"
 "18.155.140.93","*.srv.ygles.com","CANON INC.","JP","Ota-Ku","Tokyo","*.srv.ygles.com","","false"

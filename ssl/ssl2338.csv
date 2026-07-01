@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.214.250.14","kube-apiserver","","","","","9e54c1db8870fc48a8bff90df36e6c12.gr7.us-west-2.eks.amazonaws.com|ip-172-16-49-187.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.192.48.204|172.16.49.187","false"
 "54.214.250.21","*.us-west-2.osis.amazonaws.com","","","","","*.us-west-2.osis.amazonaws.com|*.osis.us-west-2.vpce.amazonaws.com","","false"
 "54.214.250.49","twinbox.ai","","","","","twinbox.ai|*.twinbox.ai","","false"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.28.21.151","sync-states.me-central-1.amazonaws.com","","","","","sync-states.me-central-1.amazonaws.com|*.sync-states.me-central-1.vpce.amazonaws.com|sync-states.me-central-1.api.aws","","false"
 "3.28.22.47","*.glue-gamma.me-central-1.vpce.amazonaws.com","","","","","*.glue-gamma.me-central-1.vpce.amazonaws.com|glue-gamma.me-central-1.amazonaws.com|glue-gamma.me-central-1.api.aws","","false"
 "3.28.22.91","kube-apiserver","","","","","68e080be14f173533e393f2fb74a0b71.sk1.me-central-1.eks.amazonaws.com|ip-172-16-39-190.me-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.187.110|172.16.39.190","false"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.175.84.65","www.amazon.ie","","","","","www.amazon.ie","","false"
 "3.175.84.116","explore.skillbuilder.aws","","","","","www.explore.skillbuilder.aws|assets.skillbuilder.aws|*.enterprise.skillbuilder.aws|explore.skillbuilder.aws","","false"
 "3.175.84.82","www.denso-ten.com","","","","","www.denso-ten.com","","false"

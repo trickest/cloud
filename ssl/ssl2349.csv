@@ -7,6 +7,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.218.229.48","fulton--stmqrp.app.us.cdo.cisco.com","Cisco Systems Inc.","US","San Jose","California","fulton--stmqrp.app.us.cdo.cisco.com","","false"
 "34.218.229.63","*.arc-recovery-cluster.us-west-2.on.aws","","","","","*.arc-recovery-cluster.us-west-2.on.aws|*.route53-recovery-cluster.us-west-2.amazonaws.com|*.us-west-2.cluster.meridian.amazonaws.com","","false"
 "34.218.229.144","teste.plataforma.surmip.com.br","","","","","teste.plataforma.surmip.com.br","","false"

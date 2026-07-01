@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.100.74.74","s3holis-prod.eu-south-2.amazonaws.com","Amazon.com Inc.","US","Seattle","Washington","zaz.prod.holis.s3.aws.dev|s3holis-prod.eu-south-2.amazonaws.com","","false"
 "18.100.74.26","appconfigdata.eu-south-2.amazonaws.com","","","","","appconfigdata.eu-south-2.amazonaws.com|*.appconfigdata.eu-south-2.vpce.amazonaws.com|appconfigdata.eu-south-2.api.aws","","false"
 "18.100.74.73","aws-ards-prod.eu-south-2.amazonaws.com","","","","","aws-ards-prod.eu-south-2.amazonaws.com","","false"

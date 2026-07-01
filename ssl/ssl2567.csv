@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.222.145.16","apex-wildcard.choozen.fr","","","","","apex-wildcard.choozen.fr|choozen.gr|choozen.it|*.choozen.ch|choozen.es|*.choozen.it|*.choozen.gr|choozen.ch|choozen.sk|*.choozen.sk|*.choozen.fr|choozen.se|*.choozen.hu|*.choozen.co.uk|*.choozen.se|*.choozen.pt|*.choozen.dk|choozen.hu|choozen.fr|choozen.fi|*.choozen.pl|choozen.be|*.choozen.ro|choozen.no|choozen.de|*.choozen.nl|choozen.dk|*.choozen.no|*.choozen.de|*.choozen.be|choozen.pt|*.choozen.fi|*.choozen.cz|choozen.nl|choozen.ro|choozen.co.uk|choozen.pl|*.choozen.es|choozen.cz","","false"
 "52.222.145.92","distribution.cloudfront-test.net","Amazon Inc.","US","Seattle","Washington","distribution.cloudfront-test.net","","true"
 "52.222.142.216","demo.openanalyst.com","","","","","demo.openanalyst.com","","false"

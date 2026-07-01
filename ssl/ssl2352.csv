@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.94.149.226","example.com","","","","","example.com|www.example.com","127.0.0.1","true"
 "3.94.150.51","thc-clever-swanson-38afsyp.cribl.cloud","","","","","thc-clever-swanson-38afsyp.cribl.cloud|default.thc.clever-swanson-38afsyp.cribl.cloud|in.thc-default-clever-swanson-38afsyp.cribl.cloud|*.thc.clever-swanson-38afsyp.cribl.cloud","","false"
 "3.94.150.112","example.com","","","","","example.com|www.example.com","127.0.0.1","true"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.221.49.40","mtls-api-openbanking.verdecard.com.br","QUERO-QUERO VERDECARD INSTITUICAO DE PAGAMENTO S.A.","BR","Cachoeirinha","RS","mtls-api-openbanking.verdecard.com.br","","false"
 "18.221.49.50","inkwell.harman.com","Harman International Industries, Incorporated","US","","Connecticut","inkwell.harman.com","","false"
 "18.221.49.54","gx-gulfautodirect.ms.3cx.us","","","","","gx-gulfautodirect.ms.3cx.us","","false"

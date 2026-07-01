@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.34.116.80","TRAEFIK DEFAULT CERT","","","","","1ba6da283111941a7169028b2264e3ab.ef0d1d71f69058adad22b523ec3900cc.traefik.default","","true"
 "52.34.116.84","localhost","Organization","US","City","State","","","true"
 "52.34.116.86","*.us-west-2.cloudsearch.amazonaws.com","","","","","*.us-west-2.cloudsearch.amazonaws.com","","false"

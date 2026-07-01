@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.253.137.241","rulesets.deel-gu-dev.com","","","","","rulesets.deel-gu-dev.com|*.rulesets.deel-gu-dev.com","","false"
 "34.253.137.251","*.test.enterprisetransparency.thelegogroup.com","","","","","*.test.enterprisetransparency.thelegogroup.com","","false"
 "34.253.137.254","radioplayer.fr","","","","","radioplayer.fr|www.radioplayer.fr","","false"

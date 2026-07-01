@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "65.8.130.227","acm.viaduct-validate-resource-config.com","","","","","acm.viaduct-validate-resource-config.com","","false"
 "65.8.130.151","datacentral.a2z.com","","","","","datacentral.a2z.com","","false"
 "65.8.130.192","*.startrek.digitgaming.com","","","","","*.startrek.digitgaming.com","","false"

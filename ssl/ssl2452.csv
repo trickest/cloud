@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.34.69.22","kube-apiserver","","","","","1c0b47149bf2ce2e655e6f40cf85d9ee.gr7.ap-northeast-2.eks.amazonaws.com|ip-10-0-33-125.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.188.165|10.0.33.125","false"
 "3.34.69.27","roomingofficial.com","","","","","roomingofficial.com|*.roomingofficial.com","","false"
 "3.34.69.41","one.posco.net","POSCO Co.,Ltd.","KR","Pohang-si","Gyeongsangbuk-do","one.posco.net|tone.posco.net|sso.posco.net|ssoqa.posco.net|smartconference.posco.net|usmartconference.posco.net","","false"

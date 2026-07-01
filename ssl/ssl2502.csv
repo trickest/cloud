@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.128.122.163","cambiocasa.a2aenergia.eu","","","","","cambiocasa.a2aenergia.eu","","false"
 "108.128.122.176","*.cliqueo.es","","","","","*.cliqueo.es","","false"
 "108.128.122.158","*.dkr.ecr.eu-west-1.amazonaws.com","","","","","*.dkr.ecr.eu-west-1.amazonaws.com|*.dkr-ecr.eu-west-1.on.aws|*.dkr.ecr.eu-west-1.vpce.amazonaws.com","","false"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.195.177.224","kube-apiserver","","","","","4261fdb63cd3c1b36797de221469073e.gr7.eu-central-1.eks.amazonaws.com|ip-172-16-104-60.eu-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.145.243.122|172.16.104.60","false"
 "18.195.177.245","parodist.ai","","","","","parodist.ai|www.parodist.ai|beta.parodist.ai","","false"
 "18.195.178.25","eu2.nonprod.ehssrisk.com","","","","","eu2.nonprod.ehssrisk.com","","false"

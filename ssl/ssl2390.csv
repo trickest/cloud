@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.165.214.232","*.stzapp.com","","","","","*.stzapp.com","","false"
 "15.165.214.229","sapairapi.wezoncloud.com","","","","","sapairapi.wezoncloud.com","","false"
 "15.165.214.237","*.thehyoosik.me","","","","","*.thehyoosik.me","","false"

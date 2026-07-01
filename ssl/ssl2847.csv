@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.51.153.245","*.execute-api.us-east-1.amazonaws.com","","","","","*.execute-api.us-east-1.amazonaws.com","","false"
 "100.51.153.248","*.jvl6t7cj0q7cm.us-east-1.cs.amazonlightsail.com","","","","","*.jvl6t7cj0q7cm.us-east-1.cs.amazonlightsail.com","","false"
 "100.51.153.249","cas.catapultsg.com","","","","","cas.catapultsg.com|www.cas.catapultsg.com","","false"

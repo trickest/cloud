@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.41.99.169","*.datav.bsquare.com","Bsquare Corporation","US","Bellevue","Washington","*.datav.bsquare.com","","false"
 "13.41.99.176","vieweq.com","","","","","vieweq.com|www.vieweq.com","","false"
 "13.41.99.191","feature.webgains.team","","","","","feature.webgains.team|*.feature.webgains.team","","false"

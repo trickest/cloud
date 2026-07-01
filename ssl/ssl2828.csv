@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.48.106.141","clickster.io","","","","","clickster.io|*.clickster.io","","false"
 "100.48.106.151","*.lewisandclarkstaging.com","","","","","*.lewisandclarkstaging.com","","false"
 "100.48.106.154","proxy.pure-gorge-6919.staging.herokuspace.com","","","","","proxy.pure-gorge-6919.staging.herokuspace.com","","false"

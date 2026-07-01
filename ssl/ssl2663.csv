@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.161.91.15","opencds-qa-fb.fujifilm.com","FUJIFILM Business Innovation Corp.","JP","Minato-ku","Tokyo","opencds-qa-fb.fujifilm.com","","false"
 "3.161.91.75","centforce.net","","","","","centforce.net|*.centforce.net","","false"
 "3.161.91.25","*.dataeng.cbssports.cloud","","","","","*.dataeng.cbssports.cloud","","false"

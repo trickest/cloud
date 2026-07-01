@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.230.46.224","ver-ada.internavi.ne.jp","","","","","ver-ada.internavi.ne.jp","","false"
 "54.230.46.222","*.undercovertourist.com","","","","","*.undercovertourist.com|undercovertourist.com","","false"
 "54.230.46.219","*.ayalalandlogistics.com","","","","","*.ayalalandlogistics.com","","false"

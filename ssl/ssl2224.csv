@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.210.231.131","kube-apiserver","","","","","caadf87c50bec7a953529e6517b986fd.gr7.us-west-2.eks.amazonaws.com|ip-10-0-115-112.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.0.170|10.0.115.112","false"
 "34.210.231.133","rwaterprd02.alm.saas.microfocus.com","","","","","rwaterprd02.alm.saas.microfocus.com","","false"
 "34.210.231.144","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

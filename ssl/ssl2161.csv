@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "51.84.136.154","kube-apiserver","","","","","7b0864ad7ed2aab1af9051e7fade6675.gr7.il-central-1.eks.amazonaws.com|ip-172-16-175-22.il-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.143.19|172.16.175.22","false"
 "51.84.136.152","kube-apiserver","","","","","9b36b03560478ca2721e29388381241d.gr7.eks-cluster-gamma.il-central-1.api.aws|ip-172-16-47-2.il-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fd5f:9b20:3dab::1|2a05:d025:92:f308:29ab:9982:75c1:64b1|172.16.47.2","false"
 "51.84.136.160","*.execute-api.il-central-1.amazonaws.com","","","","","*.execute-api.il-central-1.amazonaws.com","","false"

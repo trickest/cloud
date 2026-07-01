@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.208.161.9","*.ellis.us-east-1.qa.deploys.brightcove.com","","","","","*.ellis.us-east-1.qa.deploys.brightcove.com","","false"
 "3.208.161.18","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "3.208.161.21","kube-apiserver","","","","","3bccc63265ce5364a9598e448ce399b2.gr7.us-east-1.eks.amazonaws.com|ip-172-16-188-204.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.65.0.1|100.72.9.93|172.16.188.204","false"

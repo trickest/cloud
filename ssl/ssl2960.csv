@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.199.2.31","www.cyberbeing.tech","","","","","astral.cyberbeing.tech|auth.cyberbeing.tech|expand.cyberbeing.tech|filing.cyberbeing.tech|futon.cyberbeing.tech|glasasu.cyberbeing.tech|gmail.cyberbeing.tech|happy.cyberbeing.tech|kotatsu.cyberbeing.tech|stage-kotatsu.cyberbeing.tech|wiki.cyberbeing.tech|wlog.cyberbeing.tech|www.cyberbeing.tech","","false"
 "52.199.2.47","remotework-box.jp","","","","","remotework-box.jp|control.remotework-box.jp","","false"
 "52.199.2.50","stg.nli-dcdm.ifis.co.jp","","","","","stg.nli-dcdm.ifis.co.jp","","false"

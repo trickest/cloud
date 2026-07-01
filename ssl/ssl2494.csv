@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.255.59.189","kube-apiserver","","","","","c89d0886e9d791ebed7b44a32954c767.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-105-214.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.10.104.71|172.16.105.214","false"
 "34.255.59.184","api.ci.ew1.morpheus-deepfake-ci.f-sos.net","","","","","api.ci.ew1.morpheus-deepfake-ci.f-sos.net|api.int.ci.ew1.morpheus-deepfake-ci.f-sos.net","","false"
 "34.255.59.186","api-eregistered.unifiedpost.com","","","","","api-eregistered.unifiedpost.com","","false"

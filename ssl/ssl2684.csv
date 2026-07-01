@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.163.195.49","*.binance.sg","","","","","*.binance.sg","","false"
 "3.163.195.55","*.capital-hk.com","","","","","*.capital-hk.com|capital-hk.com","","false"
 "3.163.195.51","www.audible.co.uk","","","","","www.audible.co.uk|apx-security-uk.audible.co.uk|origin-www.audible.co.uk|audible.co.uk","","false"

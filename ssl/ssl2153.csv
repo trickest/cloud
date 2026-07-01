@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "98.87.113.233","g1ga.dpip.us-east-1.promenad.alameda.aws.dev","","","","","g1ga.dpip.us-east-1.promenad.alameda.aws.dev","","false"
 "98.87.113.231","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"
 "98.87.113.237","public1alb1.aws-inf-standard-stage.navex-stage.com","","","","","public1alb1.aws-inf-standard-stage.navex-stage.com","","false"

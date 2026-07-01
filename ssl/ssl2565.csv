@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "177.71.139.161","*.btgpactual.com","","","","","*.btgpactual.com|btgpactual.com","","false"
 "177.71.139.123","*.nubank.com.br","","","","","*.nubank.com.br|nubank.com.br","","false"
 "177.71.138.202","*.ceabs.com.br","","","","","*.ceabs.com.br|*.ceabs.net","","false"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "78.14.10.42","ca75.redriver.mx-central-1.prod.basin.security.aws.dev","","","","","ca75.redriver.mx-central-1.prod.basin.security.aws.dev","","false"
 "78.14.10.46","*.execute-api.mx-central-1.amazonaws.com","","","","","*.execute-api.mx-central-1.amazonaws.com","","false"
 "78.14.10.49","*.coopdesarrollo.com.mx","","","","","*.coopdesarrollo.com.mx","","false"

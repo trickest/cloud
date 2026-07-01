@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.150.96.227","*.icaeajp.or.jp","","","","","*.icaeajp.or.jp","","false"
 "54.150.96.243","*.mqdea.com","","","","","*.mqdea.com|*.wfupx.com","","false"
 "54.150.96.244","call.s.theaawai.ai","","","","","call.s.theaawai.ai","","false"

@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.132.230.23","tbalfe.3cx.uk","","","","","tbalfe.3cx.uk","","false"
 "18.132.230.22","kube-apiserver","","","","","895a81add1cddad2dd3c71bde6d513c8.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-170-119.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.65.50.27|172.16.170.119","false"
 "18.132.230.28","*.prima.apteancloud.com","","","","","*.prima.apteancloud.com|prima.apteancloud.com","","false"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.176.182.93","isolutionsai.com","","","","","isolutionsai.com|www.isolutionsai.com","","false"
 "54.176.182.103","kube-apiserver","","","","","cff04ecc684e7f88b91b09995b543e22.sk1.us-west-1.eks.amazonaws.com|ip-10-0-37-47.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.29.19|10.0.37.47","false"
 "54.176.182.116","kube-apiserver","","","","","9e0922ce8d5d9645a0a68831c685e5c2.yl4.us-west-1.eks.amazonaws.com|ip-10-0-127-46.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.56.167|10.0.127.46","false"

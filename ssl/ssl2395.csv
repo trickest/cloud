@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.195.98.241","daspostkolonialemuseum.mimosa.digital","","","","","daspostkolonialemuseum.mimosa.digital","","false"
 "18.195.98.224","*.mq.eu-central-1.amazonaws.com","","","","","*.mq.eu-central-1.amazonaws.com","","false"
 "18.195.98.242","eu.zuora.com","","","","","eu.zuora.com|aqua.eu.zuora.com|zconnect.eu.zuora.com|rest.eu.zuora.com|soap.eu.zuora.com|dataloader.eu.zuora.com|static.eu.zuora.com","","false"

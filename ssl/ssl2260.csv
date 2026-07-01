@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.170.28.179","example.com","","","","","example.com|www.example.com","127.0.0.1","true"
 "16.170.28.135","www.elbnefario.com","","","","","www.elbnefario.com","","true"
 "16.170.28.56"," ","","","","","","","true"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.185.91.72","*.clarivate.com","","","","","*.clarivate.com","","false"
 "54.185.91.74","starlinke.tech","","","","","starlinke.tech|*.starlinke.tech","","false"
 "54.185.91.90","fleetcode.com","","","","","fleetcode.com|*.fleetcode.com","","false"

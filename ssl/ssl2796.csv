@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.33.83.80","*.multisandbox.api.fluentretail.com","","","","","*.multisandbox.api.fluentretail.com|multisandbox.connect.fluentretail.com|*.multisandbox.console.fluentretail.com|*.multisandbox.connect.fluentretail.com|multisandbox.servicepoint.fluentretail.com|multisandbox.orchestration.fluentretail.com|*.multisandbox.servicepoint.fluentretail.com|multisandbox.api.fluentretail.com|*.multisandbox.orchestration.fluentretail.com|multisandbox.console.fluentretail.com","","false"
 "13.33.83.134","*.jjshouse.com","","","","","*.jjshouse.com","","false"
 "13.33.83.225","opencds-fb.fujifilm.com","FUJIFILM Business Innovation Corp.","JP","Minato-ku","Tokyo","opencds-fb.fujifilm.com","","false"

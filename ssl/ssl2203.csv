@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.219.80.108","regressiontestingapp103.stratahealth.org","Unspecified","US","","","regressiontestingapp103.stratahealth.org","","false"
 "34.219.80.128","*.adfdata.net","","","","","*.adfdata.net|adfdata.net","","false"
 "34.219.80.147","www.mysexpro.org","","","","","www.mysexpro.org|mysexpro.org","","false"

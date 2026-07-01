@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.27.113.237","ica-api.ask4ci.com","","","","","ica-api.ask4ci.com","","false"
 "100.27.113.239","*.z71bd18ac.qovery.cloud","","","","","*.new-gateway-api.z71bd18ac.qovery.cloud|*.z71bd18ac.qovery.cloud","","false"
 "100.27.113.250","roofcontroller.com","","","","","roofcontroller.com|*.roofcontroller.com","","false"

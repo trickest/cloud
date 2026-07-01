@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.128.60.126","mainnet.aventus.io","","","","","mainnet.aventus.io|*.mainnet.aventus.io","","false"
 "108.128.60.135","wolftech.tools.bbc.co.uk","BRITISH BROADCASTING CORPORATION","GB","London","London","wolftech.tools.bbc.co.uk","","false"
 "108.128.60.134","ao-world.getcollate.io","","","","","ao-world.getcollate.io","","false"

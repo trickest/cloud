@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.165.231.42","*.test.iot.irobotapi.com","","","","","*.test.iot.irobotapi.com","","false"
 "3.165.231.74","disneyparks.disney.go.com","Disney Enterprises, Inc","US","Seattle","Washington","disneyparks.disney.go.com","","false"
 "3.165.231.73","vlive-simulcast.sans.org","","","","","vlive-simulcast.sans.org","","false"

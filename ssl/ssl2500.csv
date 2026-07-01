@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "78.13.250.251","kube-apiserver","","","","","bbe6a4474a4cdb3141608f8ec509b0b0.yl4.mx-central-1.eks.amazonaws.com|ip-172-16-124-200.mx-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.157.84|172.16.124.200","false"
 "78.13.250.250","api.metakof.com","","","","","api.metakof.com","","false"
 "78.13.251.6","mx-central-1.application.toledo.dbs.aws.dev","","","","","mx-central-1.application.toledo.dbs.aws.dev","","false"

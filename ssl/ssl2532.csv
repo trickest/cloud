@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.132.35.48","*.breiie4sfbaag.eu-west-1.cs.amazonlightsail.com","","","","","*.breiie4sfbaag.eu-west-1.cs.amazonlightsail.com","","false"
 "108.132.35.41","*.team-fuse.com","","","","","*.team-fuse.com","","false"
 "108.132.35.45","*.xsellco.com","","","","","*.replymanager.com|*.xsellco.com","","false"

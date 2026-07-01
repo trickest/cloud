@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.244.158.31","*.dataeng.cbssports.cloud","","","","","*.dataeng.cbssports.cloud","","false"
 "18.244.158.10","*.myharmony.com","","","","","*.myharmony.com|*.dhg.myharmony.com","","false"
 "18.244.158.59","*.adobecqms.net","Adobe Systems Incorporated","US","San Jose","California","*.adobecqms.net|adobecqms.net","","false"

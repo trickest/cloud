@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.85.155.168","*.us-east-1.cloudsearch.amazonaws.com","","","","","*.us-east-1.cloudsearch.amazonaws.com","","false"
 "54.85.155.179","chorus.huyikai.people.aws.dev","","","","","chorus.huyikai.people.aws.dev","","false"
 "54.85.155.184","kube-apiserver","","","","","c321a50e13f18536db841ac13439a43c.gr7.us-east-1.eks.amazonaws.com|ip-172-16-63-22.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.3.10|172.16.63.22","false"

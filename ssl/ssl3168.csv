@@ -79,6 +79,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.212.43.149","gvam1063.siteground.biz","","","","","gvam1063.siteground.biz","","false"
 "35.212.43.152","","Kryptos Logic Sinkhole","","","","","35.212.43.152","true"
 "35.212.43.156","c116807.sgvps.net","","","","","c116807.sgvps.net","","false"

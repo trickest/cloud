@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "98.86.128.228","kube-apiserver","","","","","5ea2deef0692d1887d05da4554cfb2be.gr7.us-east-1.eks.amazonaws.com|ip-172-16-191-234.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.200.112.1|10.200.106.203|172.16.191.234","false"
 "98.86.128.229","showbie.com","","","","","showbie.com|*.showbie.com","","false"
 "98.86.128.236","*.us-east-1.osis.amazonaws.com","","","","","*.us-east-1.osis.amazonaws.com|*.osis.us-east-1.vpce.amazonaws.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.21.124.251","*.vivint.com","Vivint, Inc","US","Provo","Utah","*.vivint.com|vivint.com","","false"
 "52.21.125.0","*.conexia.com","CONEXIA S.A.","AR","","Ciudad Autónoma de Buenos Aires","*.conexia.com|conexia.com","","false"
 "52.21.124.255","hillcountryoutdoor.com","","","","","hillcountryoutdoor.com|*.hillcountryoutdoor.com","","false"

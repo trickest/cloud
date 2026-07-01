@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.25.234.71","kube-apiserver","","","","","0704dae0214fb37d50c9187323ff9940.gr7.us-east-1.eks.amazonaws.com|ip-10-0-44-23.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.86.155|10.0.44.23","false"
 "100.25.234.84","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "100.25.234.86","*.examroom.ai","","","","","*.examroom.ai|*.www.examroom.ai","","false"

@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.128.198.206","ecsspuat.absa.co.za","Absa Group Limited","ZA","Johannesburg","Gauteng","ecsspuat.absa.co.za","","false"
 "108.128.198.209","*.eu-west-1.es.amazonaws.com","","","","","*.eu-west-1.es.amazonaws.com","","false"
 "108.128.198.220","*.bookaway.dev","","","","","*.bookaway.dev","","false"

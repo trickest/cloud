@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.79.117.232","*.ap-southeast-2.es.amazonaws.com","","","","","*.ap-southeast-2.es.amazonaws.com","","false"
 "54.79.117.230","assetolts.resmanmobile.co.nz","","","","","assetolts.resmanmobile.co.nz","","false"
 "54.79.117.235","vv.pia.com.au","","","","","vv.pia.com.au","","false"

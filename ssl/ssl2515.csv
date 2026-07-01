@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.249.43.200","kube-apiserver","","","","","cf99e1137111da7d6987bb4a349a6770.yl4.eu-west-1.eks.amazonaws.com|ip-172-16-110-186.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.239.167.20|172.16.110.186","false"
 "34.249.43.211","*.go2cloud.org","","","","","*.go2cloud.org","","false"
 "34.249.43.220","*.rhone.un-icc.cloud","","","","","*.rhone.un-icc.cloud","","false"

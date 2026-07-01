@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.38.182.123","cisco-qside-fcu--t8i3yo.app.us.cdo.cisco.com","Cisco Systems Inc.","US","San Jose","California","cisco-qside-fcu--t8i3yo.app.us.cdo.cisco.com","","false"
 "52.38.182.122","*.execute-api.us-west-2.amazonaws.com","","","","","*.execute-api.us-west-2.amazonaws.com","","false"
 "52.38.182.129","api-qa.letsgo.casago.com","","","","","api-qa.letsgo.casago.com|qa.casa.casago.com","","false"
