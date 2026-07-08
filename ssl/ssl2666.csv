@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.161.179.233","aro.stg.goaptive.com","","","","","aro.stg.goaptive.com","","false"
 "3.161.179.215","*.goshippo.com","","","","","*.goshippo.com|goshippo.com","","false"
 "3.161.179.206","*.stg.pbxx.io","","","","","*.stg.pbxx.io|*.qa.pbxx.io|*.uat.pbxx.io|*.staging.pbxx.io|*.test.pbxx.io","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.245.156.124","*.dev.coro.net","","","","","*.dev.coro.net","","false"
 "18.245.156.112","*.rde.rhinternal.net","","","","","*.rde.rhinternal.net","","false"
 "18.245.156.111","pki.apps.airliquide.com","AIR LIQUIDE SA POUR ETUDE EXPLOIT DES PROCEDES GEORGES CLAUDE","FR","PARIS","Île-de-France","pki.apps.airliquide.com","","false"

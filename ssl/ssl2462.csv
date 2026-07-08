@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.101.209.231","pbx.wildix.com","WILDIX SRL","IT","","","","","true"
 "18.101.210.14","kube-apiserver","","","","","3c68289caddebb87a14046cbc0c97151.yl4.eu-south-2.eks.amazonaws.com|ip-172-16-123-145.eu-south-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.147.29|172.16.123.145","false"
 "18.101.210.0","*.pcdiga.com","","","","","*.pcdiga.com","","false"

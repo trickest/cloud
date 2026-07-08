@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.22.205.24","integration.xtiva.com","","","","","integration.xtiva.com|*.admin.integration.xtiva.com|*.api.integration.xtiva.com|admin.integration.xtiva.com|*.integration.xtiva.com|api.integration.xtiva.com","","false"
 "52.22.205.26","text-service-ecs.sandbox.parentsquare.com","","","","","text-service-ecs.sandbox.parentsquare.com|text-service.sandbox.parentsquare.com","","false"
 "52.22.205.38","*.strategywholesaletrading.com","","","","","*.strategywholesaletrading.com|strategywholesaletrading.com","","false"

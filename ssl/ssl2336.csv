@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.214.38.64","api.needl-it.ca","","","","","api.needl-it.ca","","false"
 "54.214.38.65","*.consolidated.commonapp.net","","","","","*.consolidated.commonapp.net","","false"
 "54.214.38.60","*.us-west-2.osis.amazonaws.com","","","","","*.us-west-2.osis.amazonaws.com|*.osis.us-west-2.vpce.amazonaws.com","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.161.238.184","supplychain.amazon.com","","","","","supplychain.amazon.com|supplychain.amazon.ca|supplychain.amazon.es|supplychain.amazon.de|supplychain.amazon.it|supplychain.amazon.fr|supplychain.amazon.com.au|supplychain-us.amazon.com|supplychain.amazon.co.jp|supplychain.amazon.co.uk|supplychain.amazon.com.mx","","false"
 "3.161.239.50","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "3.161.239.29","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"

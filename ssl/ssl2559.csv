@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.173.235.241","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
 "3.173.235.248","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
 "3.173.235.232","metis.alexa.com","","","","","metis.alexa.com|metis-preview.aka.amazon.com|alexa-metis.amazon.com|metis-preview.amazon.com|www.alexa.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.210.164.12","bearbeds.com","","","","","bearbeds.com|www.bearbeds.com","","false"
 "34.210.164.33","kube-apiserver","","","","","8e0743bde4c94a756e5f14122c22b017.gr7.us-west-2.eks.amazonaws.com|ip-172-16-40-115.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.5.102.130|172.16.40.115","false"
 "34.210.164.43","*.uat1.auditmanager.healthicity.com","","","","","*.uat1.auditmanager.healthicity.com|uat1.auditmanager.healthicity.com","","false"

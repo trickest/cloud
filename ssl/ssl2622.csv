@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.86.222.100","*.cafewell.com","","","","","*.cafewell.com|*.metrics.cafewell.com|*.srv.athena.cafewell.com|*.srv.hermes.cafewell.com|*.deis-prod.cafewell.com","","false"
 "99.86.222.168","api.fe.amazonalexa.com","","","","","api.fe.amazonalexa.com|origin-api.fe.amazonalexa.com","","false"
 "99.86.222.86","*.perf.ws.sonos.com","Sonos, Inc.","US","Santa Barbara","California","*.perf.ws.sonos.com|perf.ws.sonos.com","","false"

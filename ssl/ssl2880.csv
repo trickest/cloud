@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.172.142.236","cert.qa.cnxloyalty.com","","","","","cert.qa.cnxloyalty.com","","false"
 "18.172.143.108","m.imdb.com","","","","","m.imdb.com|opf-m.imdb.com|m.imdb.com.cdn.amazon.com|origin-m.imdb.com","","false"
 "18.172.143.4","slow.amazon.com","","","","","slow.amazon.com","","false"

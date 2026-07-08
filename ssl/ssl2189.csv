@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.168.241.35","kube-apiserver","","","","","4f4dda95ae820620794d364072d1cde0.yl4.eu-west-2.eks.amazonaws.com|ip-172-16-37-4.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.66.34.98|172.16.37.4","false"
 "18.168.241.41","www.pipcopilot.com","","","","","api.pipcopilot.com|www.pipcopilot.com","","false"
 "18.168.241.47","kube-apiserver","","","","","1368355096fc2a4491afa8330d51e957.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-176-92.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.248.155.246|172.16.176.92","false"

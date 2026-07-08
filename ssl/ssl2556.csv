@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.177.230.102","az3.sfo9.sfo.dppushcmap.prod.aws.doctor.route-53.aws.dev","","","","","az3.sfo9.sfo.dppushcmap.prod.aws.doctor.route-53.aws.dev","","false"
 "54.177.230.150","kube-apiserver","","","","","57eb601b3545c6a5b945f2d6cd00f9c6.gr7.us-west-1.eks.amazonaws.com|ip-10-0-34-191.us-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.22.1|10.0.34.191","false"
 "54.177.230.161","fleischmann.cl","","","","","fleischmann.cl|www.fleischmann.cl","","false"

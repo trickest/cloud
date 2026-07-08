@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.221.162.124","staging.app.readysignal.com","","","","","staging.app.readysignal.com","","false"
 "18.221.162.126","bajaj-dev.qualcomm.com","","","","","bajaj-dev.qualcomm.com|*.bajaj-dev.qualcomm.com","","false"
 "18.221.162.129","api.stage.avenbeck.com","","","","","api.stage.avenbeck.com","","false"

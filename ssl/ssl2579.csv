@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.230.82.192","*.csarab.people.aws.dev","","","","","*.csarab.people.aws.dev","","false"
 "54.230.83.98","*.stg.dr.sompo-japan.co.jp","","","","","*.stg.dr.sompo-japan.co.jp","","false"
 "54.230.82.40","daws-kr.go.tesla.services","Tesla Motors, Inc.","US","Palo Alto","California","daws-kr.go.tesla.services","","false"

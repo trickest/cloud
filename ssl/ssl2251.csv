@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.221.160.52","aoss.us-east-2.amazonaws.com","","","","","aoss.us-east-2.amazonaws.com|*.aoss.us-east-2.amazonaws.com","","false"
 "18.221.160.63","*.impulsepoint.app","","","","","*.impulsepoint.app","","false"
 "18.221.160.72","tanzenmed.com","","","","","tanzenmed.com|www.tanzenmed.com","","false"

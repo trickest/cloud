@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.24.182.66","*.restoreskills.com","","","","","*.restoreskills.com|*.dev-insights.restoreskills.com|*.production-insights.restoreskills.com|*.stage-insights.restoreskills.com|*.stage.restoreskills.com|*.production.restoreskills.com","","false"
 "100.24.182.76","*.athlinks.com","","","","","*.athlinks.com|admin.athlinks.com|start.athlinks.com|athlinks.com|alaska.athlinks.com|api.athlinks.com","","false"
 "100.24.182.77","*.qat2.weightwatchers.com","","","","","*.qat2.weightwatchers.com|*.qat2.weightwatchers.be|*.qat2.fr.weightwatchers.ca|*.qat2.weightwatchers.de|*.qat2.weightwatchers.ca|*.qat2.weightwatchers.nl|*.qat2.fr.weightwatchers.ch|*.qat2.weightwatchers.fr|*.qat2.fr.weightwatchers.be|*.qat2.weightwatchers.ch|*.qat2.entulinea.es|*.qat2.vigilantesdopeso.com.br|*.qat2.viktvaktarna.se|*.qat2.weightwatchers.co.uk|*.qat2.weightwatchers.com.au","","false"

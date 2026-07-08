@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.218.68.158","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-02.us-west-2.es.amazonaws.com","","false"
 "34.218.68.175","*.j7zs99nh9wjhw.us-west-2.cs.amazonlightsail.com","","","","","*.j7zs99nh9wjhw.us-west-2.cs.amazonlightsail.com","","false"
 "34.218.68.189","*.duclo.net","Hanwha Vision America","US","","New Jersey","*.duclo.net|duclo.net","","false"

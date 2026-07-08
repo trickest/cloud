@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.35.77.69","api2.asu-uto-bi-caliper-endpoint-dev.com","","","","","api2.asu-uto-bi-caliper-endpoint-dev.com","","false"
 "13.35.77.22","*.dataeng.cbssports.cloud","","","","","*.dataeng.cbssports.cloud","","false"
 "13.35.77.61","*.harithg.myinstance.com","","","","","*.harithg.myinstance.com","","false"

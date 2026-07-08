@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.128.229.192","kube-apiserver","","","","","11cfd999a90749550dcc8e40dfa4d997.yl4.us-east-2.eks.amazonaws.com|ip-172-16-44-195.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.101.0.151|172.16.44.195","false"
 "3.128.229.196","*.vocitec.com","","","","","*.vocitec.com|vocitec.com","","false"
 "3.128.229.199","*.us-east-2.es.amazonaws.com","","","","","*.us-east-2.es.amazonaws.com","","false"

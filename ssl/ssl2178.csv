@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.84.242.34","dbapi.strafe.com","","","","","dbapi.strafe.com","","false"
 "54.84.242.36","social-copilot.app.stg.mysite.so","","","","","social-copilot.app.stg.mysite.so","","false"
 "54.84.242.42","*.aerobotics.com","","","","","*.aerobotics.com|aerobotics.com","","false"

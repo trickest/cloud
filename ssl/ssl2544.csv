@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.11.42.228","kube-apiserver","","","","","e4ef6f92d4fab362617fc57f2ebbfd06.sk1.eks-cluster.us-west-2.api.aws|ip-172-16-32-38.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fd02:7899:6e76::1|2600:1f14:23a5:601:ea85:ee9a:8ec8:3c23|172.16.32.38","false"
 "52.11.42.235","portal-auth-mn4.incredibles-sandbox.boomi.com","","","","","portal-auth-mn4.incredibles-sandbox.boomi.com","","false"
 "52.11.42.229","*.modolabs.net","Modo Labs, Inc","US","Boston","Massachusetts","*.modolabs.net","","false"

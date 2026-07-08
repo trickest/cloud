@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "98.87.178.129","americas.land","","","","","americas.land|www.americas.land","","false"
 "98.87.178.135","*.mercadooh.com","","","","","*.mercadooh.com","","false"
 "98.87.178.139","kube-apiserver","","","","","b7a5b47c9f687b7738176b23cb97e3b9.gr7.us-east-1.eks.amazonaws.com|ip-172-16-112-218.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.6.102.220|172.16.112.218","false"

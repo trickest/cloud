@@ -76,6 +76,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.45.55.201","34.172.33.206","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.172.33.206|34.118.224.1|10.128.0.2|35.224.115.151|35.225.98.109|34.45.55.201","false"
 "34.45.55.206","34.45.55.206","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.45.55.206|34.118.224.1|10.128.0.53|34.123.36.14|104.154.19.173|34.66.26.6","false"
 "34.45.55.228","reguler4.gempaystore.my.id","","","","","reguler4.gempaystore.my.id","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "32.194.73.19","*.thoughtspot.cloud","ThoughtSpot, Inc.","US","Mountain View","California","*.thoughtspot.cloud|thoughtspot.cloud","","false"
 "32.194.73.18","zaq23.com","","","","","zaq23.com|*.zaq23.com","","false"
 "32.194.73.21","*.dev.beta-us-east-1.osis.amazonaws.com","","","","","*.dev.beta-us-east-1.osis.amazonaws.com","","false"

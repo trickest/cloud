@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.163.166.187","*.api.bbc.co.uk","BRITISH BROADCASTING CORPORATION","GB","London","London","*.api.bbc.co.uk|*.api.bbc.com|*.api.bbci.co.uk|*.bbci.co.uk|*.files.bbci.co.uk|api.bbc.co.uk","","false"
 "3.163.166.79","update.synology.com","","","","","update.synology.com|www.update.synology.com","","false"
 "3.163.166.213","*.now3.amagi.tv","","","","","*.now3.amagi.tv|*.playout.now3.amagi.tv","","false"

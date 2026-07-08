@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.251.226.220","*.miragecloud1.com","","","","","*.miragecloud1.com|www.miragecloud1.com|miragecloud1.com","","false"
 "34.251.226.233","*.logo-paas.com","","","","","*.logo-paas.com|logo-paas.com","","false"
 "34.251.226.239","*.core.lynx.md","","","","","*.core.lynx.md","","false"

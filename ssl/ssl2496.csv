@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.255.234.58","peaks.com","","","","","peaks.com|*.peaks.com","","false"
 "34.255.234.47","kube-apiserver","","","","","72e931dbf0dd938d5ccaab965c386b9c.sk1.eu-west-1.eks.amazonaws.com|ip-172-16-37-209.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.192.50.240|172.16.37.209","false"
 "34.255.234.54","*.hasteepayweb.com","","","","","*.hasteepayweb.com|hasteepayweb.com","","false"

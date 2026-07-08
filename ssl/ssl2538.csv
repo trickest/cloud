@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.246.104.244","api.influxdata.co","","","","","api.influxdata.co|*.api.influxdata.co","","false"
 "54.246.104.242","img.worldcoo.com","","","","","img.worldcoo.com","","false"
 "54.246.104.249","usehurrier.com","","","","","usehurrier.com|*.usehurrier.com","","false"

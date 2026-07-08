@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.185.202.230","api.pecorinofoods.com","","","","","","","true"
 "54.185.202.242","academy.snowballcommunity.com","","","","","academy.snowballcommunity.com","","false"
 "54.185.202.245","confluence.studio.disney.com","","","","","confluence.studio.disney.com|docs.marvelstudios.com|*.ss-platform-ext.studio.disney.com|confluence.platform.wds.io","","false"

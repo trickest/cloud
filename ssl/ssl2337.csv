@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.214.144.110","kube-apiserver","","","","","61162b40c8de9d76274e4028f9cfad3e.sk1.us-west-2.eks.amazonaws.com|ip-10-0-181-199.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.4.163|10.0.181.199","false"
 "54.214.144.129","*.f74cf8c7-uswest2-aws.corp.mcg.com","","","","","*.f74cf8c7-uswest2-aws.corp.mcg.com","","false"
 "54.214.144.138","*.download-us-west-2.prod.phoenix.devices.amazon.dev","","","","","*.download-us-west-2.prod.phoenix.devices.amazon.dev|download-us-west-2.prod.phoenix.devices.amazon.dev","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.165.56.140","aitutor.tk","","","","","aitutor.tk","","false"
 "15.165.56.141","*.ap-northeast-2.es.amazonaws.com","","","","","*.ap-northeast-2.es.amazonaws.com","","false"
 "15.165.56.149","kube-apiserver","","","","","3f2621ee7c2488cacc7fca7e9c990ce3.gr7.ap-northeast-2.eks.amazonaws.com|ip-10-0-33-164.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.20.30.211|10.0.33.164","false"

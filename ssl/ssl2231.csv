@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "98.82.220.139","zeta3-andromeda.guidewire.net","","","","","*.api.zeta3-andromeda.guidewire.net|*.internal.zeta3-andromeda.guidewire.net|*.salexnex.zeta3-andromeda.guidewire.net|*.zeta3-andromeda.guidewire.net|zeta3-andromeda.guidewire.net","","false"
 "98.82.220.140","*.stage.onlyleads.com","","","","","*.stage.onlyleads.com","","false"
 "98.82.220.145","kube-apiserver","","","","","47e701aade430f32d8ea7f9c98739e65.gr7.us-east-1.eks.amazonaws.com|ip-10-0-34-146.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|11.0.174.32|10.0.34.146","false"

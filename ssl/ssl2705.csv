@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.28.66.8","articulate.zone","","","","","articulate.zone|*.articulate.zone","","false"
 "100.28.66.10","*.leansourcerfp.com","","","","","*.leansourcerfp.com|leansourcerfp.com","","false"
 "100.28.66.22","*.management.apim.staging.integrator.io","","","","","*.management.apim.staging.integrator.io|*.gateway.apim.staging.integrator.io|*.staging.integrator.io|*.portal.apim.staging.integrator.io|*.console.apim.staging.integrator.io","","false"

@@ -76,6 +76,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.188.95.190","34.173.111.17","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.173.111.17|34.118.224.1|35.188.95.190|35.225.165.36|34.42.80.197|172.16.230.162","false"
 "35.188.95.191","sec.digiyama.com","","","","","sec.digiyama.com","","false"
 "35.188.95.165","*.wpengine.com","","","","","*.wpengine.com|wpengine.com","","false"

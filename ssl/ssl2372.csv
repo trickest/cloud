@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.145.21.187","*.or-adex-prd-eks-1.ggops.com","","","","","*.or-adex-prd-eks-1.ggops.com|*.gumgum.com","","false"
 "16.145.21.191","*.bluesystems.ai","","","","","*.bluesystems.ai|bluesystems.ai","","false"
 "16.145.21.197","api-aabdolla.myasuplat-dpl.asu.edu","","","","","api-aabdolla.myasuplat-dpl.asu.edu","","false"

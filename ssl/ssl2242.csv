@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.38.105.229","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"
 "52.38.105.245","kube-apiserver","","","","","bdbce053b1790adca82baf98ed3a3f41.gr7.us-west-2.eks.amazonaws.com|ip-172-16-105-105.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.109.246|172.16.105.105","false"
 "52.38.105.249","*.freighttrackertms.com","","","","","*.freighttrackertms.com","","false"

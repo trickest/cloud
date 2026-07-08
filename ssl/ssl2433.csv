@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.41.6.65","file.dev.entries.cambridgedev.org","","","","","file.dev.entries.cambridgedev.org","","false"
 "13.41.6.79","downtownstores.co.uk","","","","","downtownstores.co.uk|www.downtownstores.co.uk","","false"
 "13.41.6.71","*.sparkhome.co.uk","","","","","*.sparkhome.co.uk|sparkhome.co.uk","","false"

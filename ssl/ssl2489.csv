@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.253.61.173","*.rimac-automobili.com","","","","","*.rimac-automobili.com|rimac-automobili.com","","false"
 "34.253.61.172","*.fi.cimpress.io","","","","","*.fi.cimpress.io|*.fulfillment.cimpress.io|fulfiller.cimpress.io|*.fulfiller.cimpress.io|*.devday.cimpress.io|fi.cimpress.io|devday.cimpress.io|fulfillment.cimpress.io","","false"
 "34.253.61.162","pro.preqin.com","","","","","pro.preqin.com|*.pro.preqin.com","","false"

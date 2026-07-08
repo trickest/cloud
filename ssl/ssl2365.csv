@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.210.154.19","*.edisontownship.splunkcloud.com","Splunk Inc.","US","San Francisco","California","*.edisontownship.splunkcloud.com|edisontownship.splunkcloud.com|*.pvt.edisontownship.splunkcloud.com|http-inputs-edisontownship.splunkcloud.com|*.http-inputs-edisontownship.splunkcloud.com|akamai-inputs-edisontownship.splunkcloud.com|*.akamai-inputs-edisontownship.splunkcloud.com|http-inputs-ack-edisontownship.splunkcloud.com|*.http-inputs-ack-edisontownship.splunkcloud.com|http-inputs-firehose-edisontownship.splunkcloud.com|*.http-inputs-firehose-edisontownship.splunkcloud.com|pvt.edisontownship.splunkcloud.com","","false"
 "3.210.154.24","willscotsolutionscenter.com","","","","","willscotsolutionscenter.com|*.willscotsolutionscenter.com","","false"
 "3.210.154.26","battaliontechnology.com","","","","","battaliontechnology.com|www.battaliontechnology.com","","false"

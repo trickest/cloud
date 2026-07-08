@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.39.84.71","chatbotalb-1639540746.us-west-2.elb.amazonaws.com","Electronic Arts, Inc.","US","Redwood City","California","ec2-54-149-247-33.us-west-2.compute.amazonaws.com|chatbotalb-1639540746.us-west-2.elb.amazonaws.com","","false"
 "52.39.84.85","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"
 "52.39.84.89","*.devops.amgen.com","Amgen Inc.","US","","California","*.devops.amgen.com|devops.amgen.com","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.48.147.248","*.mwaa.splunkcloud.com","Splunk LLC","US","San Francisco","California","*.mwaa.splunkcloud.com|mwaa.splunkcloud.com|*.pvt.mwaa.splunkcloud.com|http-inputs-mwaa.splunkcloud.com|*.http-inputs-mwaa.splunkcloud.com|akamai-inputs-mwaa.splunkcloud.com|*.akamai-inputs-mwaa.splunkcloud.com|http-inputs-ack-mwaa.splunkcloud.com|*.http-inputs-ack-mwaa.splunkcloud.com|http-inputs-firehose-mwaa.splunkcloud.com|*.http-inputs-firehose-mwaa.splunkcloud.com|es-mwaa.splunkcloud.com|*.es-mwaa.splunkcloud.com|pvt.mwaa.splunkcloud.com","","false"
 "100.48.147.251","testnav.com","","","","","testnav.com|*.testnav.com","","false"
 "100.48.148.2","*.leidos-leaf.com","","","","","*.leidos-leaf.com","","false"

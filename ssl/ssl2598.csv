@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.160.169.208","*.ft.domainrelay.if.s3.cilite.docomo.ne.jp","","","","","*.ft.domainrelay.if.s3.cilite.docomo.ne.jp|ft.domainrelay.if.s3.cilite.docomo.ne.jp","","false"
 "18.160.169.212","data-na.amazon.com","","","","","data-na.amazon.com|data.amazon.com.mx|data.amazon.com.co|data.amazon.cl|data.amazon.com.br|data.amazon.ca|data.amazon.com|origin-data-na.amazon.com","","false"
 "18.160.169.213","*.ozstage.com","Adobe Inc.","US","San Jose","California","*.ozstage.com","","false"

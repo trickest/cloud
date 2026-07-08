@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.164.0.175","kube-apiserver","","","","","43eaed9751a5e6a0a3089a0d3b435373.gr7.ap-northeast-2.eks.amazonaws.com|ip-10-0-46-81.ap-northeast-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.3.248|10.0.46.81","false"
 "15.164.1.174","global.edu.coway.com","","","","","global.edu.coway.com|*.global.edu.coway.com","","false"
 "15.164.1.78","pcc-on24.com","","","","","pcc-on24.com|www.pcc-on24.com","","false"

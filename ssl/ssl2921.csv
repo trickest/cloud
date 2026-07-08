@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.139.227.42","*.s3.buscalibre.com","","","","","*.s3.buscalibre.com|*.cdn0.buscalibre.com|*.cdn2.buscalibre.com|*.cdn1.buscalibre.com|*.cdn3.buscalibre.com","","false"
 "108.139.226.49","*.galler.io","","","","","*.galler.io|galler.io","","false"
 "108.139.226.45","www.advancedanalytica.co.uk","","","","","www.advancedanalytica.co.uk|advancedanalytica.co.uk","","false"

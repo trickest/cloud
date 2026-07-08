@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.67.97.54","kube-apiserver","","","","","470b15138ca55d21b5b7e0ff2545062b.gr7.sa-east-1.eks.amazonaws.com|ip-10-0-50-238.sa-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.22.133.240|10.0.50.238","false"
 "52.67.97.58","campilog.com.br","","","","","campilog.com.br|imap.campilog.com.br|mail.campilog.com.br|pop.campilog.com.br|smtp.campilog.com.br|webmail.campilog.com.br|www.campilog.com.br","","false"
 "52.67.97.65","sigitec-aws-hmg.petrobras.com.br","","","","","sigitec-aws-hmg.petrobras.com.br","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.1.76.231","console.prod.amea-ir-lab-2.a1q7.net","","","","","console.prod.amea-ir-lab-2.a1q7.net|workorder.prod.amea-ir-lab-2.a1q7.net|workorder-gen.prod.amea-ir-lab-2.a1q7.net|ddi.prod.amea-ir-lab-2.a1q7.net","","false"
 "3.1.76.237","kube-apiserver","","","","","0f313eb12b8ec116a49e5fb572e5ee31.gr7.ap-southeast-1.eks.amazonaws.com|ip-10-0-162-126.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.100.44|10.0.162.126","false"
 "3.1.76.244","stamd.threechembio.com","","","","","stamd.threechembio.com","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.86.197.31","smx-prod.nikecloud.com","","","","","smx-prod.nikecloud.com","","false"
 "99.86.197.88","pbcentral.amazon.com","","","","","pbcentral.amazon.com|privatebrandscentral.amazon.com|pbc.amazon.com","","false"
 "99.86.197.138","storybook.prd.goaptive.com","","","","","storybook.prd.goaptive.com","","false"

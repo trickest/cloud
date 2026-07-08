@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "32.195.222.39","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-02.us-east-1.es.amazonaws.com","","false"
 "32.195.222.40","*.playrix.com","","","","","*.playrix.com|playrix.com","","false"
 "32.195.222.41","*.lightspeedvt.com","","","","","*.lightspeedvt.com","","false"

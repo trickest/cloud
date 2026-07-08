@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "51.48.39.140","pbx.wildix.com","WILDIX SRL","IT","","","","","true"
 "51.48.39.210","mkt.profuturo.education","","","","","mkt.profuturo.education|n8n.profuturo.education","","false"
 "51.48.39.231","*.test.mairu.app","","","","","*.test.mairu.app","","false"

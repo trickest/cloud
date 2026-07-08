@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.129.163.48","*.georgiatestprep.com","","","","","*.georgiatestprep.com","","false"
 "3.129.163.49","kube-apiserver","","","","","7dec6f4375baecbee85645d0e8ba6c00.gr7.us-east-2.eks.amazonaws.com|ip-10-0-51-34.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.15.120|10.0.51.34","false"
 "3.129.163.59","kube-apiserver","","","","","d72eefff682850eab939dfe3bacc2be6.gr7.us-east-2.eks.amazonaws.com|ip-10-0-115-51.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.236.95|10.0.115.51","false"

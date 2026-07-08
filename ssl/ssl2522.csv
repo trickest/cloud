@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.251.71.254","asiointipalvelu.otavamedia.fi","","","","","asiointipalvelu.otavamedia.fi|www.asiointipalvelu.otavamedia.fi","","false"
 "34.251.72.6","*.taxback.cc","","","","","*.taxback.cc","","false"
 "34.251.72.17","kube-apiserver","","","","","6de3965ddbd5c131c52d21c8e1fda765.sk1.eu-west-1.eks.amazonaws.com|ip-172-16-107-142.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.20.196.8|172.16.107.142","false"

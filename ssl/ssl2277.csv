@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.164.164.168","*.p48fksn3crevo.us-west-2.cs.amazonlightsail.com","","","","","*.p48fksn3crevo.us-west-2.cs.amazonlightsail.com","","false"
 "35.164.164.172","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"
 "35.164.164.176","kube-apiserver","","","","","2c668795c36190444bae62d5ec387310.gr7.us-west-2.eks.amazonaws.com|ip-172-16-186-241.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.240.34.163|172.16.186.241","false"

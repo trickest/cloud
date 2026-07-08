@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.136.138.225","kube-apiserver","","","","","91cfe11b7e0b3d81ea9dfb74a75223c3.gr7.ap-southeast-1.eks.amazonaws.com|ip-10-0-100-140.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.176.87|10.0.100.140","false"
 "18.136.138.235","dchandal-production.yinson-apollo.com","","","","","dchandal-production.yinson-apollo.com","","false"
 "18.136.138.237","*.fleetship.com","","","","","*.fleetship.com","","false"

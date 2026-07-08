@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.1.239.186","api.graphiq.site","","","","","api.graphiq.site|www.api.graphiq.site","","false"
 "3.1.239.187","*.codaportals.com","","","","","*.codaportals.com|codaportals.com","","false"
 "3.1.239.192","kube-apiserver","","","","","6925cdf4452d1abecd4f70f383f46ed2.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-177-198.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.21.33.207|172.16.177.198","false"

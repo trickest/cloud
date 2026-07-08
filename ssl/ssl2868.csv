@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.84.207.171","*.n-ship.jp","NEXCO System Solutions Company Limited","JP","Shinjuku-ku","Tokyo","*.n-ship.jp|n-ship.jp","","false"
 "52.84.207.111","simple-workflow-stage.licenses.adobe.com","Adobe Inc.","US","San Jose","California","simple-workflow-stage.licenses.adobe.com","","false"
 "52.84.208.36","sotappm.auone.jp","","","","","sotappm.auone.jp","","false"

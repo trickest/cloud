@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.59.150.14","us-east-2.gamma.agent-credential-provider.cognito.aws.dev","","","","","us-east-2.gamma.agent-credential-provider.cognito.aws.dev","","false"
 "16.59.150.21","totallyflawless.com","","","","","totallyflawless.com|*.totallyflawless.com","","false"
 "16.59.150.19","kube-apiserver","","","","","2f813f7439a0439074b99e54c63f45d5.gr7.us-east-2.eks.amazonaws.com|ip-172-16-58-40.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.66.42.76|172.16.58.40","false"

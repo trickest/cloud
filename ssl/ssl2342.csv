@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.220.250.201","*.arc-recovery-cluster.us-west-2.on.aws","","","","","*.arc-recovery-cluster.us-west-2.on.aws|*.route53-recovery-cluster.us-west-2.amazonaws.com|*.us-west-2.cluster.meridian.amazonaws.com","","false"
 "34.220.250.217","715harrisoneventspace.com","","","","","715harrisoneventspace.com|admin.715harrisoneventspace.com|www.715harrisoneventspace.com","","false"
 "34.220.250.219","","","","","","","34.220.250.219","false"

@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.203.146.7","secretweapon.net","","","","","secretweapon.net|www.secretweapon.net","","false"
 "54.203.146.23","*.bgpsvc.io","","","","","*.bgpsvc.io","","false"
 "54.203.146.29","*.us-west-2.gamma.idpconfigservice.cognito.aws.dev","","","","","*.us-west-2.gamma.idpconfigservice.cognito.aws.dev|us-west-2.gamma.idpconfigservice.cognito.aws.dev","","false"

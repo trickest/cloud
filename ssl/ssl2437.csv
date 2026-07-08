@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.42.164.180","srv.apigw.prod7.dtp.dynatrace.com","","","","","srv.apigw.prod7.dtp.dynatrace.com|*.prod7.apps.dynatrace.com|*.srv.apigw.prod7.dtp.dynatrace.com|*.apps.dynatrace.com","","false"
 "13.42.164.188","*.c5p39m834j576.eu-west-2.cs.amazonlightsail.com","","","","","*.c5p39m834j576.eu-west-2.cs.amazonlightsail.com","","false"
 "13.42.164.193","*.reportbuilder.maddevs.net","","","","","*.reportbuilder.maddevs.net","","false"

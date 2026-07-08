@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.250.175.125","arneg.com","","","","","arneg.com","","false"
 "34.250.175.119","*.dva-eu-west-k8s.da-tech.net","","","","","*.dva-eu-west-k8s.da-tech.net","","false"
 "34.250.175.130","beta-website.init-global.com","","","","","beta-website.init-global.com","","false"

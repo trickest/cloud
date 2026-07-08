@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.213.171.60","*.playback.ap-southeast-1.prod.brightcove.com","","","","","*.playback.ap-southeast-1.prod.brightcove.com|*.ap-southeast-1.prod.boltdns.net|*.playback.ap-southeast-1.prod.deploys.brightcove.com|*.ap-southeast-1.prod-a.boltdns.net|*.prod.boltdns.net|*.playback.ap-southeast-1.prod.eks.brightcove.com","","false"
 "13.213.171.62","app.echem.lk","","","","","app.echem.lk","","false"
 "13.213.171.64","easystore.blue","","","","","easystore.blue|*.storefront.blue|storefront.blue|*.st.storefront.blue|*.easystore.blue","","false"

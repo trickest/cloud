@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.139.38.39","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "108.139.37.190","*.amb-uranai.ameba.jp","","","","","*.amb-uranai.ameba.jp|amb-uranai.ameba.jp","","false"
 "108.139.37.225","apex-wildcard.choozen.fr","","","","","apex-wildcard.choozen.fr|choozen.gr|choozen.it|*.choozen.ch|choozen.es|*.choozen.it|*.choozen.gr|choozen.ch|choozen.sk|*.choozen.sk|*.choozen.fr|choozen.se|*.choozen.hu|*.choozen.co.uk|*.choozen.se|*.choozen.pt|*.choozen.dk|choozen.hu|choozen.fr|choozen.fi|*.choozen.pl|choozen.be|*.choozen.ro|choozen.no|choozen.de|*.choozen.nl|choozen.dk|*.choozen.no|*.choozen.de|*.choozen.be|choozen.pt|*.choozen.fi|*.choozen.cz|choozen.nl|choozen.ro|choozen.co.uk|choozen.pl|*.choozen.es|choozen.cz","","false"

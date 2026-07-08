@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.40.5.218","example.com","","","","","example.com|www.example.com","127.0.0.1","true"
 "13.40.5.245","","","","","","","13.40.5.245","false"
 "13.40.6.64","kubernetes-master","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local|api.hcp.pro-ipsum.co.uk|api.internal.hcp.pro-ipsum.co.uk","100.64.0.1|127.0.0.1","false"

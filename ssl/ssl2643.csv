@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.25.156.13","ai-factory.hcvpc.io","","","","","ai-factory.hcvpc.io|*.ai-factory.hcvpc.io","","false"
 "100.25.156.12","*.infin-info.com","","","","","*.infin-info.com","","false"
 "100.25.156.22","mayberryapp.com","","","","","mayberryapp.com|*.mayberryapp.com","","false"

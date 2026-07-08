@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.191.222.252","kube-apiserver","","","","","f7da6ea58ead5ba6afa6f752fd3a89f1.gr7.us-west-2.eks.amazonaws.com|ip-172-16-111-157.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.15.98|172.16.111.157","false"
 "54.191.222.254","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "54.191.223.1","hivecrm.ca","","","","","hivecrm.ca|*.hivecrm.ca","","false"

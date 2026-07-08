@@ -8,6 +8,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.237.201.131","kube-apiserver","","","","","c2642b5229444c968ce4640168d704bf.yl4.eu-west-3.eks.amazonaws.com|ip-172-16-172-247.eu-west-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.12.127|172.16.172.247","false"
 "15.237.201.139","*.mq.eu-west-3.amazonaws.com","","","","","*.mq.eu-west-3.amazonaws.com","","false"
 "15.237.201.147","*.supabase.co","","","","","*.supabase.co|*.supabase.in","","false"

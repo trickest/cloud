@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "78.13.24.84","kube-apiserver","","","","","3d75639ce9db4d7066dc66bc042cd109.gr7.mx-central-1.eks.amazonaws.com|ip-172-16-116-140.mx-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.20.0.110|172.16.116.140","false"
 "78.13.24.94","kube-apiserver","","","","","05672712e594f67dd2b6ef96a9c71b0f.gr7.mx-central-1.eks.amazonaws.com|ip-172-16-113-215.mx-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.57.10.28|172.16.113.215","false"
 "78.13.24.96","mx-central-1.signin.aws.com","","","","","mx-central-1.signin.aws.com|mx-central-1.iam.signin.aws","","false"

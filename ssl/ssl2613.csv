@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.192.80.141","api.msg.ue1.app.chime.aws","","","","","api.msg.ue1.app.chime.aws|service-api.msg.ue1.app.chime.aws|hooks.ue1.app.chime.aws|hooks.app.chime.aws|messaging-chime.us-east-1.amazonaws.com|hooks.ue1.chime.aws|hooks.chime.aws","","false"
 "54.192.80.125","cdn.supercell.com","","","","","cdn.supercell.com","","false"
 "54.192.80.132","*.jjshouse.com","","","","","*.jjshouse.com","","false"

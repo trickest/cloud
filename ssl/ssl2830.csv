@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.48.190.107","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"
 "100.48.190.111","*.execute-api.us-east-1.amazonaws.com","","","","","*.execute-api.us-east-1.amazonaws.com","","false"
 "100.48.190.114","*.c49.airflow.us-east-1.on.aws","","","","","*.c49.airflow.us-east-1.on.aws","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.164.36.43","chat.amazon.com","","","","","chat.amazon.com|origin-chat.amazon.com","","false"
 "18.164.36.86","*.rview.com","RSUPPORT Co., Ltd.","KR","Gangdong-gu","Seoul","*.rview.com|rview.com","","false"
 "18.164.36.79","*.tmsimg.com","","","","","*.tmsimg.com","","false"

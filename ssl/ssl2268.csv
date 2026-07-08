@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "32.194.210.89","*.vaultdev.com","Veeva Systems Inc.","US","Pleasanton","California","*.vaultdev.com","","false"
 "32.194.210.92","googlehome.hyperlyncserver.com","","","","","googlehome.hyperlyncserver.com|www.googlehome.hyperlyncserver.com","","false"
 "32.194.210.99","*.skyboxcommunications.com","","","","","*.skyboxcommunications.com|*.skybox.tech|*.skyboxtechnologies.com","","false"

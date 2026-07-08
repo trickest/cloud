@@ -2,6 +2,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.171.81.40","ec2-watson.arn.aws-border.com","Amazon.com Inc.","US","Seattle","Washington","ec2-watson-arn.aka.amazon.com|ec2-watson.arn.aws-border.com","","false"
 "16.171.83.160","s3-buckets.eu-north-1.amazonaws.com","Amazon.com Inc.","US","Seattle","Washington","s3-buckets.eu-north-1.amazonaws.com","","false"
 "16.171.82.3","deploy-control-master.amazon.com","","","","","deploy-control-master.amazon.com|fra-gamma.deploy-control.amazon.com|active.deploy-control-master.eu-central-1.amazonaws.com|active.deploy-control-master.us-west-2.amazonaws.com|iad-gamma.deploy-control.amazon.com|deploy-control-master.us-east-1.amazonaws.com|pdx-gamma.deploy-control.amazon.com|deploy-control.amazon.com|deploy-control-master.us-east-2.amazonaws.com|active.deploy-control-master.us-east-1.amazonaws.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.208.164.83","staging.admin.platform.jnrcloud.com","","","","","staging.admin.platform.jnrcloud.com","","false"
 "34.208.164.90","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"
 "34.208.164.95","detection-management.us-west-2.gamma.cherrug.aws.dev","","","","","detection-management.us-west-2.gamma.cherrug.aws.dev","","false"

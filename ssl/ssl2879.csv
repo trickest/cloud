@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.172.113.131","*.mlbstatic.com","","","","","*.mlbstatic.com|mlbstatic.com","","false"
 "18.172.113.124","f.iot-preprod.corp.amway.net","Alticor Inc.","US","Ada Township","Michigan","f.iot-preprod.corp.amway.net|conex-ops-qa.iot-preprod.corp.amway.net|conex-ops-test.iot-preprod.corp.amway.net|qa.iot.iot-preprod.corp.amway.net|qa.iot-preprod.corp.amway.net|test.iot.iot-preprod.corp.amway.net|test.iot-preprod.corp.amway.net","","false"
 "18.172.114.21","*.sonicwall.com","","","","","*.sonicwall.com|sonicwall.com","","false"

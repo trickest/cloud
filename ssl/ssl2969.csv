@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.225.2.24","*.ext-test.app-cloud.jp","","","","","*.ext-test.app-cloud.jp|ext-test.app-cloud.jp","","false"
 "13.225.2.50","*.cookie.oup.com","","","","","*.cookie.oup.com|cookie.oup.com","","false"
 "13.225.2.160","4fdaayvm7rrh2cz8-cdn.telematics-hv.uconnectservice.net","","","","","4fdaayvm7rrh2cz8-cdn.telematics-hv.uconnectservice.net|www.4fdaayvm7rrh2cz8-cdn.telematics-hv.uconnectservice.net","","false"

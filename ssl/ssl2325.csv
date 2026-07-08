@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.133.59.248","sessions.glue-gamma.eu-west-2.amazonaws.com","","","","","sessions.glue-gamma.eu-west-2.amazonaws.com|*.sessions.glue-gamma.eu-west-2.amazonaws.com","","false"
 "18.133.60.7","*.wpengine.com","","","","","*.wpengine.com|wpengine.com","","false"
 "18.133.59.240","*.xamatech.com","","","","","*.xamatech.com|xamatech.com","","false"

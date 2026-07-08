@@ -27,6 +27,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.67.167.214","*.samsungospdev.com","SAMSUNG ELECTRONICS CO,.LTD","KR","","Gyeonggi-do","*.samsungospdev.com|samsungospdev.com","","false"
 "18.67.167.208","*.s3.buscalibre.com","","","","","*.s3.buscalibre.com|*.cdn0.buscalibre.com|*.cdn2.buscalibre.com|*.cdn1.buscalibre.com|*.cdn3.buscalibre.com","","false"
 "18.67.167.213","*.adbephotos-stage.com","Adobe Inc.","US","San Jose","California","*.adbephotos-stage.com","","false"

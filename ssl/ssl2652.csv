@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.160.4.240","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
 "3.160.5.137","twitchcdn.tech","","","","","twitchcdn.tech|*.twitchcdn.tech|*.twitchapp.tech","","false"
 "3.160.4.244","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"

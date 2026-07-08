@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.86.251.104","*.ecom.dev.inforcloudsuite.com","","","","","*.ecom.dev.inforcloudsuite.com","","false"
 "54.86.251.110","*.stg-sessionm.com","","","","","*.stg-sessionm.com|stg-sessionm.com","","false"
 "54.86.251.112","kube-apiserver","","","","","f45b9c2668a0f080f034fa4da4c3bcc1.gr7.us-east-1.eks.amazonaws.com|ip-172-16-37-215.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.1.160.153|172.16.37.215","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.132.68.211","staging.dev.bldts.io","","","","","staging.dev.bldts.io|*.staging.dev.bldts.io","","false"
 "108.132.68.225","pusher.pdmfc.com","","","","","pusher.pdmfc.com","","false"
 "108.132.68.226","*.ant9bttthnmlm.eu-west-1.cs.amazonlightsail.com","","","","","*.ant9bttthnmlm.eu-west-1.cs.amazonlightsail.com","","false"

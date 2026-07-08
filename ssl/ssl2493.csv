@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.254.206.132","se-58dad337a28445b78a63dc6b01c5badb.ecs.eu-west-1.on.aws","","","","","se-58dad337a28445b78a63dc6b01c5badb.ecs.eu-west-1.on.aws","","false"
 "34.254.206.134","*.samsungiotcloud.com","","","","","*.samsungiotcloud.com","","false"
 "34.254.206.135","kube-apiserver","","","","","api.apie2.capi.aws.k8s.3stripes.net|api.apie2.k8s.anteater.dub.aws.k8s.3stripes.net|apie2-apiserver-292227956.eu-west-1.elb.amazonaws.com|apiserver.apie2.capi.aws.k8s.3stripes.net|ip-10-150-29-170.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local|localhost","172.18.192.1|10.150.29.170|127.0.0.1","false"

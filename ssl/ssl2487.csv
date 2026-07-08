@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.252.160.55","prod.eu-west-1.snapshot-copy.ebs.aws.a2z.com","","","","","prod.eu-west-1.snapshot-copy.ebs.aws.a2z.com","","false"
 "34.252.160.60","*.vetasicloud.com","Vetasi Limited","GB","Bristol","","*.vetasicloud.com","","false"
 "34.252.160.61","*.gamezone.net","","","","","*.gamezone.net","","false"

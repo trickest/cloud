@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.250.95.163","bitbio.linq.cloud","","","","","bitbio.linq.cloud|cdn.bitbio.linq.cloud|edge.bitbio.linq.cloud|*.bitbio.linq.cloud|app.bitbio.linq.cloud|api.bitbio.linq.cloud|sdk.bitbio.linq.cloud","","false"
 "34.250.95.166","eu.airmeet.com","","","","","eu.airmeet.com|*.eu.airmeet.com","","false"
 "34.250.95.170","kube-apiserver","","","","","ed68ceb1b54dbc22e644ce4368d5b12a.gr7.eu-west-1.eks.amazonaws.com|ip-172-16-174-11.eu-west-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.3.80.39|172.16.174.11","false"

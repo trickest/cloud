@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.35.81.122","kube-apiserver","","","","","9edc802544939316c7369319ddf9fb34.gr7.us-west-2.eks.amazonaws.com|ip-172-16-122-50.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.68.108.133|172.16.122.50","false"
 "52.35.81.130","*.mq.us-west-2.amazonaws.com","","","","","*.mq.us-west-2.amazonaws.com","","false"
 "52.35.81.141","*.neofie.io","","","","","*.neofie.io","","false"

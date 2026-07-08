@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.102.110.188","pprod-ap-southeast-6.notebookcontrolplane.gluestudio.aws.dev","","","","","pprod-ap-southeast-6.notebookcontrolplane.gluestudio.aws.dev","","false"
 "3.102.110.194","kube-apiserver","","","","","e36f8c26312e88a3a3eda0581e178460.gr7.ap-southeast-6.eks.amazonaws.com|ip-10-0-125-182.ap-southeast-6.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.23.0.1|192.168.80.180|10.0.125.182","false"
 "3.102.110.198","az3.akl55.akl.dppushcalc.gamma.aws.doctor.route-53.aws.dev","","","","","az3.akl55.akl.dppushcalc.gamma.aws.doctor.route-53.aws.dev","","false"

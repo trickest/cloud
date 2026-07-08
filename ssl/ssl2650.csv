@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.61.44.97","*.eu-north-1.es.amazonaws.com","","","","","*.eu-north-1.es.amazonaws.com","","false"
 "13.61.44.104","staging-platform.hubins.com","","","","","staging-platform.hubins.com","","false"
 "13.61.44.94","*.lucanet.cloud","LucaNet AG","DE","Berlin","Berlin","*.lucanet.cloud|lucanet.cloud","","false"

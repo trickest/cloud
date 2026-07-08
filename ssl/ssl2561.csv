@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.230.213.168","*.yuanshen.com","上海米哈游天命科技有限公司","CN","","上海市","*.yuanshen.com|yuanshen.com","","false"
 "54.230.213.183","*.jhjung.xyz","","","","","*.jhjung.xyz|jhjung.xyz","","false"
 "54.230.216.11","p-codegeass.jp","","","","","p-codegeass.jp|*.p-codegeass.jp","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.154.34.35","wsassets-prod-pdx.amazonworkspaces.com","Amazon.com, Inc.","US","Seattle","Washington","wsassets-prod-pdx.amazonworkspaces.com","","false"
 "18.154.34.170","*.test.iot.irobotapi.com","","","","","*.test.iot.irobotapi.com","","false"
 "18.154.34.177","epark.jp","EPARK, Inc.","JP","Minato-ku","Tokyo","epark.jp","","false"

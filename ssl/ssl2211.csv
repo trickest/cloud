@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.66.64.229","argocd-esp-platform-test-eks","ESP Platform","","","","*.eu-central-1.elb.amazonaws.com|*.elb.amazonaws.com|argocd-esp-platform-test-eks|localhost","","true"
 "3.66.64.228","*.eu-central-1.es.amazonaws.com","","","","","*.eu-central-1.es.amazonaws.com","","false"
 "3.66.64.231","reiscloud.de","","","","","reiscloud.de|*.reiscloud.de","","false"

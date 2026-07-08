@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.213.98.122","monitoring-gw-v3.ap-southeast-1.vito.iot.dev.fusus.io","","","","","monitoring-gw-v3.ap-southeast-1.vito.iot.dev.fusus.io|monitoring-gw.vito.iot.dev.fusus.io|monitoring-gw.ap-southeast-1.vito.iot.dev.fusus.io","","false"
 "13.213.98.124","api-test.bhawana.madharabooks.com","","","","","api-test.bhawana.madharabooks.com","","false"
 "13.213.98.108","*.movingwalls.com","","","","","*.movingwalls.com|*.lmx.ai|*.mastrum.jp|*.videooh.deals","","false"

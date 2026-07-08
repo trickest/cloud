@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.78.51.17","execution.ap-southeast-3.preprod.fluffy.identity.aws.dev","","","","","execution.ap-southeast-3.preprod.fluffy.identity.aws.dev","","false"
 "16.78.51.18","kube-apiserver","","","","","550424ce9cf96919eee47aae7f88ce52.gr7.ap-southeast-3.eks.amazonaws.com|ip-172-16-63-33.ap-southeast-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.43.60.38|172.16.63.33","false"
 "16.78.51.90","onepod.gamma.ap-southeast-3.email-border.ses.aws.a2z.com","","","","","onepod.gamma.ap-southeast-3.email-border.ses.aws.a2z.com","","false"

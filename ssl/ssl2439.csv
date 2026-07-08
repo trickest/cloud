@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.43.47.72","ecr.eu-west-2.amazonaws.com","","","","","ecr.eu-west-2.amazonaws.com|ecr.eu-west-2.api.aws|api.ecr.eu-west-2.amazonaws.com|*.api.ecr.eu-west-2.vpce.amazonaws.com","","false"
 "13.43.46.132","provisioning-regional.eu-west-2.amazonaws.com","","","","","provisioning-regional.eu-west-2.amazonaws.com","","false"
 "13.43.46.142","ssm-gamma.eu-west-2.amazonaws.com","","","","","ssm-gamma.eu-west-2.amazonaws.com|*.ssm-gamma.eu-west-2.vpce.amazonaws.com","","false"

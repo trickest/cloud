@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.43.196.32","*.cloud.extrahop.com","","","","","*.cloud.extrahop.com","","false"
 "52.43.196.36","test1-uswest2.sdb108s.test11.s.pc-rnd.pc-aws.force.com","Salesforce, Inc.","US","San Francisco","California","test1-uswest2.sdb108s.test11.s.pc-rnd.pc-aws.force.com|sdb108s.test11.pc-rnd.pc-aws.salesforce.com|*.test11.my.pc-rnd.salesforce.com","","false"
 "52.43.196.40","kube-apiserver","","","","","da934b68cdf502d12e36afe73c48c807.gr7.us-west-2.eks.amazonaws.com|ip-172-16-51-188.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.115.10.99|172.16.51.188","false"

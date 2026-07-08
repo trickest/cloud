@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.139.169.216","ca.dev.bbc.co.uk","BRITISH BROADCASTING CORPORATION","GB","London","London","ca.dev.bbc.co.uk","","false"
 "108.139.169.132","avakin.com","","","","","avakin.com|*.api.avkn.co|*.avkn.co|*.avakin.com|*.lockwood-publishing.com|lockwood-publishing.com|*.lkwd.net|*.lockwoodpublishing.com|*.api.avakin.com|*.staging.avkn.co|lockwoodpublishing.com|*.gdpr.avakin.life|*.dev.avakin.life|*.dev.avkn.co|*.dev.avakin.com|*.avakin.life","","false"
 "108.139.169.235","*.physicswallah.org","","","","","*.physicswallah.org|physicswallah.org","","false"

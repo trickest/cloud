@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.147.108.23","deviceaccess.rchansf.people.aws.dev","","","","","deviceaccess.rchansf.people.aws.dev","","false"
 "16.147.108.30","*.lab.amplitude.com","","","","","*.lab.amplitude.com|lab.amplitude.com","","false"
 "16.147.108.31","*.dev.tophat.withbuddies.com","","","","","*.dev.tophat.withbuddies.com","","false"

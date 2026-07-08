@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.61.157.176","kube-apiserver","","","","","5a95b9cc20e134b2e2d53f12af33ea03.gr7.eu-north-1.eks.amazonaws.com|ip-172-16-40-50.eu-north-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.75.248|172.16.40.50","false"
 "13.61.157.184","kube-apiserver","","","","","b0bdb92e90bdd3714e222ba8c714ff0c.yl4.eu-north-1.eks.amazonaws.com|ip-172-16-47-103.eu-north-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.11.164|172.16.47.103","false"
 "13.61.157.189","chatmateai.payeasykw.com","","","","","chatmateai.payeasykw.com","","false"

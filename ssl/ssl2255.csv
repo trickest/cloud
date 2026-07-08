@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.223.183.30","kube-apiserver","","","","","f0029d39adc86e9b09657ab3e2717949.gr7.us-east-2.eks.amazonaws.com|ip-10-0-185-234.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|100.66.34.188|10.0.185.234","false"
 "18.223.183.33","*.cocobox.io","","","","","*.cocobox.io|cocobox.io","","false"
 "18.223.183.37","kube-apiserver","","","","","c876606bba40164e217a08b49b6a3bd0.gr7.us-east-2.eks.amazonaws.com|ip-10-0-168-101.us-east-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.92.171.224|10.0.168.101","false"

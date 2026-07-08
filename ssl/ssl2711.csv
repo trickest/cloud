@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.30.7.55","*.execute-api.us-east-1.amazonaws.com","","","","","*.execute-api.us-east-1.amazonaws.com","","false"
 "100.30.7.63","leapone.leapeasyapi.com","","","","","leapone.leapeasyapi.com","","false"
 "100.30.7.66","prod.qurated.ai","","","","","prod.qurated.ai|*.prod.qurated.ai","","false"

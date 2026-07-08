@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.192.212.89","*.engineeringstaging.api.fluentretail.com","","","","","*.engineeringstaging.api.fluentretail.com|engineeringstaging.api.fluentretail.com|engineeringstaging.orchestration.fluentretail.com|*.engineeringstaging.servicepoint.fluentretail.com|*.engineeringstaging.orchestration.fluentretail.com|*.engineeringstaging.console.fluentretail.com|*.engineeringstaging.connect.fluentretail.com|engineeringstaging.console.fluentretail.com|engineeringstaging.servicepoint.fluentretail.com|engineeringstaging.connect.fluentretail.com","","false"
 "54.192.212.90","commosus.jp","","","","","commosus.jp|*.commosus.jp","","false"
 "54.192.212.50","*.staging.thescore.com","","","","","*.staging.thescore.com|*.thescore.com","","false"

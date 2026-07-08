@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.216.144.8","skytouchhos.com","","","","","skytouchhos.com|*.skytouchhos.com","","false"
 "34.216.144.28","kubernetes","kubernetes","","","","localhost|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local|openshift|openshift.default|openshift.default.svc|openshift.default.svc.cluster.local|api.awsgameday-407c.6ft6.p3.openshiftapps.com|api.awsgameday-407c.hypershift.local","127.0.0.1|::1|172.30.0.1|172.20.0.1","false"
 "34.216.144.37","*.confiedevstg.com","","","","","*.confiedevstg.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.210.47.36","*.csdisco.splunkcloud.com","Splunk LLC","US","San Francisco","California","*.csdisco.splunkcloud.com|csdisco.splunkcloud.com|*.pvt.csdisco.splunkcloud.com|http-inputs-csdisco.splunkcloud.com|*.http-inputs-csdisco.splunkcloud.com|akamai-inputs-csdisco.splunkcloud.com|*.akamai-inputs-csdisco.splunkcloud.com|http-inputs-ack-csdisco.splunkcloud.com|*.http-inputs-ack-csdisco.splunkcloud.com|http-inputs-firehose-csdisco.splunkcloud.com|*.http-inputs-firehose-csdisco.splunkcloud.com|pvt.csdisco.splunkcloud.com","","false"
 "34.210.47.40","*.pagefreezer.com","","","","","*.pagefreezer.com","","false"
 "34.210.47.44","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-02.us-west-2.es.amazonaws.com","","false"

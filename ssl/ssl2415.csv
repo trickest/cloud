@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.147.156.236","kube-apiserver","","","","","aabca92314dc22c872df6dff27586094.gr7.us-west-2.eks.amazonaws.com|ip-172-16-100-61.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.10.124|172.16.100.61","false"
 "16.147.156.234","kube-apiserver","","","","","f5816fcb4783af08dfb06f689c5b922b.gr7.us-west-2.eks.amazonaws.com|ip-172-16-45-234.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.8.111|172.16.45.234","false"
 "16.147.156.233","vnetcap.control.verkada.com","","","","","*.vnetcap.control.verkada.com|*.vprovision.vnetcap.control.verkada.com|*.vproxy.vnetcap.control.verkada.com|*.vstream.vnetcap.control.verkada.com|*.vsubmit.vnetcap.control.verkada.com|vnetcap.control.verkada.com","","false"

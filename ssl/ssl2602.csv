@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.161.32.158","mediaalpha.com","","","","","mediaalpha.com|*.mediaalpha.com","","false"
 "18.161.32.187","assets.bwbx.io","Bloomberg LP","US","New York","New York","assets.bwbx.io","","false"
 "18.161.32.15","one.amazon.com","","","","","one.amazon.com|origin-one.amazon.com","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.216.67.214","kube-apiserver","","","","","22a0b2b21cb9e0fd36764b9b02463b11.beta.us-west-2.wesley.amazonaws.com|ip-10-0-60-175.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.23.0.1|192.168.137.206|10.0.60.175","false"
 "34.216.67.224","*.collegescheduler.com","","","","","*.collegescheduler.com","","false"
 "34.216.68.16","example.com","","","","","","","true"

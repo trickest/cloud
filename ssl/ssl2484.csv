@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.155.184.227","kube-apiserver","","","","","72234faaa95572f75284fe1ae234f477.gr7.us-west-2.eks.amazonaws.com|ip-172-16-163-185.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.110.159.218|172.16.163.185","false"
 "35.155.184.253","*.render.com","","","","","*.app.render.com|*.render.com|render.com","","false"
 "35.155.184.254","*.staging.fairly.com","","","","","*.staging.fairly.com","","false"

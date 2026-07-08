@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.54.104.206","uat.securequanta.com","","","","","uat.securequanta.com|*.uat.securequanta.com","","false"
 "16.54.104.209","*.dev.identity.catalisgov.ca","","","","","*.dev.identity.catalisgov.ca|dev.identity.catalisgov.ca","","false"
 "16.54.104.211","canary-1.c1.reg.ca-central-1.prod.amr.shield.aws.dev","","","","","canary-1.c1.reg.ca-central-1.prod.amr.shield.aws.dev","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.252.238.245","*.crisistextlineie.org","","","","","*.crisistextlineie.org","","false"
 "34.252.238.242","hakimauto.com","","","","","hakimauto.com|*.hakimauto.com","","false"
 "34.252.238.246","suvoda.com","","","","","suvoda.com|*.suvoda.com","","false"

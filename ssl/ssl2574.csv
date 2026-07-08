@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.77.34.208","*.agency-register.com","","","","","*.agency-register.com|agency-register.com|www.agency-register.com|agency-search.com|www.agency-search.com|*.agency-search.com","","false"
 "52.77.34.224","uat-asia.trade-surveillance.gtngroup.com","","","","","uat-asia.trade-surveillance.gtngroup.com","","false"
 "52.77.34.215","kube-apiserver","","","","","aceda95c73ef6e918a8c9a01bc73394e.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-102-191.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.82.168.73|172.16.102.191","false"

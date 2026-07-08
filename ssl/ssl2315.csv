@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.220.194.117","*.dcli.com","","","","","*.dcli.com","","false"
 "18.220.194.112","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"
 "18.220.194.116","ip-172-26-7-200","","","","","ip-172-26-7-200","","true"

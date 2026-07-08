@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "98.87.56.148","releasenotes.enertiacloud.com","","","","","releasenotes.enertiacloud.com","","false"
 "98.87.56.150","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"
 "98.87.56.152","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-02.us-east-1.es.amazonaws.com","","false"

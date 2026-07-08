@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.160.25.191","p01.epsonconnect.com","SEIKO EPSON Corporation","JP","Suwa-shi","Nagano","","","false"
 "18.160.25.61","www.amazon.co.uk","","","","","www.amazon.co.uk|uedata.amazon.co.uk|origin-www.amazon.co.uk|amazon.co.uk|p-y3-www-amazon-co-uk-kalias.amazon.co.uk|p-yo-www-amazon-co-uk-kalias.amazon.co.uk|p-nt-www-amazon-co-uk-kalias.amazon.co.uk","","false"
 "18.160.25.229","*.insead.edu","Institut Europ Administ Affair","FR","Fontainebleau","Île-de-France","*.insead.edu|insead.edu","","false"

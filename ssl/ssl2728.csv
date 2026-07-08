@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.167.121.14","logview.lismovideounlimited.auone.jp","","","","","logview.lismovideounlimited.auone.jp","","false"
 "3.167.121.31","hop-apl-stg.heiwado.jp","HEIWADO CO.,LTD.","JP","Hikone-shi","Shiga","hop-apl-stg.heiwado.jp","","false"
 "3.167.121.24","*.pa-cd.com","APPLIED TECHNOLOGIES INTERNET S.A.S.","FR","Mérignac","Nouvelle-Aquitaine","*.pa-cd.com|pa-cd.com","","false"

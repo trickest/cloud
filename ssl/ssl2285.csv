@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.167.78.115","*.sescsp.org.br","","","","","*.sescsp.org.br","","false"
 "35.167.78.130","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com","","false"
 "35.167.78.142","kube-apiserver","","","","","d337b89649c44cd4ea528040a8cec2cb.gr7.us-west-2.eks.amazonaws.com|ip-172-16-107-194.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.28.87.114|172.16.107.194","false"

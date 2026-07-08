@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.192.147.65","*.payment.global.rakuten.com","Rakuten Group, Inc.","JP","Setagaya-ku","Tokyo","*.payment.global.rakuten.com","","false"
 "54.192.147.36","web.familyclub.jp","","","","","web.familyclub.jp|*.web.familyclub.jp","","false"
 "54.192.147.62","aldebaran.com","","","","","aldebaran.com|*.aldebaran.com","","false"

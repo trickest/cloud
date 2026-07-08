@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "98.85.53.149","prod.ffs.us2.code42.com","","","","","prod.ffs.us2.code42.com|*.prod.ffs.us2.code42.com","","false"
 "98.85.53.151","primary.assembly.sp.turnerapps.com","","","","","primary.assembly.sp.turnerapps.com","","false"
 "98.85.53.161","beta.test.compass.operations-center.us-east-1.amazonaws.com","","","","","beta.test.compass.operations-center.us-east-1.amazonaws.com","","false"

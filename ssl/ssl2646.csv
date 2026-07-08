@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.26.252.138","ip-172-31-63-8.ec2.internal","Unspecified","US","","","ip-172-31-63-8.ec2.internal","","false"
 "100.26.252.188","54.160.69.30","","","","","","","false"
 "100.26.252.249","api.farmbattle.com","","","","","api.farmbattle.com","","false"

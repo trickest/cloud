@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.139.95.168","explore.skillbuilder.training.aws.dev","","","","","explore.skillbuilder.training.aws.dev|www.explore.skillbuilder.training.aws.dev|assets.skillbuilder.training.aws.dev|*.enterprise.skillbuilder.training.aws.dev","","false"
 "108.139.95.178","bethesda.net","","","","","bethesda.net|*.bethesda.net|*.cdp.bethesda.net|*.services.bethesda.net","","false"
 "108.139.95.181","*.me2zengame.com","","","","","*.me2zengame.com","","false"

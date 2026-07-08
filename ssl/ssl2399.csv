@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.67.192.131","*.nubank.com.br","","","","","*.nubank.com.br|nubank.com.br","","false"
 "52.67.192.135","*.sincrosoftware.com.br","","","","","*.sincrosoftware.com.br","","false"
 "52.67.192.136","*.3dexperience.3ds.com","Dassault Systemes","FR","","Yvelines","*.3dexperience.3ds.com|3dexperience.3ds.com","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "32.194.153.188","*.ninjasleep.com","","","","","*.ninjasleep.com|ninjasleep.com","","false"
 "32.194.153.189","*.sdlc-103.hub-1.vpms-sbx.assure.dxc.com","","","","","*.sdlc-103.hub-1.vpms-sbx.assure.dxc.com|sdlc-103.hub-1.vpms-sbx.assure.dxc.com","","false"
 "32.194.153.191","*.iot.us-east-1.amazonaws.com","Amazon.com, Inc.","US","Seattle","Washington","iot.us-east-1.amazonaws.com|*.iot.us-east-1.amazonaws.com","","false"

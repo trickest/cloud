@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.221.49.118","*.ci.mirantis.com","","","","","*.ci.mirantis.com|ci.mirantis.com","","false"
 "18.221.49.120","dba.kudosestudio.com","","","","","dba.kudosestudio.com","","false"
 "18.221.49.128","api.xsp.sovrn.com","","","","","api.xsp.sovrn.com|*.xsp-prd.lijit.com|xsp.lijit.com","","false"

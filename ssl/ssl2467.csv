@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.139.117.228","*.escmajorel.com","","","","","*.escmajorel.com|escmajorel.com","","false"
 "18.139.117.242","*.vbee.vn","","","","","*.vbee.vn|vbee.vn","","false"
 "18.139.117.246","slack.com","","","","","*.slack.com|slack.com","","false"

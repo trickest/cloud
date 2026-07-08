@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.135.77.184","kube-apiserver","","","","","1e8cce0f6a68b96c01331bb2cab1ba49.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-63-215.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.66.12.38|172.16.63.215","false"
 "18.135.77.180","stirling.she-development.net","","","","","stirling.she-development.net|signalr.stirling.she-development.net|agpe.stirling.she-development.net|ids.stirling.she-development.net|analytics.stirling.she-development.net|insights.stirling.she-development.net|apiv1.stirling.she-development.net","","false"
 "18.135.77.196","admin.acm-pca.eu-west-2.amazonaws.com","","","","","admin.acm-pca.eu-west-2.amazonaws.com","","false"

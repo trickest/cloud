@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.35.57.21","taeshincrime.com","","","","","admin.taeshincrime.com|api.taeshincrime.com|release.taeshincrime.com|taeshincrime.com|www.taeshincrime.com","","false"
 "3.35.57.17","gad.api.gpakorea.com","","","","","gad.api.gpakorea.com","","false"
 "3.35.57.32","arkhive.co.kr","","","","","arkhive.co.kr|*.arkhive.co.kr","","false"

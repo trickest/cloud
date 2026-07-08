@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.155.40.43","*.inkfrog.com","inkFrog, inc","US","Chandler","Arizona","*.inkfrog.com|inkfrog.com","","false"
 "18.155.40.15","*.promoboxx.com","","","","","*.promoboxx.com","","false"
 "18.155.40.16","*.apps.thermofisher.com","Thermo Fisher Scientific Inc.","US","","Massachusetts","*.apps.thermofisher.com","","false"

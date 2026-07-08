@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.169.112.196","data-eu.amazon.com","","","","","data-eu.amazon.com|data.amazon.eg|data.amazon.ae|data.amazon.com.ng|origin-data-eu.amazon.com|data.amazon.pl|data.amazon.ie|data.amazon.nl|data.amazon.de|data.amazon.se|data.amazon.co.za|data.amazon.com.tr|data.amazon.com.be|data.amazon.sa","","false"
 "3.169.112.197","*.samsungqbe.com","Samsung Electronics Co.,Ltd.","KR","Suwon-si","Gyeonggi-do","*.samsungqbe.com|samsungqbe.com","","false"
 "3.169.112.199","api-public.qa.tivo.com","TiVo Corporation","US","","California","api-public.qa.tivo.com|api-public-def.dev.tivo.com|api-public-gw.dev.tivoservice.com|api-public.dev.tivo.com","","false"

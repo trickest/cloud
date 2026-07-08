@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.248.217.198","*.eu-west-1.es.amazonaws.com","","","","","*.eu-west-1.es.amazonaws.com","","false"
 "34.248.217.202","api.artsquareitalia.com","","","","","api.artsquareitalia.com","","false"
 "34.248.217.210","*.rasmato.com","","","","","*.rasmato.com","","false"

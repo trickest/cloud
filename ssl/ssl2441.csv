@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.43.198.182","*.execute-api.eu-west-2.amazonaws.com","","","","","*.execute-api.eu-west-2.amazonaws.com","","false"
 "13.43.198.183","*.appsocly.io","","","","","*.appsocly.io","","false"
 "13.43.198.202","kube-apiserver","","","","","5cc75620be801315f417c58074077a9d.gr7.eu-west-2.eks.amazonaws.com|ip-172-16-44-241.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.172.83|172.16.44.241","false"

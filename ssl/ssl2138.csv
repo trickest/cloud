@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.217.221.194","*.845415031233.gateway.rtbfabric.us-west-2.amazonaws.com","","","","","*.845415031233.gateway.rtbfabric.us-west-2.amazonaws.com|*.845415031233.us-west-2.dataplane.rtb.mpofxdevmu.aws.dev","","false"
 "34.217.221.202","*.us-west-2.osis.amazonaws.com","","","","","*.us-west-2.osis.amazonaws.com|*.osis.us-west-2.vpce.amazonaws.com","","false"
 "34.217.221.206","crvenkapica.rs","","","","","cognitioncommons.net|crvenkapica.rs|www.cognitioncommons.net|www.crvenkapica.rs","","false"

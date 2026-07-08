@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.126.60.138","www.simshospitals.com","","","","","www.simshospitals.com","","false"
 "13.126.60.147","api.notatmrp.com","","","","","api.notatmrp.com","","false"
 "13.126.60.157","*.1aa6qam2ilbls.ap-south-1.cs.amazonlightsail.com","","","","","*.1aa6qam2ilbls.ap-south-1.cs.amazonlightsail.com","","false"

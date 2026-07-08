@@ -6,6 +6,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.135.158.61","kube-apiserver","","","","","f0765b2d435411345daa4da5e9d274f2.yl4.eu-west-2.eks.amazonaws.com|ip-10-0-99-159.eu-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.22.101.144|10.0.99.159","false"
 "18.135.158.67","*.cloud.tanium.com","","","","","*.cloud.tanium.com","","false"
 "18.135.158.65","*.supabase.co","","","","","*.supabase.co|*.supabase.in","","false"

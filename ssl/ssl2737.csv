@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.156.105.103","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "108.156.105.158","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "108.156.105.161","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"

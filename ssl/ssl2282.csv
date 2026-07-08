@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.166.72.124","pe-dba.aws.centech.npd","Oath Inc.","US","","","npd.pe-dba-aws-centech.aws.oath.cloud|npd.pe-dba-aws-centech.aws.yahoo.cloud|i-0e5503ca039b6fbbb.instanceid.athenz.aws.oath.cloud","10.20.1.11","false"
 "35.166.72.135","*.vtvsolutions.com","","","","","*.vtvsolutions.com","","false"
 "35.166.72.138","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-01.us-west-2.es.amazonaws.com","","false"

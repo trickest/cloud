@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.150.20.210","*.catv-sols.com","","","","","*.catv-sols.com","","false"
 "54.150.20.237","teleforce.jp","","","","","teleforce.jp|www.teleforce.jp","","false"
 "54.150.20.214","kube-apiserver","","","","","45464cc88243e91bd72896616632e50f.yl4.ap-northeast-1.eks.amazonaws.com|ip-172-16-122-122.ap-northeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.119.26.188|172.16.122.122","false"

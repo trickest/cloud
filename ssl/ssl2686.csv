@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.230.150.248","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
 "54.230.152.31","prd1.cdn.pengine.revtech.glulive.com","","","","","prd1.cdn.pengine.revtech.glulive.com","","false"
 "54.230.151.73","*.j-a-net.jp","株式会社アドウェイズ","JP","新宿区","東京都","*.j-a-net.jp|j-a-net.jp","","false"

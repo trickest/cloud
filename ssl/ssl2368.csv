@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.211.96.182","beapi.supervisionenlinea.com","","","","","beapi.supervisionenlinea.com","","false"
 "3.211.96.183","*.temsaude.com","","","","","*.temsaude.com","","false"
 "3.211.96.196","*.c60.us-east-1.airflow.amazonaws.com","","","","","*.c60.us-east-1.airflow.amazonaws.com","","false"

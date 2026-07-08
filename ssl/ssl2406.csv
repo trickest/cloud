@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.33.220.203","*.navigahub.com","","","","","*.navigahub.com","","false"
 "52.33.220.206","*.us-west-2.es.amazonaws.com","","","","","*.us-west-2.es.amazonaws.com|*.cell-02.us-west-2.es.amazonaws.com","","false"
 "52.33.220.208","*.testing.devnetcloud.com","","","","","*.testing.devnetcloud.com|*.us-west-2.devnetcloud.com|*.staging.devnetcloud.com","","false"

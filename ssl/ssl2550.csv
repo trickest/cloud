@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.54.49.138","*.c6.airflow.ca-central-1.on.aws","","","","","*.c6.airflow.ca-central-1.on.aws","","false"
 "16.54.49.133","ic-transact.com","","","","","ic-transact.com|*.ic-transact.com","","false"
 "16.54.49.152","lawcus.com","","","","","lawcus.com|*.ca.lawcus.com|*.lawcus.com","","false"

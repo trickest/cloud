@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.167.203.79","kube-apiserver","","","","","08e5d776705c2bf5c261c4cb16a0a8f4.yl4.ap-east-1.eks.amazonaws.com|ip-172-16-39-105.ap-east-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.81.109|172.16.39.105","false"
 "18.167.203.102","*.exwebterm.com","","","","","*.exwebterm.com|exwebterm.com","","false"
 "18.167.203.101","*.juan.tax","","","","","*.juan.tax|juan.tax","","false"

@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.191.123.197","*.arbitrum.one","","","","","*.arbitrum.one|arbitrum.one","","false"
 "54.191.123.198","kube-apiserver","","","","","9b4aa752a4244adce4c057000c30c375.sk1.us-west-2.eks.amazonaws.com|ip-172-16-50-91.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.3.19.63|172.16.50.91","false"
 "54.191.123.203","astra.datastax.com","","","","","*.apps.astra.datastax.com|*.astra.datastax.com|*.dashboard.astra.datastax.com|*.db.astra.datastax.com|*.studio.astra.datastax.com|*.sysdash.astra.datastax.com|astra.datastax.com","","false"

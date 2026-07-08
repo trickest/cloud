@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.103.149.221","kube-apiserver","","","","","ad907dcbf01e891c3bdc79452bb1e45c.gr7.ap-southeast-6.eks.amazonaws.com|ip-172-17-35-231.ap-southeast-6.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.16.0.1|10.0.91.194|172.17.35.231","false"
 "3.103.149.228","lambda.ap-southeast-6.api.aws","","","","","lambda.ap-southeast-6.api.aws","","false"
 "3.103.149.232","kube-apiserver","","","","","ca1663f5c6e764141fa3578eab29938a.gr7.gamma.ap-southeast-6.clusters.wesley.amazonaws.com|ip-172-16-183-60.ap-southeast-6.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.34.17|172.16.183.60","false"

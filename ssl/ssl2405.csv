@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.33.142.132","*.slingoarcade.com","","","","","*.slingoarcade.com|slingoarcade.com","","false"
 "52.33.142.135","ml-app-prod.diyer.us","","","","","ml-app-prod.diyer.us","","false"
 "52.33.142.142","pavito.credigob.pe","","","","","pavito.credigob.pe","","false"

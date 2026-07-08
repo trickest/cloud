@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.77.100.195","kube-apiserver","","","","","6f3ceb8114fe50de053216eb1f46487c.gr7.ap-southeast-1.eks.amazonaws.com|ip-172-16-40-251.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.11.1.199|172.16.40.251","false"
 "52.77.100.186","alphasin.capi.ap-southeast-1.one.alameda.aws.dev","","","","","alphasin.capi.ap-southeast-1.one.alameda.aws.dev","","false"
 "52.77.100.197","*.dichvu3t.com","","","","","*.dichvu3t.com","","false"

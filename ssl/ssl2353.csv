@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.95.35.122","*.g5bank.com.br","","","","","*.g5bank.com.br|g5bank.com.br","","false"
 "3.95.35.125","kube-apiserver","","","","","63130b0a5b424ed896416ed86201ccf0.gr7.us-east-1.eks.amazonaws.com|ip-172-16-177-29.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.140.5.39|172.16.177.29","false"
 "3.95.35.138","staging-api.rainmakerdata.com","","","","","staging-api.rainmakerdata.com|api.rainmakerdata.com","","false"

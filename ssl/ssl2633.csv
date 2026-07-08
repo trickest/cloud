@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.35.31.31","www.netcash.jp","NTT CARD SOLUTION CORP.","JP","SHINAGAWA-KU","Tokyo","www.netcash.jp","","false"
 "13.35.31.77","*.line-scdn.net","","","","","*.line-scdn.net|*.linegame.jp|*.line-apps.com|*.line.me|rr.img1.naver.jp|*.linecorp.com|rr.img.line.naver.jp|rr.img.naver.jp|*.line-beta.me|*.naver.jp|*.line-apps-beta.com|*.line.naver.jp","","false"
 "13.35.31.86","*.rockabox.co","","","","","*.rockabox.co","","false"

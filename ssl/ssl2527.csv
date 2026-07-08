@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.18.189.135","*.verzekeruzelf.nl","FIDUS.NL B.V.","NL","","Noord-Brabant","*.verzekeruzelf.nl|verzekeruzelf.nl","","false"
 "52.18.189.138","ubi.agmtechnologies.co.uk","","","","","ubi.agmtechnologies.co.uk","","false"
 "52.18.189.166","cloud.bright.blue","","","","","cloud.bright.blue","","false"

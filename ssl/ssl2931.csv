@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.169.51.66","*.enjoy.point.auone.jp","","","","","*.enjoy.point.auone.jp","","false"
 "3.169.51.70","*.lifeway.com","","","","","*.lifeway.com|*.prod.lifeway.com|lifeway.com","","false"
 "3.169.51.73","*.ekdgd.com","","","","","*.ekdgd.com|ekdgd.com","","false"

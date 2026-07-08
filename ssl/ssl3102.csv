@@ -76,6 +76,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.192.218.244","scm.jadist.my.id","","","","","scm.jadist.my.id","","false"
 "35.192.219.2","35.222.73.135","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.222.73.135|34.118.224.1|10.128.15.252|104.198.37.25|35.192.219.2|34.46.181.52","false"
 "35.192.219.21","34.66.236.34","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.66.236.34|10.16.0.1|35.192.219.21|104.154.140.206|104.198.172.210|10.128.15.221","false"

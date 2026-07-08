@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.155.114.237","*.haimusic.ai","","","","","*.haimusic.ai|haimusic.ai","","false"
 "35.155.114.240","newsbreak.com","","","","","newsbreak.com|*.newsbreak.com","","false"
 "35.155.114.244","notificationservice-kms1-integration.dev.valant.io","","","","","notificationservice-kms1-integration.dev.valant.io","","false"

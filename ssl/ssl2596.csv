@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.160.112.125","cdn.gotraffic.net","Bloomberg L.P.","US","New York","New York","cdn.gotraffic.net","","false"
 "18.160.112.62","*.prod.pge.us-east-1.aws.gridunity.com","","","","","*.prod.pge.us-east-1.aws.gridunity.com|yourprojects-pge.com|*.yourprojects-pge.com","","false"
 "18.160.112.150","smxuat-test.nikecloud.com","","","","","smxuat-test.nikecloud.com","","false"

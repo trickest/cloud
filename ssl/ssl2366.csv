@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.210.229.158","papi.dzine.ai","","","","","papi.dzine.ai|lambda.dzine.ai|report.dzine.ai|proxy.dzine.ai|staging.dzine.ai|blog.dzine.ai|tool.dzine.ai|capi.dzine.ai","","false"
 "3.210.229.180","kube-apiserver","","","","","2a5632204746eddc8ab683d55f084053.yl4.us-east-1.eks.amazonaws.com|ip-10-0-160-182.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.22.135.107|10.0.160.182","false"
 "3.210.229.182","lrcapi.cell-2.prod.us-east-1.prod.connect.aws.a2z.com","","","","","lrcapi.cell-2.prod.us-east-1.prod.connect.aws.a2z.com","","false"

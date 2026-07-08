@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "43.208.68.221","api.ap-southeast-7.sdpds.prod.search-services.aws.a2z.com","","","","","api.ap-southeast-7.sdpds.prod.search-services.aws.a2z.com","","false"
 "43.208.69.46","c1-a61.api.ap-southeast-7.prod.curtain.aws.a2z.com","Amazon.com Inc.","US","Seattle","Washington","c1-a61.api.ap-southeast-7.prod.curtain.aws.a2z.com","","false"
 "43.208.69.43","athena.ap-southeast-7.amazonaws.com","","","","","athena.ap-southeast-7.amazonaws.com|*.athena.ap-southeast-7.vpce.amazonaws.com|athena-internal.ap-southeast-7.amazonaws.com","","false"

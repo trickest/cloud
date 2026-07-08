@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.202.56.183","kube-apiserver","","","","","f6b85f916db2ab98dce79d756b522b89.gr7.us-west-2.eks.amazonaws.com|ip-10-0-182-189.us-west-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.99.236|10.0.182.189","false"
 "54.202.56.188","*.k8s.goto-rtc.com","","","","","*.k8s.goto-rtc.com","","false"
 "54.202.56.186","telrhin.com","","","","","telrhin.com|www.telrhin.com","","false"

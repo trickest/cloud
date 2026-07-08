@@ -9,6 +9,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "177.71.242.243","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.groupsoftware.com.br|groupsoftware.com.br","","false"
 "177.71.242.244","*.nubank.com.br","","","","","*.nubank.com.br|nubank.com.br","","false"
 "177.71.242.247","*.nubank.com.br","","","","","*.nubank.com.br|nubank.com.br","","false"

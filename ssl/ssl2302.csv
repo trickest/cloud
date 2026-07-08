@@ -5,6 +5,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.135.154.1","internal.platform-documentation.prod.uktrade.digital","","","","","internal.platform-documentation.prod.uktrade.digital|platform.readme.trade.gov.uk","","false"
 "18.135.154.23","*.customsapp.dev","","","","","*.customsapp.dev|customsapp.dev","","false"
 "18.135.154.29","*.eu-west-2.es.amazonaws.com","","","","","*.eu-west-2.es.amazonaws.com","","false"
