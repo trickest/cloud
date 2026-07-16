@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.49.217.231","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com","","false"
 "100.49.217.238","*.zoom.com.br","","","","","*.zoom.com.br|*.quebarato.com.br|quebarato.com.br|zoom.com.br|*.bondfaro.com.br|bondfaro.com.br|*.buscape.com.br|buscape.com.br|*.vigiadepreco.com.br|vigiadepreco.com.br|shopping.uol.com.br|shopping.bancopan.com.br","","false"
 "100.49.217.239","test-magneto.northstar.smugmug.net","","","","","test-magneto.northstar.smugmug.net","","false"

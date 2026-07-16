@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.171.189.26","*.s3-turbo.amazonaws.com","","","","","*.s3-turbo.amazonaws.com|s3-turbo.amazonaws.com|*.s3-turbo.dualstack.amazonaws.com|s3-turbo.dualstack.amazonaws.com|*.cf-ofp-us-east-1.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1a.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1b.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1c.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1d.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1e.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1f.s3-turbo.amazonaws.com","","false"
 "3.171.188.249","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
 "3.171.189.27","legacy.api.iot.carrier.com","","","","","legacy.api.iot.carrier.com|legacy.api.iot.bryant.com|legacy.api.iot.ioncomfort.com|www.api.ing.carrier.com|www.api.ioncomfort.com|www.api.eng.bryant.com","","false"

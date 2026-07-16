@@ -77,6 +77,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.45.151.123","34.45.151.123","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.45.151.123|34.118.224.1|10.23.2.2|35.239.193.57|34.57.63.181|34.41.223.48","false"
 "34.45.151.126","35.227.157.105","Google","US","Sunnyvale","CA","","","true"
 "34.45.151.130","34.42.198.81","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.42.198.81|34.118.224.1|10.128.0.2|35.223.249.166|34.123.247.218|34.45.151.130","false"

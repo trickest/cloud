@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.51.230.192","*.smile-production.co","","","","","*.smile-production.co","","false"
 "100.51.230.194","*.cloud.cambiumnetworks.com","","","","","*.cloud.cambiumnetworks.com","","false"
 "100.51.230.195","*.c12.airflow.us-east-1.on.aws","","","","","*.c12.airflow.us-east-1.on.aws","","false"

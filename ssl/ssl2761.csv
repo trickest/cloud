@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.159.60.40","scandalmania.jp","","","","","scandalmania.jp|*.scandalmania.jp","","false"
 "108.159.59.172","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "108.159.59.192","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"

@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.165.103.162","bbedge2p-light.iotconnectup.com","FUJIFILM Business Innovation Corp.","JP","Minato-ku","Tokyo","bbedge2p-light.iotconnectup.com","","false"
 "3.165.103.174","*.deva111.com","","","","","*.deva111.com","","false"
 "3.165.103.149","*.wework.com","","","","","*.wework.com|wework.com","","false"

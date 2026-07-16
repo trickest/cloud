@@ -28,6 +28,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.66.199.111","odin-athena.dev-us1.twilio.com","","","","","odin-athena.dev-us1.twilio.com","","false"
 "18.66.199.151","binance.me","","","","","binance.me|*.binance.me|*.binance.info|binance.info","","false"
 "18.66.199.70","img.clarchive.net","","","","","img.clarchive.net","","false"

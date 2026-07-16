@@ -81,6 +81,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.221.16.45","aiplatform.googleapis.com","Google LLC","US","Sunnyvale","CA","","","true"
 "35.221.16.48","api.osft4oa.pvmr.p2.openshiftapps.com","","","","","*.apps.osft4oa.pvmr.p2.openshiftapps.com|*.apps2.osft4oa.pvmr.p2.openshiftapps.com|api.osft4oa.pvmr.p2.openshiftapps.com|rh-api.osft4oa.pvmr.p2.openshiftapps.com","","false"
 "35.221.16.82","34.86.164.189","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.86.164.189|10.26.0.1|35.245.249.208|35.221.16.82|35.236.212.86|172.16.0.2","false"

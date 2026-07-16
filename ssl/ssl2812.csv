@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.165.41.56","www.amazon.com.au","","","","","www.amazon.com.au|p-y3-www-amazon-com-au-kalias.amazon.com.au|amazon.com.au|p-yo-www-amazon-com-au-kalias.amazon.com.au|www.amazon.com|origin-www.amazon.com.au|amazon.com|p-nt-www-amazon-com-au-kalias.amazon.com.au","","false"
 "18.165.41.110","*.hilabs.com","","","","","*.hilabs.com","","false"
 "18.165.40.64","*.k1b.stg.au-market.com","KDDI CORPORATION","JP","Minato-ku","Tokyo","*.k1b.stg.au-market.com|k1b.stg.au-market.com","","false"

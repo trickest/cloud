@@ -77,6 +77,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.195.126.242","34.79.185.119","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.79.185.119|10.83.0.1|35.189.241.196|35.195.126.242|35.187.168.84|10.132.0.86","false"
 "35.195.126.247","vf-pt-aib-prd-aig-nwe-live-elb.aib.vodafone.com","Vodafone","GB","Newbury","Berkshire","vf-pt-aib-prd-aig-nwe-live-elb.aib.vodafone.com","","false"
 "35.195.127.9","35.195.127.9","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.195.127.9|10.16.0.1|146.148.30.232|35.189.238.203|35.195.165.63|10.0.0.242","false"

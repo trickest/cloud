@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.165.99.39","*.auth.airmiles.ca","","","","","*.auth.airmiles.ca|auth.airmiles.ca","","false"
 "18.165.98.137","*.test.iot.irobotapi.com","","","","","*.test.iot.irobotapi.com","","false"
 "18.165.98.142","*.pod-point.com","","","","","*.pod-point.com|pod-point.com","","false"

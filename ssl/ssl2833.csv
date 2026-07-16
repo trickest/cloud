@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.49.91.171","*.acep.org","","","","","*.acep.org|acep.org","","false"
 "100.49.91.175","api.campaigns.broadsign.com","","","","","api.campaigns.broadsign.com","","false"
 "100.49.91.179","miniwhales.io","","","","","miniwhales.io|*.miniwhales.io","","false"

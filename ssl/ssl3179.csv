@@ -81,6 +81,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.221.222.250","taipei101.good-eye.com.tw","","","","","taipei101.good-eye.com.tw","","false"
 "35.221.223.139","35.221.223.139","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.221.223.139|10.232.16.1|172.16.0.18","false"
 "35.221.223.214","35.221.186.201","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.221.186.201|10.95.208.1|35.221.223.214|35.221.231.85|35.221.212.188|192.168.117.210","false"

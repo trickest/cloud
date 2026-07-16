@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.198.174.47","*.class-cloud.jp","","","","","*.class-cloud.jp","","false"
 "52.198.174.49","dev-kitacid-portal.online","","","","","dev-kitacid-portal.online","","false"
 "52.198.174.63","admin-app.rizap.jp","","","","","admin-app.rizap.jp","","false"

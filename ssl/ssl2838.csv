@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.50.42.234","*.abaris.com.br","","","","","*.abaris.com.br|*.reportdevopsphm.abaris.com.br|*.setupdevops.abaris.com.br|*.authdevopsphm.abaris.com.br|*.configdevopsphm.abaris.com.br|*.appdevopsphm.abaris.com.br|*.portalassinaturacallbackdevopsphm.abaris.com.br|*.apidevopsphm.abaris.com.br|*.viewerdevopsphm.abaris.com.br|*.assinadordevopsphm.abaris.com.br","","false"
 "100.50.42.240","*.battleofoptions.com","","","","","*.battleofoptions.com|battleofoptions.com","","false"
 "100.50.42.242","aqsim-tube-demo.appintegrated.com","","","","","aqsim-tube-demo.appintegrated.com","","false"

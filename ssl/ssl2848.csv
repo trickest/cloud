@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.51.190.122","api-alpha.neuronics.astea.dev","","","","","api-alpha.neuronics.astea.dev|admin-alpha.neuronics.astea.dev","","false"
 "100.51.190.124","data-platform-prod.lightboxre.com","","","","","data-platform-prod.lightboxre.com|*.data-platform-prod.lightboxre.com","","false"
 "100.51.190.125","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-02.us-east-1.es.amazonaws.com","","false"

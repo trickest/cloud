@@ -83,6 +83,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.186.205.138","*.datosconnectedhealth.com","","","","","*.datosconnectedhealth.com|datosconnectedhealth.com","","false"
 "35.186.205.107","*.hd-engineering.gcp.homedepot.com","The Home Depot","","","","*.hd-engineering.gcp.homedepot.com|hd-engineering.gcp.homedepot.com","","false"
 "35.186.205.194","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.ai.telus.com|ai.telus.com","","false"

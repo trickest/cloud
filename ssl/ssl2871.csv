@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.85.46.144","www.legicconnect.com","","","","","www.legicconnect.com|legicconnect.com|api.legicconnect.com","","false"
 "52.85.44.183","core.indazn.com","","","","","core.indazn.com|*.core.indazn.com","","false"
 "52.85.46.99","api.cs-pindrop.io","","","","","api.cs-pindrop.io","","false"

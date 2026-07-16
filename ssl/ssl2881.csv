@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.172.173.154","hinatazaka46.com","","","","","hinatazaka46.com|*.hinatazaka46.com","","false"
 "18.172.173.117","*.dev.coro.net","","","","","*.dev.coro.net","","false"
 "18.172.173.155","imdb-video-wab.media-imdb.com","","","","","imdb-video-wab.media-imdb.com","","false"

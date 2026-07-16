@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.165.232.107","deploy.itginc.com","VIRTU FINANCIAL LLC","US","New York","New York","deploy.itginc.com|nuget.deploy.itginc.com","","false"
 "18.165.232.106","*.jhjung.xyz","","","","","*.jhjung.xyz|jhjung.xyz","","false"
 "18.165.232.100","classic.dm.amplience.net","Amplience (UK) Limited","GB","London","","classic.dm.amplience.net|akamai.edge.classic.dm.amplience.net|cloudflare.edge.classic.dm.amplience.net|cloudfront.edge.classic.dm.amplience.net|classic.cdn.media.amplience.net|i1.adis.ws|i1a.adis.ws|i1b.adis.ws|i1c.adis.ws|media.newlookassets.com|media1.newlookassets.com|media2.newlookassets.com|media3.newlookassets.com","","false"

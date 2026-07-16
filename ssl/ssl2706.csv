@@ -10,6 +10,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.28.147.110","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-02.us-east-1.es.amazonaws.com","","false"
 "100.28.147.119","*.hms.hosp.us1.mdev.inforcloudsuite.com","","","","","*.hms.hosp.us1.mdev.inforcloudsuite.com","","false"
 "100.28.147.120","*.crunch.com","","","","","*.crunch.com|crunch.com","","false"
