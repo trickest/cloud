@@ -82,6 +82,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.224.215.138","34.134.177.208","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.134.177.208|10.43.240.1|35.239.238.227|35.224.215.138|34.122.123.230|10.128.0.11","false"
 "35.224.215.140","aiplatform.googleapis.com","Google LLC","US","Sunnyvale","CA","","","true"
 "35.224.215.142","35.224.215.142","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.224.215.142|34.118.224.1|10.128.0.11|35.192.178.67","false"

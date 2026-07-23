@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.164.238.105","*.offerup-stg.com","","","","","*.offerup-stg.com","","false"
 "3.164.238.131","gcloud.game.actozsg.com","","","","","gcloud.game.actozsg.com","","false"
 "3.164.238.124","pinning.secb2b.com","Samsung Electronics","KR","Suwon","Kyungkido","pinning.secb2b.com","","false"

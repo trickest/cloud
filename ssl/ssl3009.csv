@@ -78,6 +78,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.49.112.243","www.example.com","CompanyName","US","Earth","NRW","","","true"
 "34.49.112.248","a8r.snyf.io","","","","","a8r.snyf.io","","false"
 "34.49.112.214","non-binding.poppankki.net","","","","","non-binding.poppankki.net","","false"

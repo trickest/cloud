@@ -29,6 +29,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.66.126.98","*.engineeringstaging.api.fluentretail.com","","","","","*.engineeringstaging.api.fluentretail.com|engineeringstaging.api.fluentretail.com|engineeringstaging.orchestration.fluentretail.com|*.engineeringstaging.servicepoint.fluentretail.com|*.engineeringstaging.orchestration.fluentretail.com|*.engineeringstaging.console.fluentretail.com|*.engineeringstaging.connect.fluentretail.com|engineeringstaging.console.fluentretail.com|engineeringstaging.servicepoint.fluentretail.com|engineeringstaging.connect.fluentretail.com","","false"
 "18.66.126.130","*.srv.ygles-test.com","CANON INC.","JP","Ota-Ku","Tokyo","*.srv.ygles-test.com","","false"
 "18.66.126.121","*.execute-api.ap-south-2.amazonaws.com","","","","","*.execute-api.ap-south-2.amazonaws.com","","false"

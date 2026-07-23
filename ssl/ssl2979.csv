@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.226.92.80","dl.amazon.com","","","","","dl.amazon.com|dl.amazon.com.br|origin-dl.amazon.com.co|origin-dl.amazon.com.mx|origin-dl.amazon.cl|dl.amazon.cl|origin-dl.amazon.ca|dl.amazon.ca|dl.amazon.com.mx|dl.amazon.com.co|origin-dl.amazon.com.br|origin-dl.amazon.com","","false"
 "13.226.93.6","*.sigalert.com","","","","","*.sigalert.com","","false"
 "13.226.92.107","*.corp.test.rhinternal.net","","","","","*.corp.test.rhinternal.net|*.test.rhinternal.net","","false"

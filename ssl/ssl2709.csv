@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.29.147.170","plurall.net","","","","","plurall.net|*.plurall.net","","false"
 "100.29.147.172","kube-apiserver","","","","","841d468028c1be6c80fbeb1273fbddd6.gr7.us-east-1.eks.amazonaws.com|ip-172-16-178-141.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|100.66.19.168|172.16.178.141","false"
 "100.29.147.177","kube-apiserver","","","","","bfe951e7c876c936ab8ef41612aefb36.gr7.us-east-1.eks.amazonaws.com|ip-172-16-179-233.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.200.4.216|172.16.179.233","false"

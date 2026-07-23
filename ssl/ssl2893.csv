@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.174.102.83","*.agora.io","","","","","*.agora.io|agora.io","","false"
 "3.174.102.82","*.secure.coro.net","","","","","*.secure.coro.net","","false"
 "3.174.102.55","data-inspector.fintech.amazon.dev","","","","","data-inspector.fintech.amazon.dev","","false"

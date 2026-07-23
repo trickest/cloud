@@ -84,6 +84,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.186.254.206","*.rmp.rakuten.co.jp","Rakuten Group, Inc.","JP","Setagaya-ku","Tokyo","*.rmp.rakuten.co.jp|rmp.rakuten.co.jp","","false"
 "35.186.255.173","*.fresh8.co","Sportradar AG","CH","St.Gallen","","*.fresh8.co|fresh8.co","","false"
 "35.186.254.120","status.build.kyma-project.io","","","","","status.build.kyma-project.io","","false"

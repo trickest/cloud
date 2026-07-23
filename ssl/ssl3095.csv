@@ -78,6 +78,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.83.81.145","34.127.39.235","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.127.39.235|34.118.224.1|10.49.168.2|34.83.81.145|34.127.8.240|34.145.18.196","false"
 "34.83.81.149","immortal.art","","","","","immortal.art|www.immortal.art","","false"
 "34.83.81.153","34.82.206.84","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.82.206.84|10.14.0.1|34.83.81.153|104.199.121.129|34.168.96.115|10.12.0.2","false"

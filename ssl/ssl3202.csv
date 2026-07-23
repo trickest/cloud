@@ -84,6 +84,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.186.227.170","chapter-promo-landing-pages-react.gcp.stage.mychapter.com","","","","","chapter-promo-landing-pages-react.gcp.stage.mychapter.com","","false"
 "35.186.228.75","*.sfu.staging.tandem.chat","","","","","*.sfu.staging.tandem.chat|sfu.staging.tandem.chat","","false"
 "35.186.232.37","zabbix-gcp.app.crispthinking.com","","","","","zabbix-gcp.app.crispthinking.com","","false"

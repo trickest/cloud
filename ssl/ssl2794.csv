@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.33.23.227","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "13.33.24.139","*.file.samsungcloud.com","SAMSUNG ELECTRONICS CO,.LTD","KR","","Gyeonggi-do","*.file.samsungcloud.com|file.samsungcloud.com","","false"
 "13.33.23.221","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"

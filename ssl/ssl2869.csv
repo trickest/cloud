@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.84.234.143","*.offerup-stg.com","","","","","*.offerup-stg.com","","false"
 "52.84.234.157","*.gaana.com","Bennett Coleman and Company Limited","IN","Mumbai","Maharashtra","*.gaana.com","","false"
 "52.84.234.144","*.cloudfrontdemo.com","Amazon.com Inc.","US","Seattle","Washington","*.cloudfrontdemo.com|cloudfrontdemo.com","","false"

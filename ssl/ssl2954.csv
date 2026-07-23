@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.197.2.56","*.slms.splunkcloud.com","Splunk LLC","US","San Francisco","California","*.slms.splunkcloud.com|slms.splunkcloud.com|*.pvt.slms.splunkcloud.com|http-inputs-slms.splunkcloud.com|*.http-inputs-slms.splunkcloud.com|akamai-inputs-slms.splunkcloud.com|*.akamai-inputs-slms.splunkcloud.com|http-inputs-ack-slms.splunkcloud.com|*.http-inputs-ack-slms.splunkcloud.com|http-inputs-firehose-slms.splunkcloud.com|*.http-inputs-firehose-slms.splunkcloud.com|es-slms.splunkcloud.com|*.es-slms.splunkcloud.com|pvt.slms.splunkcloud.com","","false"
 "52.197.2.65","hasiov11.ext.hitachiastemo.com","","","","","hasiov11.ext.hitachiastemo.com","","false"
 "52.197.2.72","ip-192-168-100-12.ap-northeast-1.compute.internal","Unspecified","US","","","ip-192-168-100-12.ap-northeast-1.compute.internal","","false"

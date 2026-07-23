@@ -78,6 +78,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.96.115.30","adl.infinipoint.io","","","","","adl.infinipoint.io","","false"
 "34.96.116.127","ppo.southwire.com","","","","","ppo.southwire.com|www.ppo.southwire.com","","false"
 "34.96.115.103","ais-careplus.bolttech.co.th","","","","","ais-careplus.bolttech.co.th","","false"

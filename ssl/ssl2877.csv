@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.172.54.211","data-fe.amazon.com","","","","","data-fe.amazon.com|data.amazon.co.id|data.amazon.sg|data.amazon.co.jp|data.amazon.co.th|origin-data-fe.amazon.com|data.amazon.com.au","","false"
 "18.172.54.204","*.findawayworld.com","","","","","*.findawayworld.com","","false"
 "18.172.54.203","*.adda247.com","","","","","*.adda247.com","","false"

@@ -79,6 +79,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.35.158.137","*.samsungknox.com","Samsung Electronics Co., Ltd.","KR","","Gyeonggi","*.samsungknox.com|samsungknox.com","","false"
 "13.35.158.131","r0.awsstatic.com","","","","","r0.awsstatic.com","","false"
 "13.35.158.145","more.londonhasfallen.com","","","","","more.londonhasfallen.com","","false"

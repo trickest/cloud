@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.156.20.79","test-files.bbystatic.com","Best Buy Co., Inc.","US","Richfield","Minnesota","test-files.bbystatic.com","","false"
 "108.156.20.173","ve.m.conf.uw.docomo.ne.jp","NTT DOCOMO.INC","JP","Chiyoda-ku","Tokyo","ve.m.conf.uw.docomo.ne.jp","","false"
 "108.156.20.109","*.eufylife.com","","","","","*.eufylife.com|eufylife.com","","false"

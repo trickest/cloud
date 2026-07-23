@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.198.88.88","internal.firewall.route53resolver.ap-northeast-1.amazonaws.com","","","","","internal.firewall.route53resolver.ap-northeast-1.amazonaws.com","","false"
 "52.198.88.90","pfacn1016.cym.myquick.net","","","","","pfacn1016.cym.myquick.net","","false"
 "52.198.88.93","*.dsclinic-skin.com","","","","","*.dsclinic-skin.com|dsclinic-skin.com","","false"

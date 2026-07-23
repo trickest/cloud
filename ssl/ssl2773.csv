@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.245.98.108","mackmountaininsurance.com","","","","","mackmountaininsurance.com|*.mackmountaininsurance.com","","false"
 "18.245.98.43","*.auth.airmiles.ca","","","","","*.auth.airmiles.ca|auth.airmiles.ca","","false"
 "18.245.98.116","dns.test.cloudfront.saurabhbindal.com","","","","","dns.test.cloudfront.saurabhbindal.com","","false"

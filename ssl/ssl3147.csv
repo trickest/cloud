@@ -82,6 +82,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.29.81.150","*.cluster-sdzmblpk4zc4cshe7yqkyy7o2s.cloudworkstations.dev","","","","","*.cluster-sdzmblpk4zc4cshe7yqkyy7o2s.cloudworkstations.dev","","false"
 "34.29.81.80","34.71.184.24","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.71.184.24|34.118.224.1|10.128.0.2|34.16.47.127|34.29.81.80|35.193.36.52","false"
 "34.29.81.160","megabingobrasil.com.br","","","","","api.megabingobrasil.com.br|megabingobrasil.com.br|www.megabingobrasil.com.br","","false"

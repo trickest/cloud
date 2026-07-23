@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.85.16.191","*.churchofjesuschrist.org","","","","","*.churchofjesuschrist.org","","false"
 "52.85.16.192","*.sonicwall.com","","","","","*.sonicwall.com|sonicwall.com","","false"
 "52.85.16.199","*.alphapolis.co.jp","AlphaPolis Co.,Ltd.","JP","SHIBUYA-KU","TOKYO","*.alphapolis.co.jp|alphapolis.co.jp","","false"

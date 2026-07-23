@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.51.58.197","kube-apiserver","","","","","dc0ee88f6a88d61f1830f9f294ef6d01.gr7.us-east-1.eks.amazonaws.com|ip-172-16-108-68.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.205.13.10|172.16.108.68","false"
 "100.51.58.205","*.dev.nrtc.coop","","","","","*.dev.nrtc.coop","","false"
 "100.51.58.209","*.transperfect.com","TransPerfect Translations International Inc.","US","New York","New York","*.transperfect.com|transperfect.com","","false"

@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.29.215.160","auth.staging.thingspace.verizon.com","Verizon Data Services LLC","US","Temple Terrace","Florida","auth.staging.thingspace.verizon.com|auth.dev.thingspace.verizon.com|auth.preprod.thingspace.verizon.com|auth.devint.thingspace.verizon.com|ts-nginxinitproxy-auth-dev-us-east-1.thingspace.verizon.com|ts-nginxinitproxy-auth-dev-us-west-2.thingspace.verizon.com|ts-nginxinitproxy-auth-qa-us-east-1.thingspace.verizon.com|ts-nginxinitproxy-auth-qa-us-west-2.thingspace.verizon.com|ts-nginxinitproxy-auth-staging-us-east-1.thingspace.verizon.com|ts-nginxinitproxy-auth-staging-us-west-2.thingspace.verizon.com|tsdevint-nginxinitproxy-auth-dev-us-east-1.thingspace.verizon.com|tsdevint-nginxinitproxy-auth-dev-us-west-2.thingspace.verizon.com","","false"
 "100.29.215.163","api.surecare.ai","","","","","api.surecare.ai","","false"
 "100.29.215.166","*.onretea.com","","","","","*.onretea.com|onretea.com","","false"

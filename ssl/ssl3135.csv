@@ -79,6 +79,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.35.242.228","www.amazon.com","","","","","amazon.com|amzn.com|uedata.amazon.com|us.amazon.com|www.amazon.com|www.amzn.com|corporate.amazon.com|buybox.amazon.com|iphone.amazon.com|yp.amazon.com|home.amazon.com|origin-www.amazon.com|buckeye-retail-website.amazon.com|huddles.amazon.com|p-nt-www-amazon-com-kalias.amazon.com|p-yo-www-amazon-com-kalias.amazon.com|p-y3-www-amazon-com-kalias.amazon.com|yellowpages.amazon.com|www.m.amazon.com|www.cdn.amazon.com|test-www.amazon.com|mp3recs.amazon.com|konrad-test.amazon.com","","false"
 "13.35.245.15","wsassets-prod-iad.amazonworkspaces.com","Amazon.com, Inc.","US","Seattle","Washington","wsassets-prod-iad.amazonworkspaces.com","","false"
 "13.35.243.72","*.hfblcj.com","","","","","*.hfblcj.com","","false"

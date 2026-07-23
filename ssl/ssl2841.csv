@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.50.164.43","*.sentra.services","","","","","*.sentra.services","","false"
 "100.50.164.47","hugprodhost.com","","","","","hugprodhost.com|*.hugprodhost.com","","false"
 "100.50.164.52","sandbox.zusapi.com","Zus Health, Inc.","US","Boston","Massachusetts","sandbox.zusapi.com|*.sandbox.zusapi.com","","false"

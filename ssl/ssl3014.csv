@@ -78,6 +78,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.98.76.1","api.endgame.io","","","","","api.endgame.io","","false"
 "34.98.76.14","shared-gate-1658562582-dut-20.e2e.p.beyondcorp.us","","","","","shared-gate-1658562582-dut-20.e2e.p.beyondcorp.us","","false"
 "34.98.76.13","dev-env.casiax.io","","","","","dev-env.casiax.io","","false"

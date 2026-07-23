@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.29.77.84","kube-apiserver","","","","","d63eef529a7786442690181e60e0f535.gr7.us-east-1.eks.amazonaws.com|ip-172-16-54-25.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.40.0.151|172.16.54.25","false"
 "100.29.77.87","kube-apiserver","","","","","035834750d6467feeb64afe3e4b50d12.gr7.us-east-1.eks.amazonaws.com|ip-10-0-37-49.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.17.42.66|10.0.37.49","false"
 "100.29.77.98","*.wsp-fips.gamma.us-east-1.highlander.aws.a2z.com","","","","","*.wsp-fips.gamma.us-east-1.highlander.aws.a2z.com","","false"

@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.239.132.56","*.corp-mea.build.rhinternal.net","","","","","*.corp-mea.build.rhinternal.net|*.build.rhinternal.net","","false"
 "54.239.132.66","*.cl.services.carglass.es","","","","","*.cl.services.carglass.es","","false"
 "54.239.132.93","cdn.gotraffic.net","Bloomberg L.P.","US","New York","New York","cdn.gotraffic.net","","false"

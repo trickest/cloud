@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.169.235.68","*.lottedfs.com","","","","","*.lottedfs.com|m.tcn.lps.lottedfs.com|*.m.jpn.lottedfs.com|*.vnm.lottedfs.com|*.m.chn.lottedfs.cn|m.jpn.lps.lottedfs.com|*.lottedfs.cn|*.tcn.lottedfs.com|*.chn.lottedfs.com|*.m.chn.lottedfs.com|*.jpn.lottedfs.com|*.m.kor.lottedfs.com|m.chn.lps.lottedfs.cn|m.eng.lps.lottedfs.com|chn.lps.lottedfs.cn|*.eng.lottedfs.com|m.kor.lps.lottedfs.com|*.kor.lottedfs.com|*.lps.lottedfs.com|*.chn.lottedfs.cn|*.m.tcn.lottedfs.com|m.vnm.lps.lottedfs.com|*.m.vnm.lottedfs.com|m.chn.lps.lottedfs.com|*.m.eng.lottedfs.com","","false"
 "3.169.235.73","*.dmm.co.jp","DMM.com LLC","JP","Minato-ku","Tokyo","*.dmm.co.jp|dmm.co.jp","","false"
 "3.169.235.72","update.synology.com","","","","","update.synology.com|www.update.synology.com","","false"

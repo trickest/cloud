@@ -82,6 +82,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.230.158.75","34.105.182.73","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.105.182.73|10.16.128.1|10.16.64.2|34.147.235.126|35.230.158.75|34.147.202.135","false"
 "35.230.158.3","blog.roomforrent.rent","","","","","blog.roomforrent.rent","","false"
 "35.230.158.40","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

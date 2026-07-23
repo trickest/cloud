@@ -11,6 +11,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.174.38.18","alexa.amazon.co.jp","","","","","alexa.amazon.co.jp|guipitan.amazon.co.jp|alexa.amazon.com.au|guipitan.amazon.com.au|alexa-jp.amazon.com|fe-api-alexa.amazon.ca|fe-api-alexa.amazon.co.jp|fe-api-alexa.amazon.co.uk|fe-api-alexa.amazon.com|fe-api-alexa.amazon.com.au|fe-api-alexa.amazon.com.br|fe-api-alexa.amazon.com.mx|fe-api-alexa.amazon.de|fe-api-alexa.amazon.es|fe-api-alexa.amazon.fr|fe-api-alexa.amazon.in|fe-api-alexa.amazon.it|fe-api-alexa.amazon.nl|test-h2-fe.amazon.com|origin-alexa.amazon.co.jp","","false"
 "3.174.38.28","hop-apl-stg.heiwado.jp","HEIWADO CO.,LTD.","JP","Hikone-shi","Shiga","hop-apl-stg.heiwado.jp","","false"
 "3.174.38.36","*.auth.airmiles.ca","","","","","*.auth.airmiles.ca|auth.airmiles.ca","","false"
