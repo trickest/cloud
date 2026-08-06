@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.138.99.108","mfdhelp.fujifilm.com","FUJIFILM Business Innovation Corp.","JP","Minato-ku","Tokyo","mfdhelp.fujifilm.com","","false"
 "108.138.99.13","pp.s3.ringcentral.com","","","","","pp.s3.ringcentral.com|www.pp.s3.ringcentral.com","","false"
 "108.138.99.66","*.zurple.com","","","","","*.zurple.com|zurple.com","","false"

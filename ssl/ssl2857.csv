@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.84.142.217","*.alicdn.com","阿里巴巴（中国）网络技术有限公司","CN","杭州市","浙江省","*.alicdn.com|alicdn.com","","false"
 "99.84.146.14","*.stg.pbxx.io","","","","","*.stg.pbxx.io|*.qa.pbxx.io|*.uat.pbxx.io|*.staging.pbxx.io|*.test.pbxx.io","","false"
 "99.84.146.10","*.eu-west-2.cf-embed.net","","","","","*.eu-west-2.cf-embed.net","","false"

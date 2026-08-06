@@ -85,6 +85,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.183.89.243","*.fmphost.com","","","","","*.fmphost.com|fmphost.com","","false"
 "35.183.89.241","wss.data.iotsmarthome.ca-central-1.amazonaws.com","","","","","wss.data.iotsmarthome.ca-central-1.amazonaws.com","","false"
 "35.183.89.238","cell0.yul.prod.enrichment.capstone.ai.aws.dev","","","","","cell0.yul.prod.enrichment.capstone.ai.aws.dev","","false"

@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.49.133.82","*.fairweathersite.com","","","","","*.fairweathersite.com|fairweathersite.com","","false"
 "100.49.133.94","*.845415031233.gateway.rtbfabric.us-east-1.amazonaws.com","","","","","*.845415031233.gateway.rtbfabric.us-east-1.amazonaws.com|*.845415031233.us-east-1.dataplane.rtb.mpofxdevmu.aws.dev","","false"
 "100.49.133.93","apoia.com.br","","","","","apoia.com.br|*.apoia.com.br|*.staging.apoia.com.br|staging.apoia.com.br|*.integration.apoia.com.br|integration.apoia.com.br","","false"

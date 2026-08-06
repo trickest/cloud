@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.175.117.79","*.s3-turbo.amazonaws.com","","","","","*.s3-turbo.amazonaws.com|s3-turbo.amazonaws.com|*.cf-ofp-us-east-1e.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1f.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1a.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1d.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1.s3-turbo.amazonaws.com|*.cf-ofp-ap-southeast-3.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1b.s3-turbo.amazonaws.com|*.cf-ofp-us-east-1c.s3-turbo.amazonaws.com|*.s3-turbo.dualstack.amazonaws.com|s3-turbo.dualstack.amazonaws.com","","false"
 "3.175.117.105","data.plus.bandainamcoid.com","","","","","data.plus.bandainamcoid.com","","false"
 "3.175.117.103","sentinel-test-1.amazon.com","","","","","sentinel-test-1.amazon.com","","false"

@@ -79,6 +79,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.195.205.159","victoriafallswcpr.com","","","","","victoriafallswcpr.com|www.victoriafallswcpr.com","","false"
 "35.195.202.171","uc00014.avaya-cloud-support.com","","","","","uc00014.avaya-cloud-support.com","","false"
 "35.195.205.169","35.240.91.170","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.240.91.170|34.118.224.1|10.42.158.2|35.205.21.86|35.195.205.169|104.199.93.75","false"

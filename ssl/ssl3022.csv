@@ -79,6 +79,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.44.21.74","irisb-latest.env-a72a3647.gcp.gitlabsandbox.net","","","","","irisb-latest.env-a72a3647.gcp.gitlabsandbox.net","","false"
 "34.44.21.60","34.41.225.47","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.41.225.47|34.118.224.1|10.128.0.3|34.170.15.231|34.171.250.114|34.44.21.60","false"
 "34.44.21.53","example.com","","","","","example.com|www.example.com","127.0.0.1","true"

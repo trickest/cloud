@@ -85,6 +85,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.182.187.121","prod.milkmoovement.io","","","","","prod.milkmoovement.io|*.milkmoovement.io|milkmoovement.io|*.prod.milkmoovement.io","","false"
 "35.182.187.120","automotivegpt.ai","","","","","automotivegpt.ai","","false"
 "35.182.187.127","*.smartsimpleqa.com","","","","","*.smartsimpleqa.com|smartsimpleqa.com","","false"

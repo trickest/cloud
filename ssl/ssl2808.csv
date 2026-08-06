@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.164.182.64","*.k1b.stg.au-market.com","KDDI CORPORATION","JP","Minato-ku","Tokyo","*.k1b.stg.au-market.com|k1b.stg.au-market.com","","false"
 "18.164.182.106","modem-fwota.keyforbusiness.a2z.com","","","","","modem-fwota.keyforbusiness.a2z.com","","false"
 "18.164.182.116","www.dxpstatic.com","","","","","cdn-eu.brcdn.com|cdn.brcdn.com|cdn.brsrvr.com|dxpstatic.com|www.dxpstatic.com","","false"

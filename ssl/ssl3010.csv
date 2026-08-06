@@ -79,6 +79,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.49.147.6","restauraciontajoaranjuez.es","","","","","restauraciontajoaranjuez.es|www.restauraciontajoaranjuez.es","","false"
 "34.49.147.0","noc.documentation.adani.digital","","","","","noc.documentation.adani.digital","","false"
 "34.49.144.136","CloudFlare Origin Certificate","CloudFlare, Inc.","","","","*.paragon.pryon.net","","false"

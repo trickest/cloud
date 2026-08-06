@@ -79,6 +79,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.189.136.152","35.243.109.67","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.243.109.67|34.118.224.1|35.189.136.152|34.146.17.35|35.200.81.83|10.146.0.19","false"
 "35.189.136.149","*.telforce.biz","Widsley inc.","JP","Shibuya-ku","Tokyo","*.telforce.biz|telforce.biz","","false"
 "35.189.136.186","test.momokapan.tk","","","","","test.momokapan.tk","","false"

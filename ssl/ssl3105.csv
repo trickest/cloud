@@ -79,6 +79,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.193.166.127","104.197.217.32","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","104.197.217.32|10.102.0.1|35.188.83.70|35.193.166.127|34.71.166.72|10.128.0.110","false"
 "35.193.166.138","34.170.36.57","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local|aa3d2fd5646448a8ab2b.us-central1-c.cloud-gke.goog","34.170.36.57|10.8.0.1|35.193.166.138|34.173.19.105|10.128.0.68","false"
 "35.193.166.137","blog.glass.health","","","","","blog.glass.health","","false"

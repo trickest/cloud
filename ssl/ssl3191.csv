@@ -85,6 +85,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.88.159.4","www.rehansa.fi","","","","","www.rehansa.fi","","false"
 "34.88.159.14","main-rsa","Bogus","US","","MA","","","false"
 "34.88.159.22","*.hel4.wp-cloud.dev","","","","","*.hel4.wp-cloud.dev|*.staging.hel4.wp-cloud.dev","","false"

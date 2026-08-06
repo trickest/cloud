@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "99.84.15.89","ve.m.conf.uw.docomo.ne.jp","NTT DOCOMO.INC","JP","Chiyoda-ku","Tokyo","ve.m.conf.uw.docomo.ne.jp","","false"
 "99.84.15.143","*.cnevids.com","Sabin, Bermant & Gould LLP","US","New York","NY","*.cnevids.com|cnevids.com","","false"
 "99.84.15.121","stage-pinning-02.secb2b.com","Samsung Electronics","KR","Suwon","Kyungkido","stage-pinning-02.secb2b.com","","false"

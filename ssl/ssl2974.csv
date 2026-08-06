@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.225.165.55","static.savemkt.com","","","","","static.savemkt.com","","false"
 "13.225.165.93","c.amazon-adsystem.com","","","","","c.amazon-adsystem.com","","false"
 "13.225.165.86","*.diceplatform.com","","","","","*.diceplatform.com|diceplatform.com","","false"

@@ -12,6 +12,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.138.15.82","*.xumo.com","Comcast Corporation","US","","Pennsylvania","*.xumo.com|*.cdn.xumo.com|*.video.xumo.com|cdn.xumo.com|video.xumo.com|xumo.com","","false"
 "108.138.15.217","*.theta360.biz","","","","","*.theta360.biz|theta360.biz","","false"
 "108.138.15.25","cuentafan.bancochile.cl","Banco de Chile","CL","Santiago","","cuentafan.bancochile.cl","","false"

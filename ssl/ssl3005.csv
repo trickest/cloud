@@ -79,6 +79,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.93.211.145","34.47.131.219","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.47.131.219|10.19.0.1|34.100.247.133|34.100.190.76|34.93.211.145|10.128.0.5","false"
 "34.93.211.153","*.honasa-production.net","","","","","*.honasa-production.net|honasa-production.net","","false"
 "34.93.211.159","*.smartshipweb.com","","","","","*.smartshipweb.com|smartshipweb.com","","false"
