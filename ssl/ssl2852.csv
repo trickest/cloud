@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.164.210.180","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "3.164.211.32","*.promoboxx.com","","","","","*.promoboxx.com","","false"
 "3.164.211.35","*.smbs.pro","","","","","*.smbs.pro|mobyt.fr|smsenvoi.com|*.smsup.es|*.smsenvoi.com|smsup.com|*.mobyt.fr|smsup.es|*.smsup.com|smbs.pro","","false"

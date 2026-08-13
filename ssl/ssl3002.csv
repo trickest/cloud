@@ -80,6 +80,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.73.229.192","35.227.46.224","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.227.46.224|34.118.224.1|10.0.1.4|34.148.228.13|35.237.156.155|34.73.229.192","false"
 "34.73.229.193","ccc.elcoma.com.br","","","","","ccc.elcoma.com.br","","false"
 "34.73.229.196","*.eng.cybereason.net","Cybereason","US","","","*.cybereason.net","","false"

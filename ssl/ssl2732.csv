@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.167.248.109","media.lysi.co","","","","","media.lysi.co","","false"
 "3.167.248.87","*.thetvdb.com","","","","","*.thetvdb.com|*.beta.thetvdb.com|thetvdb.com|*.prod.thetvdb.com","","false"
 "3.167.248.114","*.geocomply.com","","","","","*.geocomply.com|geocomply.com","","false"

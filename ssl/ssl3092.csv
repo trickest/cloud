@@ -80,6 +80,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.82.136.205","app1.gleantap.com","","","","","app1.gleantap.com|app2.gleantap.com","","false"
 "34.82.136.212","*.s.n.srv.nintendo.net","Nintendo Co., Ltd.","JP","Kyoto","Kyoto","*.s.n.srv.nintendo.net","","false"
 "34.82.136.226","34.82.136.226","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.82.136.226|10.97.0.1|172.18.0.2","false"

@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.168.3.5","www.amazon.co.jp","","","","","www.amazon.co.jp|p-y3-www-amazon-co-jp-kalias.amazon.co.jp|origin-www.amazon.co.jp|amazon.jp|p-yo-www-amazon-co-jp-kalias.amazon.co.jp|amazon.co.jp|p-nt-www-amazon-co-jp-kalias.amazon.co.jp|www.amazon.jp","","false"
 "3.168.0.125","ppe-pos-customer.lotuss.com","Ek-Chai Distribution System Co., Ltd.","TH","Bueng Kum","Bangkok","ppe-pos-customer.lotuss.com|www.ppe-pos-customer.lotuss.com","","false"
 "3.168.0.16","*.awstennessee.com","","","","","*.awstennessee.com","","false"

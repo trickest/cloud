@@ -31,6 +31,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.66.98.33","*.vyloy.com","Astellas US LLC","US","Northbrook","Illinois","*.vyloy.com|vyloy.com|*.vyloyhcp.com|vyloyhcp.com|*.vyloy.de|vyloy.de|*.vyloy.com.br|vyloy.com.br","","false"
 "18.66.98.78","*.collectivehealth.com","","","","","*.collectivehealth.com|collectivehealth.com","","false"
 "18.66.98.35","*.dmp.tconnect.jp","TOYOTA MOTOR CORPORATION","JP","Toyota-Shi","Aichi","*.dmp.tconnect.jp|dmp.tconnect.jp","","false"

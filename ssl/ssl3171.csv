@@ -84,6 +84,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.224.102.132","34.133.217.192","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.133.217.192|10.0.0.1|34.28.55.249|35.224.102.132|34.72.128.76|10.128.0.73","false"
 "35.224.102.137","astra.datastax.com","","","","","*.apps.astra.datastax.com|*.astra.datastax.com|*.dashboard.astra.datastax.com|*.db.astra.datastax.com|*.studio.astra.datastax.com|*.sysdash.astra.datastax.com|astra.datastax.com","","false"
 "35.224.102.142","35.224.102.142","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.224.102.142|10.16.0.1|104.155.132.147|34.41.68.56|34.136.132.109|10.128.0.2","false"

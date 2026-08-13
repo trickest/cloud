@@ -81,6 +81,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.35.183.22","*.cloudfront.net","","","","","cloudfront.net|*.cloudfront.net","","false"
 "13.35.182.218","www.abc-mart.net","ABC-MART,INC.","JP","SHIBUYA-KU","TOKYO","www.abc-mart.net|abc-mart.net","","false"
 "13.35.183.46","*.cloudfront.net","","","","","cloudfront.net|*.cloudfront.net","","false"

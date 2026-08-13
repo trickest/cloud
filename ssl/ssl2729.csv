@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.167.153.75","*.adventureacademy.com","","","","","*.adventureacademy.com|adventureacademy.com","","false"
 "3.167.153.92","*.smartrecruiters.com","","","","","*.smartrecruiters.com|smartrecruiters.com","","false"
 "3.167.153.82","servicepoint.fluentretail.com","","","","","servicepoint.fluentretail.com|*.servicepoint.fluentretail.com|*.test.servicepoint.fluentretail.com|staging.servicepoint.fluentretail.com|test.servicepoint.fluentretail.com|dev.servicepoint.fluentretail.com|*.dev.servicepoint.fluentretail.com|*.staging.servicepoint.fluentretail.com|sandbox.servicepoint.fluentretail.com|*.sandbox.servicepoint.fluentretail.com","","false"

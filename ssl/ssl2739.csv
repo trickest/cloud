@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.156.163.254","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
 "108.156.163.220","*.shorttv.live","","","","","*.shorttv.live|*.shortmax.com|*.shortmax.app|*.shorttv.app","","false"
 "108.156.164.52","webcast.sans.org","","","","","webcast.sans.org","","false"

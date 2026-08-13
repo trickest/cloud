@@ -84,6 +84,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.228.70.118","35.228.70.118","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.228.70.118|10.100.128.1|34.88.244.217|35.228.23.216|34.88.254.109|172.16.0.2","false"
 "35.228.70.120","pliance.io","","","","","*.pliance.io|*.screening.pliance.io|*.screening2.pliance.io|*.tms.pliance.io|pliance.io","","false"
 "35.228.70.112","notecrow.com","Notecrow","FI","","Some-State","","","true"

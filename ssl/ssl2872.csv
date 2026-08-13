@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.85.89.15","*.neustar.biz","","","","","*.neustar.biz|neustar.biz","","false"
 "52.85.89.81","tbkcreative.com","","","","","tbkcreative.com|*.tbkcreative.com","","false"
 "52.85.89.29","*.segment.build","","","","","segment.build|*.segment.build","","false"

@@ -80,6 +80,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.31.33.119","34.31.33.119","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.31.33.119|34.118.224.1|10.128.0.52|34.42.105.33","false"
 "34.31.33.123","latamsoft.com.ar","","","","","latamsoft.com.ar|www.latamsoft.com.ar","","false"
 "34.31.33.127","34.72.254.32","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.72.254.32|10.4.16.1|34.31.33.127|10.128.15.212","false"

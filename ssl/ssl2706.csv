@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.26.16.160","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"
 "100.26.16.161","*.sroa.com","","","","","*.sroa.com","","false"
 "100.26.16.164","kube-apiserver","","","","","02ca6c08249daf75c5cd03a582720987.gr7.us-east-1.eks.amazonaws.com|ip-172-16-96-56.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.2.1.111|172.16.96.56","false"

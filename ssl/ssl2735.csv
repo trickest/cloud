@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.156.48.180","smooth.epop.cf.eu.aiv-cdn.net","","","","","smooth.epop.cf.eu.aiv-cdn.net|*.smooth.epop.cf.eu.aiv-cdn.net","","false"
 "108.156.48.165","whoosh.virginmedia.com","","","","","whoosh.virginmedia.com","","false"
 "108.156.48.188","wsassets-prod-syd.amazonworkspaces.com","Amazon.com, Inc.","US","Seattle","Washington","wsassets-prod-syd.amazonworkspaces.com","","false"

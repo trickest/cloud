@@ -86,6 +86,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.182.106.114","kube-apiserver","","","","","c4f4b6a59f360ac5cec8a361711d8c6e.sk1.ca-central-1.eks.amazonaws.com|ip-10-0-187-73.ca-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.40.177|10.0.187.73","false"
 "35.182.106.118","roomerator.com","","","","","admin.roomerator.com|roomerator.com","","false"
 "35.182.106.119","get.ca.cbord.com","","","","","get.ca.cbord.com|student.ca.cbord.com|*.student.ca.cbord.com|*.get.ca.cbord.com","","false"

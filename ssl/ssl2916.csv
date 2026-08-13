@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.139.67.225","classic.dm.amplience-qa.net","","","","","classic.dm.amplience-qa.net|akamai.edge.classic.dm.amplience-qa.net|cloudfront.edge.classic.dm.amplience-qa.net|classic.cdn.media.amplience-qa.net|i1-qa.adis.ws","","false"
 "108.139.68.24","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "108.139.67.229","*.dn.nexoncdn.co.kr","","","","","*.dn.nexoncdn.co.kr","","false"

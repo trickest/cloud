@@ -80,6 +80,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.71.96.12","34.71.96.12","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.71.96.12|10.80.0.1|34.122.81.217|35.202.194.46|34.28.48.75|10.128.0.3","false"
 "34.71.96.13","35.238.178.91","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.238.178.91|10.44.0.1|34.68.165.252|34.71.96.13|35.238.204.44|10.128.15.229","false"
 "34.71.96.19","Kubernetes Ingress Controller Fake Certificate","Acme Co","","","","ingress.local","","true"

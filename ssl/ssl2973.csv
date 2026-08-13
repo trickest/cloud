@@ -13,6 +13,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.225.135.171","*.sb.roku.com","Roku, Inc.","US","","","*.sb.roku.com|amarillo.sb.roku.com|austin.sb.roku.com|bowie.sb.roku.com|bryan.sb.roku.com|camden.sb.roku.com|cooper.sb.roku.com|fargo.sb.roku.com|giga.sb.roku.com|gilbert.sb.roku.com|lagrange.sb.roku.com|liberty.sb.roku.com|littlefield.sb.roku.com|longview.sb.roku.com|malone.sb.roku.com|midland.sb.roku.com|paolo.sb.roku.com|reno.sb.roku.com|richmond.sb.roku.com|rollingwood.sb.roku.com|sugarland.sb.roku.com|tyler.sb.roku.com|update.sb.roku.com|victoria.sb.roku.com|windsor.sb.roku.com","","false"
 "13.225.135.155","*.mapfan.com","","","","","*.mapfan.com|mapfan.com","","false"
 "13.225.137.129","adn.wyzant.com","","","","","adn.wyzant.com","","false"
