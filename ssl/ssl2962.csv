@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.199.181.189","yaeyama.co.jp","","","","","yaeyama.co.jp|*.yaeyama.co.jp","","false"
 "52.199.181.182","*.crypto-lab.team","","","","","*.crypto-lab.team|crypto-lab.team","","false"
 "52.199.181.197","kube-apiserver","","","","","dc04716a3c4263966efc7da59950aea1.gr7.ap-northeast-1.eks.amazonaws.com|ip-10-0-37-50.ap-northeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|192.168.182.184|10.0.37.50","false"

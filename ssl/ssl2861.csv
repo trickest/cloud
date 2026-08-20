@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "65.8.51.40","teespring.engineering","","","","","teespring.engineering|*.teespring.engineering","","false"
 "65.8.51.50","*.accelerate-dev1.ehs.dev","","","","","*.accelerate-dev1.ehs.dev|*.accelerate-qa.ehs.dev","","false"
 "65.8.51.39","c.mapfan.com","","","","","c.mapfan.com","","false"

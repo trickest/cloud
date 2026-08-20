@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.157.80.99","*.docebosaas.com","","","","","*.docebosaas.com","","false"
 "108.157.79.222","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "108.157.79.189","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"

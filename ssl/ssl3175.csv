@@ -85,6 +85,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.225.71.251","35.225.71.251","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.225.71.251|34.118.224.1|10.128.0.3|34.45.59.215|34.42.177.91|35.238.81.75","false"
 "35.225.71.253","apicasadecor.com","","","","","apicasadecor.com","","false"
 "35.225.72.29","35.184.202.121","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.184.202.121|10.16.0.1|35.225.72.29|34.42.242.18|34.27.14.120|10.128.15.208","false"

@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.49.5.41","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"
 "100.49.5.43","TRAEFIK DEFAULT CERT","","","","","eabaac18278ee404a636de47efee2e19.1b3468bb12f40b7b7e6909c650a44a75.traefik.default","","true"
 "100.49.5.46","tenetsecurity.io","","","","","tenetsecurity.io|*.tenetsecurity.io","","false"

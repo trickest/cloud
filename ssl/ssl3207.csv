@@ -123,6 +123,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.239.118.187","35.239.118.187","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.239.118.187|10.8.0.1|35.226.73.1|10.128.0.6","false"
 "35.239.118.188","muventanilla.xyz","","","","","muventanilla.xyz|www.muventanilla.xyz","","false"
 "35.239.118.189","35.239.118.189","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.239.118.189|10.28.128.1|34.70.78.141|34.31.76.38|34.41.182.204|192.168.68.18","false"

@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.197.172.142","adobe.io","Adobe Inc.","US","San Jose","California","adobe.io|adobecc.com|*.private.adobe.io|*.adobecc.com|*.mixamo.com|*.files.acrobat.com|oobesaas.adobe.com|*.adobe.io|licenses.adobe.com|*.files.dev.dexilab.acrobat.com|*.adobesc.com|*.acrobat.com|adobesc.com|*.adobecontent.io|*.stage.acrocomcontent.com|*.stage.acrobat.com|*.licenses.adobe.com|adobecontent.io|*.dev.dexilab.acrobat.com|*.acrocomcontent.com|*.infra.private.adobe.io|mixamo.com|*.infra.adobe.io|*.files.stage.acrobat.com|*.oobesaas.adobe.com","","false"
 "52.197.172.151","ip-172-31-17-210.ap-northeast-1.compute.internal","Unspecified","US","","","ip-172-31-17-210.ap-northeast-1.compute.internal","","false"
 "52.197.172.163","*.preview.freee.co.jp","","","","","*.preview.freee.co.jp","","false"

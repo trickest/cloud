@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.166.45.90","views.putter.asapdev.mediba.jp","","","","","views.putter.asapdev.mediba.jp","","false"
 "3.166.45.122","*.mlbstatic.com","","","","","*.mlbstatic.com|mlbstatic.com","","false"
 "3.166.45.138","*.oplign.com","","","","","*.oplign.com","","false"

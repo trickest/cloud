@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.226.140.123","*.test.iot.irobotapi.com","","","","","*.test.iot.irobotapi.com","","false"
 "13.226.140.130","*.koa.or.kr","","","","","*.koa.or.kr","","false"
 "13.226.140.133","*.olcstg.k-aws.jp","","","","","*.olcstg.k-aws.jp","","false"

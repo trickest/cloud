@@ -81,6 +81,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.83.211.25","*.geotab.com","GEOTAB INC.","US","Las Vegas","Nevada","*.geotab.com|geotab.com|*.byspireon.com|byspireon.com|*.transfloeld.com|transfloeld.com|*.geomooveconnectedmobility.com|geomooveconnectedmobility.com|*.telematics.shell.com|telematics.shell.com|*.geotab.ca|geotab.ca|*.fleet.vodafoneautomotive.com|fleet.vodafoneautomotive.com|*.adtmovil.com.mx|adtmovil.com.mx|*.lionbeat.ca|lionbeat.ca|*.EkcoFleet.io|EkcoFleet.io|*.mittaflotaconectada.cl|mittaflotaconectada.cl|*.amcstracking.com|amcstracking.com|*.lytxeld.com|lytxeld.com|*.tecnoflotastelematics.com|tecnoflotastelematics.com","","false"
 "34.83.211.58","fairfieldortho.com","","","","","fairfieldortho.com|www.fairfieldortho.com","","false"
 "34.83.211.69","34.83.229.5","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.83.229.5|10.59.0.1|35.247.99.40|34.83.211.69|35.203.156.0|10.138.0.3","false"

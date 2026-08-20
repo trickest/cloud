@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.171.59.226","*.adtpulseaws.net","","","","","*.adtpulseaws.net|adtpulseaws.net","","false"
 "3.171.59.222","*.truemeds.in","","","","","*.truemeds.in|www.truemeds.in|truemeds.in","","false"
 "3.171.59.228","*.samsungcms.com","Samsung Electronics Co.,Ltd.","KR","Suwon-si","Gyeonggi-do","*.samsungcms.com|samsungcms.com","","false"

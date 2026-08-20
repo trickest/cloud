@@ -81,6 +81,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.71.207.203","34.27.66.251","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.27.66.251|34.118.224.1|10.128.0.2|34.71.207.203|35.202.167.42|34.44.96.237","false"
 "34.71.207.204","34.71.207.204","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.71.207.204|10.27.240.1|35.223.254.195|34.121.157.208|34.121.12.160|10.128.0.45","false"
 "34.71.207.226","api.harmonsearch.com","","","","","api.harmonsearch.com","","false"

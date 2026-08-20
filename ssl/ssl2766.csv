@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.244.66.42","test.libracms.jp","","","","","test.libracms.jp|*.test.libracms.jp","","false"
 "18.244.66.63","cdn.smartpass.auone.jp","","","","","cdn.smartpass.auone.jp","","false"
 "18.244.66.64","client.wc.ue1.app.chime.aws","","","","","client.wc.ue1.app.chime.aws|webclient.app.chime.aws","","false"

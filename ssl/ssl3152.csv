@@ -85,6 +85,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.30.106.208","gc-aggregator-192-168-1-12","guardicore","IL","","","guardicore-k8s-enforcement-server|guardicore-reveal-server|guardicore-enforcement-server-nobalance|guardicore-controller-server-nobalance|guardicore-reveal-server-nobalance|guardicore-deployment-server|guardicore-detection-server-nobalance|guardicore-detection-server|guardicore-enforcement-server|guardicore-k8s-enforcement-server-nobalance|guardicore-controller-server","192.168.1.12|33.22.33.22|34.30.106.208","false"
 "34.30.106.210","34.122.94.41","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.122.94.41|10.233.0.1|2.0.0.2|34.30.106.210|35.202.150.223|34.69.192.111","false"
 "34.30.106.216","34.30.106.216","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.30.106.216|10.7.240.1|34.132.180.233|10.128.0.14","false"

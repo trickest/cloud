@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.227.187.51","ocsp.r2m01.eu.amazontrust.com","","","","","ocsp.r2m01.eu.amazontrust.com|ocsp.e2m01.eu.amazontrust.com|ocsp.e3m01.eu.amazontrust.com","","false"
 "13.227.187.145","*.spd.samsungdm.com","","","","","*.spd.samsungdm.com|spd.samsungdm.com","","false"
 "13.227.187.94","img.clarchive.net","","","","","img.clarchive.net","","false"

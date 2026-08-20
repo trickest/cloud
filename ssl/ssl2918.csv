@@ -14,6 +14,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.139.125.53","awscloud.com","","","","","awscloud.com|www.awscloud.com","","false"
 "108.139.125.54","*.swag.com","","","","","*.swag.com|swag.com","","false"
 "108.139.125.89","*.welcomesoftware.com","","","","","*.welcomesoftware.com|*.newscred.com","","false"
