@@ -82,6 +82,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.196.190.144","oculus2955-us1.dropcam.com","Dropcam","US","","","oculus2955-us1.dropcam.com|nexus-us1.dropcam.com|nexus.dropcam.com","","false"
 "35.196.190.154","35.227.123.178","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.227.123.178|10.100.119.1|35.196.190.154|172.29.128.45","false"
 "35.196.190.180","35.231.196.104","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.231.196.104|10.31.0.1|34.138.212.241|35.196.190.180|34.73.4.71|172.16.11.2","false"

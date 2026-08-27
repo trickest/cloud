@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.84.53.180","autodata-group.com","","","","","autodata-group.com|*.autodata-group.com","","false"
 "52.84.53.182","svgstudio.com","","","","","svgstudio.com|*.svgstudio.com","","false"
 "52.84.53.181","kindle-digital-delivery.amazon.com","","","","","kindle-digital-delivery.amazon.com","","false"

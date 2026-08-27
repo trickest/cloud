@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.103.220.253","apigateway.ap-southeast-6.amazonaws.com","","","","","apigateway.ap-southeast-6.amazonaws.com","","false"
 "3.103.222.1","controlplane.ap-southeast-6.prod.arroyo.identity.aws.dev","","","","","controlplane.ap-southeast-6.prod.arroyo.identity.aws.dev","","false"
 "3.103.222.4","*.execute-api.ap-southeast-6.amazonaws.com","","","","","*.execute-api.ap-southeast-6.amazonaws.com","","false"

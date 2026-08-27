@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.196.81.228","*.minagine.net","","","","","*.minagine.net","","false"
 "52.196.81.243","aifrkw.com","","","","","aifrkw.com|www.aifrkw.com","","false"
 "52.196.81.248","rpa-admin.dova.co.jp","","","","","rpa-admin.dova.co.jp","","false"

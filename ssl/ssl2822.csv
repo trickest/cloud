@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "143.204.32.66","*.dmp.tconnect.jp","TOYOTA MOTOR CORPORATION","JP","Toyota-Shi","Aichi","*.dmp.tconnect.jp|dmp.tconnect.jp","","false"
 "143.204.32.43","*.maplarge.com","","","","","*.maplarge.com|maplarge.com","","false"
 "143.204.32.83","servicepoint.fluentretail.com","","","","","servicepoint.fluentretail.com|*.servicepoint.fluentretail.com|*.test.servicepoint.fluentretail.com|staging.servicepoint.fluentretail.com|test.servicepoint.fluentretail.com|dev.servicepoint.fluentretail.com|*.dev.servicepoint.fluentretail.com|*.staging.servicepoint.fluentretail.com|sandbox.servicepoint.fluentretail.com|*.sandbox.servicepoint.fluentretail.com","","false"

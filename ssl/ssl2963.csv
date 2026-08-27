@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.224.18.126","*.fastretailing.com","FAST RETAILING CO., LTD.","JP","Minato-ku","Tokyo","*.fastretailing.com","","false"
 "13.224.18.123","stage-pinning.secb2b.com","Samsung Electronics","KR","Suwon","Kyungkido","stage-pinning.secb2b.com","","false"
 "13.224.18.120","jwpsrv.com","","","","","jwpsrv.com|*.jwpsrv.com","","false"

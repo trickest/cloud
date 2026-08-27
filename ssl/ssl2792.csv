@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.32.224.171","*.eelsy.myinstance.com","","","","","*.eelsy.myinstance.com","","false"
 "13.32.224.155","*.goshippo.com","","","","","*.goshippo.com|goshippo.com","","false"
 "13.32.224.185","cloudfront.mediamatters.org","","","","","cloudfront.mediamatters.org","","false"

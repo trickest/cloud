@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.227.106.166","www.audible.fr","","","","","www.audible.fr|audible.fr|beta.audible.fr|apx-security-fr.audible.fr|origin-www.audible.fr","","false"
 "13.227.106.169","advertising.amazon.com","","","","","advertising.amazon.com|advertising.amazon.com.co|advertising.amazon.com.mx|advertising.amazon.com.br|advertising.amazon.cl|origin-advertising.amazon.com|www.advertising.amazon.com|advertising.amazon.ca|advertising.amazon.ie","","false"
 "13.227.106.167","*.tger123.com","","","","","*.tger123.com|*.tger1.com|*.gmstar.asia|*.slotsrp.com","","false"

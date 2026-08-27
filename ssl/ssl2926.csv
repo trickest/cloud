@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.168.145.84","*.nrd.netflix.com","Netflix","US","Los Gatos","California","*.nrd.netflix.com","","false"
 "3.168.145.87","*.kaltura.com","","","","","*.kaltura.com","","false"
 "3.168.145.91","idp.test.netflix.net","Netflix","US","Los Gatos","California","idp.test.netflix.net|meechum.test.netflix.net","","false"

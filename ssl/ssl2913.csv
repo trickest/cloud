@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.138.241.49","*.hilabs.com","","","","","*.hilabs.com","","false"
 "108.138.241.45","acm.viaduct-validate-resource-config.com","","","","","acm.viaduct-validate-resource-config.com","","false"
 "108.138.240.228","*.trusteer.com","International Business Machines Corporation","US","Armonk","New York","*.trusteer.com|trusteer.com","","false"

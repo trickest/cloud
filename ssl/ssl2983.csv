@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.227.51.119","edge.disstg.commercecloud.salesforce.com","Salesforce, Inc.","US","San Francisco","California","edge.disstg.commercecloud.salesforce.com|ecdn.disstg.commercecloud.salesforce.com","","false"
 "13.227.51.74","*.fs.com","","","","","*.fs.com|fs.com","","false"
 "13.227.51.118","*.stage.apps.thermofisher.com","Thermo Fisher Scientific Inc.","US","","Massachusetts","*.stage.apps.thermofisher.com","","false"

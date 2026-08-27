@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.245.129.16","*.fbiwpro-s.fujifilm.com","FUJIFILM Business Innovation Corp.","JP","MINATO-KU","TOKYO","*.fbiwpro-s.fujifilm.com|*.fujifilm.com|fbiwpro-s.fujifilm.com","","false"
 "18.245.129.8","v.show","","","","","v.show|*.v.show","","false"
 "18.245.129.10","apex-wildcard.choozen.fr","","","","","apex-wildcard.choozen.fr|choozen.gr|choozen.it|*.choozen.ch|choozen.es|*.choozen.it|*.choozen.gr|choozen.ch|choozen.sk|*.choozen.sk|*.choozen.fr|choozen.se|*.choozen.hu|*.choozen.co.uk|*.choozen.se|*.choozen.pt|*.choozen.dk|choozen.hu|choozen.fr|choozen.fi|*.choozen.pl|choozen.be|*.choozen.ro|choozen.no|choozen.de|*.choozen.nl|choozen.dk|*.choozen.no|*.choozen.de|*.choozen.be|choozen.pt|*.choozen.fi|*.choozen.cz|choozen.nl|choozen.ro|choozen.co.uk|choozen.pl|*.choozen.es|choozen.cz","","false"

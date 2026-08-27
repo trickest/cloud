@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.175.225.22","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "3.175.225.57","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "3.175.225.28","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"

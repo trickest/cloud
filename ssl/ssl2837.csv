@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.50.2.180","dp.ionutmb-mun.personal.guardianlens.security.amazon.dev","","","","","dp.ionutmb-mun.personal.guardianlens.security.amazon.dev|palb.dp.ionutmb-mun.personal.guardianlens.security.amazon.dev|nlb.dp.ionutmb-mun.personal.guardianlens.security.amazon.dev|*.dp.ionutmb-mun.personal.guardianlens.security.amazon.dev","","false"
 "100.50.2.182","*.ohqh9jh9ksjki.us-east-1.cs.amazonlightsail.com","","","","","*.ohqh9jh9ksjki.us-east-1.cs.amazonlightsail.com","","false"
 "100.50.2.183","elephants.com","","","","","elephants.com|*.elephants.com","","false"

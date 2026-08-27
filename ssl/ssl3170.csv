@@ -86,6 +86,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.224.46.135","*.leadzenix.com","","","","","*.leadzenix.com|leadzenix.com","","false"
 "35.224.46.128","35.238.201.160","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.238.201.160|10.16.64.1|35.224.46.128|35.188.204.227|34.121.50.32|10.128.15.195","false"
 "35.224.46.129","34.134.61.231","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.134.61.231|10.16.0.1|10.128.0.90|35.224.46.129|34.123.182.140|34.173.32.21","false"

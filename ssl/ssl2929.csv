@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.168.244.152","*.netdespatch.com","","","","","*.netdespatch.com|*.emea.netdespatch.com","","false"
 "3.168.244.151","*.corp.dev.rhinternal.net","","","","","*.corp.dev.rhinternal.net|*.dev.rhinternal.net","","false"
 "3.168.244.157","acm.viaduct-validate-resource-config.com","","","","","acm.viaduct-validate-resource-config.com","","false"

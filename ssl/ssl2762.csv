@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.159.90.108","*.i-ready.com","","","","","*.i-ready.com","","false"
 "108.159.90.116","*.datadoghq-browser-agent.com","Datadog, Inc.","US","New York","New York","*.datadoghq-browser-agent.com|datadoghq-browser-agent.com","","false"
 "108.159.90.209","*.account.samsung.com","Samsung Electronics Co.,Ltd.","KR","Suwon-si","Gyeonggi-do","*.account.samsung.com|*.samsungosp.com","","false"

@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.157.50.4","*.cnnio.net","","","","","*.cnnio.net|*.cnn.io|*.api.cnn.io|*.api.cnnio.net","","false"
 "108.157.49.228","*.zimbra.com","Zimbra Software, LLC","US","Buffalo","New York","*.zimbra.com|zimbra.com","","false"
 "108.157.49.216","*.us-east-1.live-media.mlssoccer.com","","","","","*.us-east-1.live-media.mlssoccer.com|*.us-west-2.live-media.mlssoccer.com","","false"

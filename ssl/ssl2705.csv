@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.25.187.149","*.legalario.com","","","","","*.legalario.com|legalario.com","","false"
 "100.25.187.152","Plesk","Plesk","CH","Schaffhausen","","","","true"
 "100.25.187.158","*.api.staging.talkful.ai","","","","","*.api.staging.talkful.ai","","false"

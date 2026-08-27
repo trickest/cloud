@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.33.120.89","*.staging.rhinternal.net","","","","","*.staging.rhinternal.net","","false"
 "13.33.120.68","distribution.cloudfront-test.net","Amazon Inc.","US","Seattle","Washington","distribution.cloudfront-test.net","","true"
 "13.33.120.132","*.welcomesoftware.com","","","","","*.welcomesoftware.com|*.newscred.com","","false"

@@ -82,6 +82,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "34.65.181.184","servernest.com","","","","","*.servernest.com|servernest.com","","false"
 "34.65.181.255","34.65.181.255","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.65.181.255|10.44.0.1|34.65.185.252|34.65.185.146|34.65.235.209|10.172.0.36","false"
 "34.65.181.242","34.65.105.123","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","34.65.105.123|10.20.16.1|10.50.0.4|34.65.241.35|34.65.24.83|34.65.181.242","false"

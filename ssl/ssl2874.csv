@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.85.202.48","couragequest.org.au","","","","","couragequest.org.au|*.couragequest.org.au","","false"
 "52.85.202.20","*.53.localytics.com","","","","","*.53.localytics.com","","false"
 "52.85.202.56","*.mapfan.com","","","","","*.mapfan.com|mapfan.com","","false"

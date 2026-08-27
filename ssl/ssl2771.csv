@@ -15,6 +15,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.245.34.126","www.amazon.com.mx","","","","","www.amazon.com.mx|www.amazon.com|p-y3-www-amazon-com-mx-kalias.amazon.com.mx|p-nt-www-amazon-com-mx-kalias.amazon.com.mx|amazon.com.mx|amazon.com|p-yo-www-amazon-com-mx-kalias.amazon.com.mx|origin-www.amazon.com.mx","","false"
 "18.245.33.105","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "18.245.34.125","dev-aws-dcsgtk.wni.co.jp","","","","","dev-aws-dcsgtk.wni.co.jp","","false"
