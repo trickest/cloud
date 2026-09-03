@@ -87,6 +87,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.231.219.158","35.231.219.158","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.231.219.158|34.118.224.1|35.243.164.7|34.138.13.41|34.148.138.9|10.16.0.2","false"
 "35.231.219.160","localhost","Kong","US","San Francisco","California","","","true"
 "35.231.219.165","*.ukg.net","UKG Inc","US","Weston","Florida","*.ukg.net|ukg.net","","false"

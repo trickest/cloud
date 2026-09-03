@@ -83,6 +83,7 @@ IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternativ
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "35.196.9.149","35.227.104.157","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","35.227.104.157|34.118.224.1|10.142.0.26|34.74.122.50|35.196.9.149|35.237.245.168","false"
 "35.196.9.170","Plesk","Plesk","CH","Schaffhausen","","","","true"
 "35.196.9.126","104.196.18.240","","","","","kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","104.196.18.240|34.118.224.1|10.64.112.2|35.227.98.44|35.229.36.38|35.196.9.126","false"
