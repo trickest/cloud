@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "51.49.88.93","*.eu-south-2.es.amazonaws.com","","","","","*.eu-south-2.es.amazonaws.com","","false"
 "51.49.88.102","kube-apiserver","","","","","b5b1e0b3a5bc81f69b8b0a1776ea6281.gr7.eks-cluster.eu-south-2.api.aws|ip-10-0-188-1.eu-south-2.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","fd08:8200:faf2::1|2a05:d011:cb9:8100:3f16:9949:6214:9a1d|10.0.188.1","false"
 "51.49.88.105","*.eu-south-2.osis.amazonaws.com","","","","","*.eu-south-2.osis.amazonaws.com|*.osis.eu-south-2.vpce.amazonaws.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.224.33.106","www.amazon.it","","","","","www.amazon.it|origin-www.amazon.it|p-yo-www-amazon-it-kalias.amazon.it|amazon.it|p-y3-www-amazon-it-kalias.amazon.it|p-nt-www-amazon-it-kalias.amazon.it","","false"
 "13.224.33.164","www.imagegateway.net","","","","","www.imagegateway.net|www.cig.usa.canon.com|www.cig.canon-europe.com|nbe.imagegateway.net","","false"
 "13.224.33.232","www.audible.com.au","","","","","www.audible.com.au|audible.com.au|apx-security-au.audible.com.au|origin-www.audible.com.au","","false"

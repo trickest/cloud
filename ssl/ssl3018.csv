@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.167.8.197","api-amazondevices-eu.amazon.com","","","","","api-amazondevices-eu.amazon.com|api-amazondevices.amazon.ie|api-amazondevices.amazon.pl|api-amazondevices.amazon.se|api-amazondevices.amazon.co.za|api-amazondevices.amazon.es|api-amazondevices.amazon.sa|api-amazondevices.amazon.com.tr|api-amazondevices.amazon.it|api-amazondevices.amazon.fr|api-amazondevices.amazon.com.be|api-amazondevices.amazon.eg|api-amazondevices.amazon.co.uk|api-amazondevices.amazon.ae|api-amazondevices.amazon.in|api-amazondevices.amazon.nl|api-amazondevices.amazon.de","","false"
 "3.167.8.214","www.amazon.it","","","","","www.amazon.it|origin-www.amazon.it|p-yo-www-amazon-it-kalias.amazon.it|amazon.it|p-y3-www-amazon-it-kalias.amazon.it|p-nt-www-amazon-it-kalias.amazon.it","","false"
 "3.167.8.248","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"

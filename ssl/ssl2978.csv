@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.158.119.119","*.sq01.test.boreas.cloud","","","","","*.sq01.test.boreas.cloud","","false"
 "108.158.119.230","www.amazon.com.br","","","","","www.amazon.com.br|p-y3-www-amazon-com-br-kalias.amazon.com.br|www.amazon.com|origin-www.amazon.com.br|amazon.com|p-nt-www-amazon-com-br-kalias.amazon.com.br|amazon.com.br|p-yo-www-amazon-com-br-kalias.amazon.com.br","","false"
 "108.158.118.198","feature.audible.co.jp","","","","","feature.audible.co.jp","","false"

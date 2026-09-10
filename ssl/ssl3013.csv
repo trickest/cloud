@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.166.136.72","*.secb2b.com","SAMSUNG ELECTRONICS CO,.LTD","KR","","Gyeonggi-do","*.secb2b.com|secb2b.com","","false"
 "3.166.135.240","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
 "3.166.136.78","payeecentral.amazon.com","","","","","payeecentral.amazon.com","","false"

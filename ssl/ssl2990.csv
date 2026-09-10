@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.54.15.46","*.nbc1-test.opentext.cloud","Open Text Corporation","CA","","Ontario","*.nbc1-test.opentext.cloud","","false"
 "16.54.15.30","*.ca-central-1.es.amazonaws.com","","","","","*.ca-central-1.es.amazonaws.com","","false"
 "16.54.15.23","*.c7.airflow.ca-central-1.on.aws","","","","","*.c7.airflow.ca-central-1.on.aws","","false"

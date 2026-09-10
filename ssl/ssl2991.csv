@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.54.69.143","*.bhrlab.net","","","","","*.apps.bhrlab.net|*.bhrlab.net|*.can.apps.bhrlab.net|*.can.int.bhrlab.net|*.int.bhrlab.net|*.neon-carbon.cac1.bhrlab.net|*.neon-carbon2-3-cac1.apps.bhrlab.net|*.neon-carbon2-3-cac1.bhrlab.net|*.neon-carbon2-3-cac1.int.bhrlab.net","","false"
 "16.54.69.150","kube-apiserver","","","","","2b23f286027593c5e65a827df80491b4.gr7.ca-central-1.eks.amazonaws.com|ip-10-0-41-228.ca-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|100.101.210.222|10.0.41.228","false"
 "16.54.69.156","kube-apiserver","","","","","c8f1a31a1fd597ee49f0298bc0f91e51.gr7.ca-central-1.eks.amazonaws.com|ip-10-0-36-91.ca-central-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.100.0.1|172.31.34.149|10.0.36.91","false"

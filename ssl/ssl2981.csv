@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.158.192.21","cuentafan.bancochile.cl","Banco de Chile","CL","Santiago","","cuentafan.bancochile.cl","","false"
 "108.158.192.38","firs-ta-g7g.amazon.com","","","","","firs-ta-g7g.amazon.com","","false"
 "108.158.192.111","*.dhanrajw.com","","","","","*.dhanrajw.com","","false"

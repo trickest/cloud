@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "16.54.216.96","*.execute-api.ca-central-1.amazonaws.com","","","","","*.execute-api.ca-central-1.amazonaws.com","","false"
 "16.54.216.95","staging.synchronizer.scalenexus.ai","","","","","staging.synchronizer.scalenexus.ai","","false"
 "16.54.216.98","test-cac1.janepods.com","","","","","test-cac1.janepods.com|*.test-cac1.janepods.com","","false"

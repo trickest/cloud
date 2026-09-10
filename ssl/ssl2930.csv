@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "15.175.42.249","*.prismaendpoint.alternate.emeraenergy-aws-prd.com","","","","","*.prismaendpoint.alternate.emeraenergy-aws-prd.com|*.graphqlendpoint.alternate.emeraenergy-aws-prd.com","","false"
 "15.175.42.252","alpha.ca.karrotmarket.com","","","","","alpha.ca.karrotmarket.com|*.alpha.ca.karrotmarket.com","","false"
 "15.175.43.7","*.elluciancloud.ca","","","","","*.elluciancloud.ca","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.166.4.231","ddee.amazon.com","","","","","ddee.amazon.com|ddee.amazon.com.br|ddee.amazon.de|ddee.amazon.com.au|ddee.amazon.fr|ddee.amazon.ca|ddee.amazon.es|ddee.amazon.it|ddee.amazon.co.jp|ddee.amazon.co.uk|ddee.amazon.in|ddee.amazon.com.mx","","false"
 "3.166.4.225","vqd-app-na.amazon.com","","","","","vqd-app-na.amazon.com|auth.vq-dev.com","","false"
 "3.166.4.168","apx-security-fe.primevideo.com","","","","","apx-security-fe.primevideo.com","","false"
