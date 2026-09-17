@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.226.79.72","classic.dm.amplience.net","Amplience (UK) Limited","GB","LONDON","","classic.dm.amplience.net|akamai.edge.classic.dm.amplience.net|cloudflare.edge.classic.dm.amplience.net|cloudfront.edge.classic.dm.amplience.net|classic.cdn.media.amplience.net|i1.adis.ws|i1a.adis.ws|i1b.adis.ws|i1c.adis.ws|media.newlookassets.com|media1.newlookassets.com|media2.newlookassets.com|media3.newlookassets.com","","false"
 "13.226.79.193","sirius-soroco-ahs.amazon.com","","","","","sirius-soroco-ahs.amazon.com","","false"
 "13.226.80.133","cdnparap10.paragonrels-dr.com","BLACK KNIGHT IP HOLDING COMPANY, LLC","US","Jacksonville","Florida","cdnparap10.paragonrels-dr.com","","false"
