@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.227.60.27","*.segment.build","","","","","*.segment.build|segment.build","","false"
 "13.227.59.165","www.amazon.es","","","","","amazon.es|www.amazon.es|origin-www.amazon.es|p-nt-www-amazon-es-kalias.amazon.es|p-yo-www-amazon-es-kalias.amazon.es|p-y3-www-amazon-es-kalias.amazon.es","","false"
 "13.227.59.229","shome-insator2.samsung-ihp.com","","","","","shome-insator2.samsung-ihp.com|sspider.samsung-ihp.com|spider.samsung-ihp.com|shome-insator3.samsung-ihp.com","","false"

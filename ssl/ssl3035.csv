@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.224.225.13","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "13.224.226.123","*.rfksrv.com","","","","","*.rfksrv.com","","false"
 "13.224.226.125","*.binance.im","","","","","*.binance.im|binance.im","","false"
