@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.157.227.110","*.samsungospdev.com","SAMSUNG ELECTRONICS CO,.LTD","KR","","Gyeonggi-do","*.samsungospdev.com|samsungospdev.com","","false"
 "108.157.227.97","deploy.itginc.com","VIRTU FINANCIAL LLC","US","New York","New York","deploy.itginc.com|nuget.deploy.itginc.com","","false"
 "108.157.227.118","www.amazon.com.au","","","","","www.amazon.com.au|p-y3-www-amazon-com-au-kalias.amazon.com.au|amazon.com.au|p-yo-www-amazon-com-au-kalias.amazon.com.au|www.amazon.com|origin-www.amazon.com.au|amazon.com|p-nt-www-amazon-com-au-kalias.amazon.com.au","","false"
