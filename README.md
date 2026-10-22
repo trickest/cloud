@@ -24,7 +24,7 @@ The [SSL data](./ssl/) is organized into CSV files, with the following propertie
 
 So what can you do with this data?
 ### Enumerate subdomains of your target domains
-Search for your target's domain names (e.g. `example.com`) and find hits in the `Common Name` and `Subject Alternative Name` fields of the collected certificates. All IP ranges are scanned daily and the dataset gets updated accordingly so you are very likley to find ephemeral hosts before they are taken down.
+Search for your target's domain names (e.g. `example.com`) and find hits in the `Common Name` and `Subject Alternative Name` fields of the collected certificates. All IP ranges are scanned weekly and the dataset gets updated accordingly so you are very likely to find ephemeral hosts before they are taken down.
 
 ### Enumerate domains of your target companies
 Search for your target's company name (e.g. `Example, Inc.`), find hits in the `Organization` field, and explore the associated `Common Name` and `Subject Alternative Name` fields. The results will probably include subdomains of the domains you're familiar with and if you're in luck you might find new root domains expanding the scope.
@@ -32,7 +32,7 @@ Search for your target's company name (e.g. `Example, Inc.`), find hits in the `
 ### Enumerate possible sub-subdomain enumeration target
 If the certificate is issued for a wildcard (e.g. `*.foo.example.com`), chances are there are other subdomains you can find by brute-forcing there. And you know [how effective of this technique](https://twitter.com/trick3st/status/1614974813889794052) can be. Here are some [wordlists](https://github.com/trickest/wordlists/tree/main/inventory/levels) to help you with that!
 
-💡 Note: Remeber to monitor the dataset for daily updates to get notified whenever a new asset comes up!
+💡 Note: Remember to monitor the dataset for weekly updates to get notified whenever a new asset comes up!
 
 ### Perform IP lookups
 Search for an IP address (e.g. `3.122.37.147`) to find host names associated with it, and explore the `Common Name`, `Subject Alternative Name`, and `Organization` fields to gain find more information about that address.
@@ -67,4 +67,4 @@ All contributions/ideas/suggestions are welcome! Feel free to create a new ticke
 ## Build your own workflows
 We believe in the value of tinkering; cookie-cutter solutions rarely cut it. Sign up for a [Trickest](https://trickest.com) demo to customize this workflow to your use case, get access to many more workflows, or build your own workflows from scratch!
 
-[<img src="images/banner.png" />](https://trickest.io/auth/register)
+[<img src="images/banner.png" />](https://trickest.io/register)
