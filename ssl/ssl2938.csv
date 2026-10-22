@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.164.125.132","login.schibsted.com","","","","","login.schibsted.com|*.login.schibsted.fi|*.login.schibsted.dk|login.schibsted.dk|*.login.schibsted.com|login.schibsted.fi|*.payment.schibsted.no|payment.schibsted.no","","false"
 "18.164.126.39","*.segment.build","","","","","*.segment.build|segment.build","","false"
 "18.164.126.246","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.29.69.167","*.ritual.technology","","","","","*.ritual.technology|ritual.technology","","false"
 "100.29.69.169","kube-apiserver","","","","","986dfa525a23a15529190fb8e801d09d.gr7.us-east-1.eks.amazonaws.com|ip-172-16-37-66.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.2.60|172.16.37.66","false"
 "100.29.69.174","kube-apiserver","","","","","7160e3aa6c77d09a2ffa937574c355c5.gr7.us-east-1.eks.amazonaws.com|ip-172-16-98-53.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.105.148.109|172.16.98.53","false"

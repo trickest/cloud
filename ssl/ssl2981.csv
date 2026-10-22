@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.158.165.143","twitchcdn-shadow.net","","","","","twitchcdn-shadow.net|*.twitchcdn-shadow.net","","false"
 "108.158.165.79","*.dmp.tconnect.jp","TOYOTA MOTOR CORPORATION","JP","Toyota-Shi","Aichi","*.dmp.tconnect.jp|dmp.tconnect.jp","","false"
 "108.158.164.121","login.schibsted.com","","","","","login.schibsted.com|*.login.schibsted.fi|*.login.schibsted.dk|login.schibsted.dk|*.login.schibsted.com|login.schibsted.fi|*.payment.schibsted.no|payment.schibsted.no","","false"

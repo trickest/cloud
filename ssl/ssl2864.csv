@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.157.165.177","r.amazon.com","","","","","r.6pm.com|r.amazon.com|r.zappos.com|r.zapposcouture.com|rd.goodreads.com|r.imdb.com|r.woot.com|r.na.primevideo.com|r.audible.ca|r.mturk.com|r.wholefoodsmarket.com|r.365bywholefoods.com|r.pro.imdb.com|r.audible.com|r.audible.com.br","","false"
 "108.157.166.161","dataservice.cxdnext.co.jp","CXD NEXT CO., LTD.","JP","Shibuya-ku","Tokyo","dataservice.cxdnext.co.jp","","false"
 "108.157.167.107","kindle.amazon.com","","","","","kindle.amazon.com|kindle.amazon.in|kindle.amazon.co.uk|kindle.amazon.com.au|kindle.amazon.ca","","false"

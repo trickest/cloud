@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.157.231.107","*.corp.staging.rhinternal.net","","","","","*.corp.staging.rhinternal.net|*.staging.rhinternal.net","","false"
 "108.157.232.26","*.cloudfront.net","","","","","*.cloudfront.net|cloudfront.net","","false"
 "108.157.231.141","kdp-eu.amazon.co.jp","","","","","kdp-eu.amazon.co.jp","","false"

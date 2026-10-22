@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.39.179.73","kube-apiserver","","","","","4606243eef13ed327231c00e21bc0478.yl4.eu-west-3.eks.amazonaws.com|ip-172-16-41-171.eu-west-3.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.1.120|172.16.41.171","false"
 "13.39.179.75","*.altares.com","ALTARES - D & B","FR","","Ile-de-France","*.altares.com|altares.com","","false"
 "13.39.179.84","TRAEFIK DEFAULT CERT","","","","","cf3e47d7e7b81e4549b48b30d9e50b9c.2711fe4599d622350c1295a1a3e15898.traefik.default","","true"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.157.186.80","*.payment.global.rakuten.com","Rakuten Group, Inc.","JP","Setagaya-ku","Tokyo","*.payment.global.rakuten.com","","false"
 "108.157.186.40","*.srv.ygles-test.com","CANON INC.","JP","Ota-Ku","Tokyo","*.srv.ygles-test.com","","false"
 "108.157.186.164","av-eu.amazon.com","","","","","av-eu.amazon.com|web-geo.amazonvideo.com|web-geo.primevideo.com|eu.primevideo.com","","false"

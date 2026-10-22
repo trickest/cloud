@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.157.211.32","www.primevideo.com","","","","","www.primevideo.com","","false"
 "108.157.210.177","*.findawayworld.com","","","","","*.findawayworld.com","","false"
 "108.157.210.179","ams.amazon.com.mx","","","","","ams.amazon.com.mx","","false"
