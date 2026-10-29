@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.160.124.118","stage-pinning-02.secb2b.com","Samsung Electronics","KR","Suwon","Kyungkido","stage-pinning-02.secb2b.com","","false"
 "3.160.124.116","firetvdeviceprofilemanagementservice-na.amazon.com","","","","","firetvdeviceprofilemanagementservice-na.amazon.com","","false"
 "3.160.124.135","payments-sandbox.amazon.com","","","","","payments-sandbox.amazon.com","","false"

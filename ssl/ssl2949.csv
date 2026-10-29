@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.165.129.180","seongju.people.aws.dev","","","","","seongju.people.aws.dev|*.seongju.people.aws.dev","","false"
 "18.165.128.140","info.jees-jlpt.jp","JAPAN EDUCATIONAL EXCHANGES AND SERVICES","JP","","Tokyo","info.jees-jlpt.jp|www.info.jees-jlpt.jp","","false"
 "18.165.128.103","spcentral.amazon.com","","","","","spcentral.amazon.com|spcentral.amazon.in","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "108.156.19.227","d-ktlog.tv-asahi.co.jp","tv asahi corporation","JP","Minato-ku","Tokyo","d-ktlog.tv-asahi.co.jp","","false"
 "108.156.19.242","ip-hoarder.cloudfront.aws.dev","","","","","ip-hoarder.cloudfront.aws.dev|*.ip-hoarder.cloudfront.aws.dev","","false"
 "108.156.19.225","ap.stage.payments.e2ro.com","","","","","ap.stage.payments.e2ro.com","","false"

@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.164.218.138","data.plus.bandainamcoid.com","","","","","data.plus.bandainamcoid.com","","false"
 "18.164.218.112","*.perf.ws.sonos.com","Sonos, Inc.","US","Santa Barbara","California","*.perf.ws.sonos.com|perf.ws.sonos.com","","false"
 "18.164.218.132","cdn.fccc.info","DWANGO Co.,Ltd.","JP","Chuo-ku","Tokyo","cdn.fccc.info","","false"

@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.28.235.126","*.smartabase.com","","","","","*.smartabase.com","","false"
 "100.28.235.127","*.execute-api.us-east-1.amazonaws.com","","","","","*.execute-api.us-east-1.amazonaws.com","","false"
 "100.28.235.130","kube-apiserver","","","","","0ad116d863794c1193c1bd755f8077c7.gr7.us-east-1.eks.amazonaws.com|ip-172-16-106-254.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","10.110.82.1|10.2.124.217|172.16.106.254","false"

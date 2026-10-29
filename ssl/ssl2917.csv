@@ -1,6 +1,7 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "3.166.102.72","www.amazon.fr","","","","","www.amazon.fr|p-nt-www-amazon-fr-kalias.amazon.fr|p-y3-www-amazon-fr-kalias.amazon.fr|amazon.fr|p-yo-www-amazon-fr-kalias.amazon.fr|origin-www.amazon.fr","","false"
 "3.166.102.91","*.perf.ws.sonos.com","Sonos, Inc.","US","Santa Barbara","California","*.perf.ws.sonos.com|perf.ws.sonos.com","","false"
 "3.166.102.78","*.srv.ygles.com","CANON INC.","JP","Ota-Ku","Tokyo","*.srv.ygles.com","","false"
