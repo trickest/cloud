@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.160.228.12","*.samsungknox.com","SAMSUNG ELECTRONICS CO,.LTD","KR","","Gyeonggi-do","*.samsungknox.com|samsungknox.com","","false"
 "18.160.229.14","schlagercdev2.devicewebmanager.com","RemoteLock","US","","CO","","","false"
 "18.160.228.50","*.exactsciences.net","","","","","*.exactsciences.net","","false"

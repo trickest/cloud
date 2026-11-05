@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "52.77.195.214","*.mobavenue.com","","","","","*.mobavenue.com","","false"
 "52.77.195.218","kube-apiserver","","","","","d5aad54ae4accd947fcd393e84206202.yl4.ap-southeast-1.eks.amazonaws.com|ip-172-16-34-173.ap-southeast-1.compute.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.20.0.1|10.0.139.38|172.16.34.173","false"
 "52.77.195.220","data-warehouse-connector.prod-sg.cayuse.com","","","","","data-warehouse-connector.prod-sg.cayuse.com","","false"

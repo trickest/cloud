@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.226.241.135","*.videoamp.com","","","","","*.videoamp.com","","false"
 "13.226.239.96","cdn.gotraffic.net","Bloomberg L.P.","US","New York","New York","cdn.gotraffic.net","","false"
 "13.226.240.126","*.welcomesoftware.com","","","","","*.welcomesoftware.com|*.newscred.com","","false"

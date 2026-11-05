@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.160.17.188","password.amazonworkspaces.com","","","","","password.amazonworkspaces.com","","false"
 "18.160.17.166","*.fifaconnect.org","","","","","*.fifaconnect.org|fifaconnect.org","","false"
 "18.160.17.162","gamma.amcentral.amazon.dev","","","","","gamma.amcentral.amazon.dev","","false"
