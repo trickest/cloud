@@ -67,4 +67,4 @@ All contributions/ideas/suggestions are welcome! Feel free to create a new ticke
 ## Build your own workflows
 We believe in the value of tinkering; cookie-cutter solutions rarely cut it. Sign up for a [Trickest](https://trickest.com) demo to customize this workflow to your use case, get access to many more workflows, or build your own workflows from scratch!
 
-[<img src="images/banner.png" />](https://trickest.io/auth/register)
+[<img src="images/banner.png" />](https://trickest.io/register)
