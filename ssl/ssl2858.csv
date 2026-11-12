@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "13.226.167.211","api-amazondevices-eu.amazon.com","","","","","api-amazondevices-eu.amazon.com|api-amazondevices.amazon.ie|api-amazondevices.amazon.pl|api-amazondevices.amazon.se|api-amazondevices.amazon.co.za|api-amazondevices.amazon.es|api-amazondevices.amazon.sa|api-amazondevices.amazon.com.tr|api-amazondevices.amazon.it|api-amazondevices.amazon.fr|api-amazondevices.amazon.com.be|api-amazondevices.amazon.eg|api-amazondevices.amazon.co.uk|api-amazondevices.amazon.ae|api-amazondevices.amazon.in|api-amazondevices.amazon.nl|api-amazondevices.amazon.de","","false"
 "13.226.167.220","remars.amazon.com","","","","","remars.amazon.com","","false"
 "13.226.167.228","logistics.amazon.ie","","","","","logistics.amazon.ie|origin-logistics.amazon.ie|www.logistics.amazon.ie|app.logistics.amazon.ie","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.160.196.192","photos.amazon.jp","","","","","photos.amazon.jp|photos-internal.aka.amazon.com.au|photos.amazon.co.jp|photos-internal.aka.amazon.co.jp|photos.amazon.com.au","","false"
 "18.160.197.98","*.fanza.jp","Digital Commerce Inc.","JP","Minato-ku","Tokyo","*.fanza.jp|fanza.jp","","false"
 "18.160.197.233","gc-na.amazon.com","","","","","gc-na.amazon.com|auto.navigation.maps.a2z.com","","false"

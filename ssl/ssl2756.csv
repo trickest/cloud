@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.59.169.121","*.c44.airflow.us-east-1.on.aws","","","","","*.c44.airflow.us-east-1.on.aws","","false"
 "100.59.169.122","test.ufunnetwork.com","","","","","test.ufunnetwork.com","","false"
 "100.59.169.128","*.safetydatasolutions.com","","","","","*.safetydatasolutions.com","","false"

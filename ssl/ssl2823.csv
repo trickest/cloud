@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.192.42.92","cdn.gotraffic.net","Bloomberg L.P.","US","New York","New York","cdn.gotraffic.net","","false"
 "54.192.42.170","taxcentral.amazon.com","","","","","taxcentral.amazon.com","","false"
 "54.192.42.132","media.amazonwebservices.com","","","","","media.amazonwebservices.com","","false"

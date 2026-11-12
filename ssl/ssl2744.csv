@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.55.197.13","*.sunnova.com","","","","","*.sunnova.com|sunnova.com","","false"
 "100.55.197.23","*.wave.fusionfamily.com","","","","","*.wave.fusionfamily.com","","false"
 "100.55.197.24","*.frenet.com.br","","","","","*.frenet.com.br|frenet.com.br","","false"

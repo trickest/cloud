@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "54.207.178.149","cell0.gru.prod.atx-engagement.elastic-gumby.ai.aws.dev","","","","","cell0.gru.prod.atx-engagement.elastic-gumby.ai.aws.dev","","false"
 "54.207.178.157","*.minu.co","","","","","*.minu.co","","false"
 "54.207.178.161","seqwebmanager.mxmarquitetura.com.br","","","","","seqemail.mxmarquitetura.com.br|seqwebmanager.mxmarquitetura.com.br","","false"

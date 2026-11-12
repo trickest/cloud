@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.52.121.53","kube-apiserver","","","","","8f89c024af377b230f13c6612fa23b6e.sk1.us-east-1.eks.amazonaws.com|ip-172-16-114-158.ec2.internal|kubernetes|kubernetes.default|kubernetes.default.svc|kubernetes.default.svc.cluster.local","172.24.0.1|10.72.1.15|172.16.114.158","false"
 "100.52.121.55","*.grilledchili.com","","","","","*.grilledchili.com|grilledchili.com","","false"
 "100.52.121.61","*.staging.cloudtekguru.com","","","","","*.staging.cloudtekguru.com","","false"

@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.52.153.242","*.aventiv.splunkcloud.com","Splunk LLC","US","San Francisco","California","*.aventiv.splunkcloud.com|aventiv.splunkcloud.com|*.pvt.aventiv.splunkcloud.com|http-inputs-aventiv.splunkcloud.com|*.http-inputs-aventiv.splunkcloud.com|akamai-inputs-aventiv.splunkcloud.com|*.akamai-inputs-aventiv.splunkcloud.com|http-inputs-ack-aventiv.splunkcloud.com|*.http-inputs-ack-aventiv.splunkcloud.com|http-inputs-firehose-aventiv.splunkcloud.com|*.http-inputs-firehose-aventiv.splunkcloud.com|pvt.aventiv.splunkcloud.com","","false"
 "100.52.153.243","production.seiright.com","","","","","production.seiright.com|*.production.seiright.com","","false"
 "100.52.153.244","*.us-east-1.es.amazonaws.com","","","","","*.us-east-1.es.amazonaws.com|*.cell-01.us-east-1.es.amazonaws.com","","false"

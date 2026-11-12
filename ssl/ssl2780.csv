@@ -1,5 +1,6 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "18.161.39.28","enterprise.audible.com","","","","","enterprise.audible.com|stories.audible.com|learn.audible.com|arya-enterprise-iad.iad.amazon.com.amazon.com|arya-enterprise-iad-iad.iad.proxy.amazon.com|origin-enterprise.audible.com|enterprise-gen.audible.com","","false"
 "18.161.39.25","*.playmmc.com","Scientific Games International, Inc.","US","Alpharetta","GA","*.playmmc.com|playmmc.com","","false"
 "18.161.38.212","gmp.samsungapps.com","SAMSUNG ELECTRONICS CO,.LTD","KR","","Gyeonggi-do","gmp.samsungapps.com|www.gmp.samsungapps.com","","false"

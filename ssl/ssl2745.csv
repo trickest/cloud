@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.55.243.41","*.k8s.healthgrades.zone","","","","","*.k8s.healthgrades.zone|*.healthgrades.net|*.demo-test-east.k8s.aws.healthgrades.zone|*.myvpc.aws.healthgrades.zone|*.support-test-east.k8s.aws.healthgrades.zone|*.healthgrades.com|*.hgweb-test-east.k8s.aws.healthgrades.zone|*.hgw-test.aws.healthgrades.zone|*.ci-test-east.k8s.aws.healthgrades.zone|*.sandbox-test-east.k8s.aws.healthgrades.zone|*.k8s.aws.healthgrades.zone|*.healthgrades.zone|*.team-test-east.k8s.aws.healthgrades.zone|*.aws.healthgrades.zone","","false"
 "100.55.243.42","*.development.raptive.com","","","","","*.development.raptive.com|*.development.raptive.ai|development.cafemedia.com|*.raptive.ai|*.qa.raptive.com|*.development.cafemedia.com|*.qa.cafemedia.com|development.raptive.com","","false"
 "100.55.243.43","*.uwgpsnj.org","","","","","*.uwgpsnj.org","","false"

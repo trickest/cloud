@@ -1,4 +1,5 @@
 IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
+IP Address,Common Name,Organization,Country,Locality,Province,Subject Alternative DNS Name,Subject Alternative IP address,Self-signed
 "100.52.98.68","*.50589.elluciancloud.com","","","","","*.50589.elluciancloud.com","","false"
 "100.52.98.70","ng-f331f472988143efa000f6d56a719980.ecs.us-east-1.on.aws","","","","","ng-f331f472988143efa000f6d56a719980.ecs.us-east-1.on.aws","","false"
 "100.52.98.72","*.xrite.com","","","","","*.xrite.com","","false"
